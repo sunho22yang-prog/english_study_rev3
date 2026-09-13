@@ -1,0 +1,343 @@
+{
+ "week": "2026-W38",
+ "studiedOn": "2026-09-12~13",
+ "label": "9/14~9/18 복습",
+ "phrases": [
+  {
+   "id": "w38-1",
+   "text": "be thinking of ~ing",
+   "meaning": "~할까 생각하고 있다 (아직 확정은 아닌 고민 중)",
+   "note": "of 뒤에는 명사나 동명사(-ing)가 옵니다. \"be thinking about\"과 거의 같게 쓰이지만, of 쪽이 구체적인 선택지를 떠올리는 느낌이에요. 이미 결정했으면 \"I'm going to ~\", 아직 고민 중이면 \"I'm thinking of ~ing\".",
+   "answers": [
+    "That sounds like a good idea.",
+    "How long have you been thinking about it?"
+   ],
+   "examples": [
+    {
+     "text": "I'm thinking of moving to a quieter neighborhood next year.",
+     "tag": "일상",
+     "ko": "내년에 좀 더 조용한 동네로 이사할까 생각하고 있어요."
+    },
+    {
+     "text": "She's thinking of taking a cooking class this fall.",
+     "tag": "일상",
+     "ko": "그녀는 이번 가을에 요리 수업을 들을까 생각하고 있어요."
+    },
+    {
+     "text": "We're thinking of getting a dog, but we haven't decided yet.",
+     "tag": "일상",
+     "ko": "우리는 강아지를 키울까 생각 중인데, 아직 결정은 안 했어요."
+    },
+    {
+     "text": "I'm thinking of taking a few days off after the tape-out to recharge.",
+     "tag": "업무",
+     "ko": "테이프아웃 끝나고 재충전하려고 며칠 휴가 낼까 생각하고 있어요."
+    },
+    {
+     "text": "We're thinking of rerunning the link training test with a longer channel to reproduce the failure.",
+     "tag": "업무",
+     "ko": "실패를 재현하려고 더 긴 채널로 링크 트레이닝 테스트를 다시 돌려볼까 생각하고 있어요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w38-2",
+   "text": "Have you ever tried ~?",
+   "meaning": "~해본 적 있어요? (경험 여부를 묻는 현재완료 표현)",
+   "note": "\"지금까지 살면서 / 일하면서 ~한 적이 있어요?\"라는 누적된 경험을 묻는 뉘앙스예요. tried 뒤에 동명사(-ing)가 오면 \"시도해봤다\", 명사가 오면 \"(그것을) 먹어/해 봤다\"는 의미로 자연스럽게 쓰입니다.",
+   "answers": [
+    "Yes, I have.",
+    "Yes, I've tried it before.",
+    "No, I haven't.",
+    "No, never."
+   ],
+   "examples": [
+    {
+     "text": "Have you ever tried bungee jumping?",
+     "tag": "일상",
+     "ko": "번지점프 해본 적 있어요?"
+    },
+    {
+     "text": "Have you ever tried making pasta from scratch?",
+     "tag": "일상",
+     "ko": "파스타를 처음부터 직접 만들어본 적 있어요?"
+    },
+    {
+     "text": "Have you ever tried meditation to relieve stress?",
+     "tag": "일상",
+     "ko": "스트레스 해소하려고 명상해본 적 있어요?"
+    },
+    {
+     "text": "Have you ever tried using a different protocol analyzer to debug this USB issue?",
+     "tag": "업무",
+     "ko": "이 USB 이슈를 디버깅할 때 다른 프로토콜 분석기를 써본 적 있어요?"
+    },
+    {
+     "text": "Have you ever tried running the regression suite overnight to save time during the day?",
+     "tag": "업무",
+     "ko": "낮 시간을 절약하려고 리그레션 스위트를 밤새 돌려본 적 있어요?"
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w38-3",
+   "text": "take + 기간 + off",
+   "meaning": "~기간 동안 휴가를 내다 / 쉬다",
+   "note": "off 뒤에 work / school을 붙여 더 명확하게 쓸 수 있어요 (take a day off work = 회사를 하루 쉬다). 기간을 특정하지 않을 때는 \"take time off\". 반대로 \"call in sick\"은 아파서 못 나간다고 전화하는, 갑작스러운 결근에 씁니다.",
+   "answers": [
+    "That sounds like a good plan.",
+    "You've earned it."
+   ],
+   "examples": [
+    {
+     "text": "I'm planning to take a week off in December to visit my family.",
+     "tag": "일상",
+     "ko": "12월에 가족을 만나러 일주일 휴가를 낼 계획이에요."
+    },
+    {
+     "text": "She took a few days off to recover from the flu.",
+     "tag": "일상",
+     "ko": "그녀는 독감에서 회복하려고 며칠 휴가를 냈어요."
+    },
+    {
+     "text": "Why don't you take a day off and just relax this weekend?",
+     "tag": "일상",
+     "ko": "이번 주말에 하루 쉬면서 그냥 편히 쉬는 게 어때요?"
+    },
+    {
+     "text": "I'm thinking of taking a few days off after the tape-out to recharge.",
+     "tag": "업무",
+     "ko": "테이프아웃 끝나고 재충전하려고 며칠 휴가 낼까 생각하고 있어요."
+    },
+    {
+     "text": "He took two weeks off right before the chip bring-up started.",
+     "tag": "업무",
+     "ko": "그는 칩 브링업이 시작되기 직전에 2주 휴가를 냈어요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w38-4",
+   "text": "Does 날짜/시간 work for you?",
+   "meaning": "그 시간/날짜 괜찮으세요? (약속 시간을 제안할 때)",
+   "note": "주어가 날짜/시간(3인칭 단수)이기 때문에 Do가 아니라 Does를 씁니다. 동사는 work 그대로예요. 여러 명에게 물을 때는 \"Does ~ work for everyone?\".",
+   "answers": [
+    "That works for me.",
+    "Sure, that works.",
+    "That doesn't work for me. Can we do 2 PM instead?"
+   ],
+   "examples": [
+    {
+     "text": "Does Saturday afternoon work for you?",
+     "tag": "일상",
+     "ko": "토요일 오후 괜찮으세요?"
+    },
+    {
+     "text": "A: Does 3 PM work for you tomorrow? B: Yes, that works for me.",
+     "tag": "일상",
+     "ko": "A: 내일 오후 3시 괜찮으세요? B: 네, 저는 괜찮아요."
+    },
+    {
+     "text": "Does next week work better for you, or is this week okay?",
+     "tag": "일상",
+     "ko": "다음 주가 더 나으세요, 아니면 이번 주도 괜찮으세요?"
+    },
+    {
+     "text": "Does Thursday morning work for you for the PCIe compliance review meeting?",
+     "tag": "업무",
+     "ko": "PCIe 컴플라이언스 리뷰 미팅으로 목요일 오전 괜찮으세요?"
+    },
+    {
+     "text": "Does 2 PM work for everyone to sync up on the USB4 debug status?",
+     "tag": "업무",
+     "ko": "USB4 디버그 상황 공유를 위해 오후 2시가 다들 괜찮으세요?"
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w38-5",
+   "text": "think of A as B",
+   "meaning": "A를 B로 여기다 / 생각하다",
+   "note": "as 뒤에는 명사(구)가 옵니다. \"not just ~\" / \"not ~\"을 붙여 대비시키면 더 자연스러워요. 비슷한 표현으로 regard A as B, see A as B, view A as B가 있고, 수동태로 \"A is thought of as B\"도 씁니다.",
+   "answers": [
+    "That's a good way to put it.",
+    "I never thought of it that way."
+   ],
+   "examples": [
+    {
+     "text": "I think of him as a mentor, not just a colleague.",
+     "tag": "일상",
+     "ko": "저는 그를 동료가 아니라 멘토로 생각해요."
+    },
+    {
+     "text": "Many people think of coffee as a necessity, not a luxury.",
+     "tag": "일상",
+     "ko": "많은 사람들이 커피를 사치품이 아니라 필수품으로 생각해요."
+    },
+    {
+     "text": "She thinks of her dog as a member of the family.",
+     "tag": "일상",
+     "ko": "그녀는 자기 강아지를 가족 구성원으로 생각해요."
+    },
+    {
+     "text": "I think of jitter tolerance testing as the most critical part of PCIe Gen6 validation.",
+     "tag": "업무",
+     "ko": "저는 지터 톨러런스 테스트를 PCIe Gen6 검증에서 가장 중요한 부분이라고 생각해요."
+    },
+    {
+     "text": "We think of this bug as a corner case, not a systemic issue.",
+     "tag": "업무",
+     "ko": "우리는 이 버그를 시스템적인 문제가 아니라 코너 케이스라고 생각해요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w38-6",
+   "text": "wait in line",
+   "meaning": "줄 서서 기다리다",
+   "note": "영국식으로는 \"queue (up)\"이라고 해요. 대상을 붙일 때는 \"wait in line for + 명사\". 새치기하는 건 \"cut in line\"입니다.",
+   "answers": [
+    "How long did you have to wait?",
+    "Sure, I'll hold your spot."
+   ],
+   "examples": [
+    {
+     "text": "We had to wait in line for almost an hour to get into the concert.",
+     "tag": "일상",
+     "ko": "콘서트에 들어가려고 거의 한 시간이나 줄 서서 기다려야 했어요."
+    },
+    {
+     "text": "I hate waiting in line at the grocery store on weekends.",
+     "tag": "일상",
+     "ko": "주말에 마트에서 줄 서서 기다리는 게 너무 싫어요."
+    },
+    {
+     "text": "Can you wait in line for me while I grab a coffee?",
+     "tag": "일상",
+     "ko": "제가 커피 사러 간 동안 줄 좀 대신 서 계실 수 있어요?"
+    },
+    {
+     "text": "My testbench was waiting in line for the shared simulation license.",
+     "tag": "업무",
+     "ko": "제 테스트벤치가 공유 시뮬레이션 라이선스를 기다리고 있었어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w38-7",
+   "text": "Why don't you give it a try?",
+   "meaning": "한번 해보는 게 어때요? (부드러운 권유 · 격려)",
+   "note": "Why don't you ~? = ~하는 게 어때? (제안), give it a try = 한번 해보다. 더 가벼운 말로 \"give it a shot\" / \"give it a go\"도 같은 뜻이에요. 나를 주어로 하면 \"Let me give it a try.\"",
+   "answers": [
+    "Sure, I'll give it a try.",
+    "Maybe I will.",
+    "I'd rather not, but thanks."
+   ],
+   "examples": [
+    {
+     "text": "You've never tried sushi before? Why don't you give it a try?",
+     "tag": "일상",
+     "ko": "초밥 한 번도 안 먹어봤어요? 한번 먹어보는 게 어때요?"
+    },
+    {
+     "text": "A: I'm not sure I can run a marathon. B: Why don't you give it a try? You might surprise yourself.",
+     "tag": "일상",
+     "ko": "A: 마라톤을 뛸 수 있을지 모르겠어요. B: 한번 시도해보는 게 어때요? 스스로 놀랄지도 몰라요."
+    },
+    {
+     "text": "There's a new Italian restaurant downtown. Why don't you give it a try this weekend?",
+     "tag": "일상",
+     "ko": "시내에 새로 생긴 이탈리안 식당이 있어요. 이번 주말에 한번 가보는 게 어때요?"
+    },
+    {
+     "text": "If you're not sure the new debug tool will help, why don't you give it a try on this failing test case?",
+     "tag": "업무",
+     "ko": "새 디버그 툴이 도움이 될지 확신이 안 서면, 이 실패한 테스트 케이스에 한번 써보는 게 어때요?"
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w38-8",
+   "text": "a waste of time",
+   "meaning": "시간 낭비",
+   "note": "\"a waste of + 명사\" 형태로 a waste of money / effort / energy 처럼 응용할 수 있어요. 강조할 때는 a complete waste of time, a total waste of time. 반대 표현은 \"time well spent\"(값지게 쓴 시간).\n\n※ 원본 예문이 전달되지 않아 같은 스타일로 새로 만든 항목입니다.",
+   "answers": [
+    "I couldn't agree more.",
+    "I don't see it that way, actually."
+   ],
+   "examples": [
+    {
+     "text": "That movie was a complete waste of time.",
+     "tag": "일상",
+     "ko": "그 영화는 완전 시간 낭비였어요."
+    },
+    {
+     "text": "Arguing about it any longer is just a waste of time.",
+     "tag": "일상",
+     "ko": "그 문제로 더 다투는 건 그냥 시간 낭비예요."
+    },
+    {
+     "text": "Don't think of it as a waste of time — you learned something from it.",
+     "tag": "일상",
+     "ko": "그걸 시간 낭비라고 생각하지 마세요 — 거기서 뭔가 배웠잖아요."
+    },
+    {
+     "text": "Running the full regression for a one-line RTL change is a waste of time.",
+     "tag": "업무",
+     "ko": "한 줄짜리 RTL 수정 때문에 전체 리그레션을 돌리는 건 시간 낭비예요."
+    },
+    {
+     "text": "Debugging without the protocol analyzer trace turned out to be a waste of time.",
+     "tag": "업무",
+     "ko": "프로토콜 분석기 트레이스 없이 디버깅한 건 결국 시간 낭비였어요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w38-9",
+   "text": "I don't see it that way.",
+   "meaning": "저는 그렇게 생각하지 않아요 / 그렇게 보지 않아요",
+   "note": "상대에게 \"You're wrong\"이라고 정면으로 말하지 않고 부드럽게 반대할 때 쓰는 표현이에요. 뒤에 이유를 바로 붙이면 훨씬 자연스럽습니다. 비슷한 표현: \"I'd look at it differently.\" / \"That's one way to look at it, but ~\"\n\n※ 원본 예문이 전달되지 않아 같은 스타일로 새로 만든 항목입니다.",
+   "answers": [
+    "Fair enough. How do you see it?",
+    "That's a good point."
+   ],
+   "examples": [
+    {
+     "text": "I don't see it that way — I think she was just being honest.",
+     "tag": "일상",
+     "ko": "저는 그렇게 보지 않아요 — 그녀는 그냥 솔직했던 것 같아요."
+    },
+    {
+     "text": "A: This whole trip was a disaster. B: I don't see it that way. We still had fun.",
+     "tag": "일상",
+     "ko": "A: 이번 여행은 완전 엉망이었어. B: 난 그렇게 생각 안 해. 그래도 재밌었잖아."
+    },
+    {
+     "text": "Most people call it luck, but I don't see it that way.",
+     "tag": "일상",
+     "ko": "대부분 그걸 운이라고 하지만, 저는 그렇게 보지 않아요."
+    },
+    {
+     "text": "I don't see it that way — this failure looks like a board issue, not a silicon bug.",
+     "tag": "업무",
+     "ko": "저는 그렇게 보지 않아요 — 이 실패는 실리콘 버그가 아니라 보드 문제로 보여요."
+    },
+    {
+     "text": "You might call this a minor corner case, but I don't see it that way.",
+     "tag": "업무",
+     "ko": "이걸 사소한 코너 케이스라고 하실 수도 있는데, 저는 그렇게 생각하지 않아요."
+    }
+   ],
+   "day": 4
+  }
+ ]
+}

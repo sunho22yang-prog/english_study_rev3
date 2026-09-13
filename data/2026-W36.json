@@ -1,0 +1,475 @@
+{
+ "week": "2026-W36",
+ "studiedOn": "2026-08-30",
+ "label": "8/31~9/4 복습",
+ "phrases": [
+  {
+   "id": "w36-1",
+   "text": "ask someone a question",
+   "meaning": "~에게 질문하다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Can I ask you a question real quick?",
+     "tag": "일상",
+     "ko": "잠깐 뭐 하나 물어봐도 될까?"
+    },
+    {
+     "text": "She asked me a question I couldn't answer.",
+     "tag": "일상",
+     "ko": "그녀가 내가 대답할 수 없는 질문을 했어."
+    },
+    {
+     "text": "Let me ask the design team a question about the PCIe reset sequence before we sign off.",
+     "tag": "업무",
+     "ko": "사인오프하기 전에 PCIe 리셋 시퀀스에 대해 설계팀에 질문해볼게."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p21"
+  },
+  {
+   "id": "w36-2",
+   "text": "Which one do you like better?",
+   "meaning": "어느 것이 더 마음에 들어? (선택을 물을 때 쓰는 표현)",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Which one do you like better, the blue or the black one?",
+     "tag": "일상",
+     "ko": "파란색이랑 검은색 중에 어느 게 더 마음에 들어?"
+    },
+    {
+     "text": "Which one do you like better, pizza or burgers?",
+     "tag": "일상",
+     "ko": "피자랑 버거 중에 어느 게 더 좋아?"
+    },
+    {
+     "text": "Which one do you like better for the USB3 test setup, the older analyzer or the new one?",
+     "tag": "업무",
+     "ko": "USB3 테스트 셋업에는 기존 analyzer랑 새 analyzer 중에 어느 게 더 나아?"
+    }
+   ],
+   "day": 2,
+   "legacyId": "p22"
+  },
+  {
+   "id": "w36-3",
+   "text": "go over one's head",
+   "meaning": "이해되지 않다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "That joke went completely over my head.",
+     "tag": "일상",
+     "ko": "그 농담은 나한테 전혀 이해가 안 됐어."
+    },
+    {
+     "text": "His explanation went over her head.",
+     "tag": "일상",
+     "ko": "그의 설명은 그녀에게 이해되지 않았어."
+    },
+    {
+     "text": "Half of that architecture review went over my head, especially the clocking section.",
+     "tag": "업무",
+     "ko": "그 아키텍처 리뷰 절반은 이해가 안 됐어, 특히 클럭 부분은."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p23"
+  },
+  {
+   "id": "w36-4",
+   "text": "That would be a game-changer",
+   "meaning": "그러면 판도가 완전히 바뀔 거야 (게임체인저가 될 거야)",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "If we could automate this task, it would be a game-changer.",
+     "tag": "일상",
+     "ko": "이 작업을 자동화할 수 있다면 완전히 판도가 바뀔 거야."
+    },
+    {
+     "text": "A four-day work week would be a game-changer for me.",
+     "tag": "일상",
+     "ko": "주 4일 근무는 나한테 완전히 게임체인저일 거야."
+    },
+    {
+     "text": "A reusable UVM testbench for all three interfaces would be a real game-changer for our verification schedule.",
+     "tag": "업무",
+     "ko": "세 인터페이스 모두에 재사용 가능한 UVM 테스트벤치가 있으면 검증 일정에 정말 판도를 바꿀 만한 변화일 거야."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p24"
+  },
+  {
+   "id": "w36-5",
+   "text": "go with",
+   "meaning": "~로 선택하다, ~로 하다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Let's just go with the first option.",
+     "tag": "일상",
+     "ko": "그냥 첫 번째 옵션으로 하자."
+    },
+    {
+     "text": "I think I'll go with the red one.",
+     "tag": "일상",
+     "ko": "빨간 걸로 할까 봐."
+    },
+    {
+     "text": "Let's go with the conservative timing margin for the PCIe Gen5 link.",
+     "tag": "업무",
+     "ko": "PCIe Gen5 링크는 보수적인 타이밍 마진으로 가자."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p25"
+  },
+  {
+   "id": "w36-6",
+   "text": "Solid choice",
+   "meaning": "괜찮은 선택이야, 탄탄한 선택이야",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Solid choice — that restaurant never disappoints.",
+     "tag": "일상",
+     "ko": "좋은 선택이야 — 그 식당은 실망시키는 법이 없어."
+    },
+    {
+     "text": "Solid choice for a laptop, it should last you years.",
+     "tag": "일상",
+     "ko": "노트북으로 탄탄한 선택이네, 몇 년은 거뜬할 거야."
+    },
+    {
+     "text": "Solid choice going with the proven PHY IP instead of the new one for this tapeout.",
+     "tag": "업무",
+     "ko": "이번 테이프아웃엔 새 IP 대신 검증된 PHY IP로 가는 게 탄탄한 선택이야."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p26"
+  },
+  {
+   "id": "w36-7",
+   "text": "Great choice",
+   "meaning": "좋은 선택이야, 잘 골랐어",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Great choice, that movie was amazing.",
+     "tag": "일상",
+     "ko": "잘 골랐어, 그 영화 진짜 좋았어."
+    },
+    {
+     "text": "Great choice on the venue, everyone loved it.",
+     "tag": "일상",
+     "ko": "장소 진짜 잘 골랐어, 다들 좋아했어."
+    },
+    {
+     "text": "Great choice running the regression overnight, we saved a whole day.",
+     "tag": "업무",
+     "ko": "밤새 리그레션 돌린 거 진짜 좋은 선택이었어, 하루를 벌었네."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p27"
+  },
+  {
+   "id": "w36-8",
+   "text": "go on a trip",
+   "meaning": "여행을 가다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "We're going on a trip to Jeju next weekend.",
+     "tag": "일상",
+     "ko": "우리 다음 주말에 제주도로 여행 가."
+    },
+    {
+     "text": "I really need to go on a trip somewhere far.",
+     "tag": "일상",
+     "ko": "어디 멀리 여행 좀 가야 할 것 같아."
+    },
+    {
+     "text": "I'm going on a trip to the fab site next week for the tape-out review.",
+     "tag": "업무",
+     "ko": "다음 주에 테이프아웃 리뷰 때문에 팹 사이트로 출장 가."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p28"
+  },
+  {
+   "id": "w36-9",
+   "text": "I take it back",
+   "meaning": "내가 한 말 취소할게",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I take it back, this place is actually really good.",
+     "tag": "일상",
+     "ko": "내 말 취소, 여기 진짜 괜찮네."
+    },
+    {
+     "text": "Okay, I take it back — you were right.",
+     "tag": "일상",
+     "ko": "알았어, 내 말 취소할게 — 네가 맞았어."
+    },
+    {
+     "text": "I take it back, the Ethernet PHY isn't the bottleneck, it's the MAC layer.",
+     "tag": "업무",
+     "ko": "내 말 취소, Ethernet PHY가 병목이 아니라 MAC 레이어였어."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p29"
+  },
+  {
+   "id": "w36-10",
+   "text": "Too bad + 주어 + 동사",
+   "meaning": "~해서 안타깝다, 아쉽다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Too bad you couldn't make it to the party.",
+     "tag": "일상",
+     "ko": "네가 파티에 못 와서 아쉬웠어."
+    },
+    {
+     "text": "Too bad it's raining today, we could've gone hiking.",
+     "tag": "일상",
+     "ko": "오늘 비 와서 아쉽다, 하이킹 갈 수 있었을 텐데."
+    },
+    {
+     "text": "Too bad we didn't catch that timing violation before the tapeout.",
+     "tag": "업무",
+     "ko": "테이프아웃 전에 그 타이밍 위반을 못 잡아서 아쉬워."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p30"
+  },
+  {
+   "id": "w36-11",
+   "text": "start ~ing",
+   "meaning": "~하기 시작하다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I should start eating healthier.",
+     "tag": "일상",
+     "ko": "나 좀 더 건강하게 먹기 시작해야겠어."
+    },
+    {
+     "text": "She started learning Spanish last month.",
+     "tag": "일상",
+     "ko": "그녀는 지난달에 스페인어를 배우기 시작했어."
+    },
+    {
+     "text": "We should start running the compliance tests earlier in the schedule.",
+     "tag": "업무",
+     "ko": "컴플라이언스 테스트를 일정상 더 일찍 시작해야 할 것 같아."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p31"
+  },
+  {
+   "id": "w36-12",
+   "text": "notice someone ~ing",
+   "meaning": "~가 ~하는 것을 알아차리다, 발견하다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I noticed him staring at his phone the whole time.",
+     "tag": "일상",
+     "ko": "걔가 내내 폰만 보고 있는 걸 알아챘어."
+    },
+    {
+     "text": "Did you notice her smiling the whole meeting?",
+     "tag": "일상",
+     "ko": "그녀가 회의 내내 웃고 있던 거 눈치챘어?"
+    },
+    {
+     "text": "I noticed the simulator throwing an odd warning during the reset sequence.",
+     "tag": "업무",
+     "ko": "리셋 시퀀스 중에 시뮬레이터가 이상한 경고를 내는 걸 발견했어."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p32"
+  },
+  {
+   "id": "w36-13",
+   "text": "leave + 목적어 + 형용사",
+   "meaning": "~을 ~한 상태로 두다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Please leave the door open.",
+     "tag": "일상",
+     "ko": "문 열어 둔 상태로 놔둬."
+    },
+    {
+     "text": "Don't leave the milk out on the counter.",
+     "tag": "일상",
+     "ko": "우유를 카운터에 꺼내 둔 채로 두지 마."
+    },
+    {
+     "text": "Let's leave this register configurable for now until the spec is finalized.",
+     "tag": "업무",
+     "ko": "스펙이 확정될 때까지 이 레지스터는 일단 설정 가능한 상태로 둡시다."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p33"
+  },
+  {
+   "id": "w36-14",
+   "text": "so + 주어 + can + 동사원형",
+   "meaning": "~가 ~할 수 있도록",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I left early so I could catch the train.",
+     "tag": "일상",
+     "ko": "기차를 탈 수 있도록 일찍 나왔어."
+    },
+    {
+     "text": "Speak up so everyone can hear you.",
+     "tag": "일상",
+     "ko": "다들 들을 수 있도록 크게 말해."
+    },
+    {
+     "text": "Let's log the full transaction trace so we can debug this link-training failure.",
+     "tag": "업무",
+     "ko": "이 링크 트레이닝 실패를 디버깅할 수 있도록 전체 트랜잭션 트레이스를 로깅하자."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p34"
+  },
+  {
+   "id": "w36-15",
+   "text": "Figure + 주어 + 동사",
+   "meaning": "~라고 생각하다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I figured you'd say that.",
+     "tag": "일상",
+     "ko": "네가 그렇게 말할 거라고 생각했어."
+    },
+    {
+     "text": "I figure it's not a big deal.",
+     "tag": "일상",
+     "ko": "그거 별일 아니라고 생각해."
+    },
+    {
+     "text": "I figure the root cause is a clock domain crossing issue.",
+     "tag": "업무",
+     "ko": "원인이 클럭 도메인 크로싱 문제라고 생각해."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p35"
+  },
+  {
+   "id": "w36-16",
+   "text": "might as well + 동사원형",
+   "meaning": "~하는 게 낫다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "We're already here, we might as well stay for dinner.",
+     "tag": "일상",
+     "ko": "이왕 온 김에 저녁까지 먹고 가는 게 낫겠어."
+    },
+    {
+     "text": "You might as well ask him directly.",
+     "tag": "일상",
+     "ko": "그냥 걔한테 직접 물어보는 게 낫겠어."
+    },
+    {
+     "text": "We might as well rerun the full regression since we changed the RTL anyway.",
+     "tag": "업무",
+     "ko": "어차피 RTL을 바꿨으니 전체 리그레션을 다시 도는 게 낫겠어."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p36"
+  },
+  {
+   "id": "w36-17",
+   "text": "walk away",
+   "meaning": "걸어가다, 떠나다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "He just walked away without saying a word.",
+     "tag": "일상",
+     "ko": "걔는 한마디도 안 하고 그냥 가버렸어."
+    },
+    {
+     "text": "Sometimes it's better to just walk away from an argument.",
+     "tag": "일상",
+     "ko": "가끔은 논쟁에서 그냥 물러나는 게 나아."
+    },
+    {
+     "text": "I had to walk away from my desk mid-debug, so I saved the waveform first.",
+     "tag": "업무",
+     "ko": "디버깅 중에 자리를 비워야 해서 waveform부터 저장해뒀어."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p37"
+  },
+  {
+   "id": "w36-18",
+   "text": "come up with",
+   "meaning": "~을 생각해 내다, 떠올리다",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "We need to come up with a solution to this problem.",
+     "tag": "일상",
+     "ko": "우리는 이 문제에 대한 해결책을 생각해 내야 해."
+    },
+    {
+     "text": "She came up with a great idea for the party.",
+     "tag": "일상",
+     "ko": "그녀가 파티에 대한 좋은 아이디어를 떠올렸어."
+    },
+    {
+     "text": "We need to come up with a workaround for this PCIe compliance failure before the deadline.",
+     "tag": "업무",
+     "ko": "마감 전에 이 PCIe 컴플라이언스 실패에 대한 우회 방법을 생각해 내야 해."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p38"
+  }
+ ]
+}

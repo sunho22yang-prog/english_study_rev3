@@ -1,0 +1,527 @@
+{
+ "week": "2026-W35",
+ "studiedOn": "2026-08-22~23",
+ "label": "8/24~8/28 복습",
+ "phrases": [
+  {
+   "id": "w35-1",
+   "text": "I've ever had",
+   "meaning": "지금까지 겪어본 것 중에서 (최고/최악)라는 뜻으로, 최상급 뒤에 붙여 써요.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "This is the best coffee I've ever had.",
+     "tag": "일상",
+     "ko": "이건 내가 지금까지 마셔본 커피 중에 최고야."
+    },
+    {
+     "text": "That was the worst flight I've ever had.",
+     "tag": "일상",
+     "ko": "그건 내가 지금까지 겪어본 것 중 최악의 비행이었어."
+    },
+    {
+     "text": "This is the trickiest PCIe link-training bug I've ever had to debug.",
+     "tag": "업무",
+     "ko": "이건 내가 지금까지 디버깅해본 것 중 가장 까다로운 PCIe 링크 트레이닝 버그야."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p1"
+  },
+  {
+   "id": "w35-2",
+   "text": "I have no idea how she solved that problem.",
+   "meaning": "그녀가 그 문제를 어떻게 풀었는지 전혀 모르겠다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I have no idea how he fixed the printer so fast.",
+     "tag": "일상",
+     "ko": "그가 어떻게 그렇게 빨리 프린터를 고쳤는지 전혀 모르겠어."
+    },
+    {
+     "text": "I have no idea how they found this place.",
+     "tag": "일상",
+     "ko": "그들이 이곳을 어떻게 찾았는지 전혀 모르겠어."
+    },
+    {
+     "text": "I have no idea how he root-caused that USB enumeration failure so quickly.",
+     "tag": "업무",
+     "ko": "그가 그 USB 열거(enumeration) 실패의 근본 원인을 어떻게 그렇게 빨리 찾아냈는지 전혀 모르겠어."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p2"
+  },
+  {
+   "id": "w35-3",
+   "text": "turn out",
+   "meaning": "결국 ~로 밝혀지다, 일이 ~하게 되다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Everything turned out fine in the end.",
+     "tag": "일상",
+     "ko": "결국 모든 게 잘 풀렸어."
+    },
+    {
+     "text": "It turned out that she was right all along.",
+     "tag": "일상",
+     "ko": "결국 그녀가 계속 옳았던 걸로 밝혀졌어."
+    },
+    {
+     "text": "It turned out the Ethernet PHY timing violation was caused by a testbench clock skew, not the RTL.",
+     "tag": "업무",
+     "ko": "결국 이더넷 PHY 타이밍 위반은 RTL이 아니라 테스트벤치 클럭 스큐 때문인 걸로 밝혀졌어."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p3"
+  },
+  {
+   "id": "w35-4",
+   "text": "When was the last time...?",
+   "meaning": "마지막으로 ~한 게 언제였어?",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "When was the last time you went to the movies?",
+     "tag": "일상",
+     "ko": "마지막으로 영화 보러 간 게 언제였어?"
+    },
+    {
+     "text": "When was the last time you called your parents?",
+     "tag": "일상",
+     "ko": "마지막으로 부모님께 전화드린 게 언제였어?"
+    },
+    {
+     "text": "When was the last time you reran regression after the PCIe Gen5 equalization fix?",
+     "tag": "업무",
+     "ko": "PCIe Gen5 이퀄라이제이션 수정 후에 마지막으로 리그레션을 다시 돌린 게 언제였어?"
+    }
+   ],
+   "day": 4,
+   "legacyId": "p4"
+  },
+  {
+   "id": "w35-5",
+   "text": "I don't feel like going out tonight.",
+   "meaning": "오늘 밤엔 나가고 싶은 기분이 아니다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I don't feel like cooking tonight, let's just order in.",
+     "tag": "일상",
+     "ko": "오늘 밤엔 요리하고 싶은 기분이 아니야, 그냥 시켜 먹자."
+    },
+    {
+     "text": "She didn't feel like talking about it, so I let it go.",
+     "tag": "일상",
+     "ko": "그녀가 그 얘기를 하고 싶어하지 않는 것 같아서 그냥 넘어갔어."
+    },
+    {
+     "text": "I don't feel like closing this ticket until the USB3 compliance test actually passes.",
+     "tag": "업무",
+     "ko": "USB3 컴플라이언스 테스트가 실제로 통과할 때까지는 이 티켓을 닫고 싶은 기분이 아니야."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p5"
+  },
+  {
+   "id": "w35-6",
+   "text": "clear up",
+   "meaning": "(증상이) 나아지다, 낫다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "My cold should clear up in a couple of days.",
+     "tag": "일상",
+     "ko": "감기는 며칠 지나면 나을 거야."
+    },
+    {
+     "text": "The rash cleared up after I used the cream.",
+     "tag": "일상",
+     "ko": "크림을 바른 후에 발진이 가라앉았어."
+    },
+    {
+     "text": "The link-up failures cleared up once we updated the PCIe LTSSM timeout value.",
+     "tag": "업무",
+     "ko": "PCIe LTSSM 타임아웃 값을 업데이트하고 나니 링크업 실패가 해결됐어."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p6"
+  },
+  {
+   "id": "w35-7",
+   "text": "Can I get you a cup of coffee?",
+   "meaning": "커피 한 잔 갖다 드릴까요? (무언가를 권할 때)",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Can I get you anything from the kitchen?",
+     "tag": "일상",
+     "ko": "주방에서 뭐 좀 가져다 드릴까요?"
+    },
+    {
+     "text": "Can I get you a refill before I sit down?",
+     "tag": "일상",
+     "ko": "제가 앉기 전에 리필해드릴까요?"
+    },
+    {
+     "text": "Can I get you the latest coverage report before the sign-off review?",
+     "tag": "업무",
+     "ko": "사인오프 리뷰 전에 최신 커버리지 리포트 갖다 드릴까요?"
+    }
+   ],
+   "day": 3,
+   "legacyId": "p7"
+  },
+  {
+   "id": "w35-8",
+   "text": "Compared to last year",
+   "meaning": "작년과 비교하면",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Compared to last year, sales have doubled.",
+     "tag": "일상",
+     "ko": "작년과 비교하면 매출이 두 배가 됐어."
+    },
+    {
+     "text": "Compared to last year, it's been a much colder winter.",
+     "tag": "일상",
+     "ko": "작년과 비교하면 이번 겨울은 훨씬 추워."
+    },
+    {
+     "text": "Compared to last year, our PCIe verification closure rate has improved a lot.",
+     "tag": "업무",
+     "ko": "작년과 비교하면 우리 PCIe 검증 종료율이 많이 좋아졌어."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p8"
+  },
+  {
+   "id": "w35-9",
+   "text": "Compared to others",
+   "meaning": "다른 사람들과 비교하면",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Compared to others on the team, he's pretty quiet.",
+     "tag": "일상",
+     "ko": "팀의 다른 사람들과 비교하면 그는 꽤 조용한 편이야."
+    },
+    {
+     "text": "Compared to others my age, I started working late.",
+     "tag": "일상",
+     "ko": "내 또래의 다른 사람들과 비교하면 나는 일을 늦게 시작한 편이야."
+    },
+    {
+     "text": "Compared to others on the team, he's spent the most time on the USB retimer testbench.",
+     "tag": "업무",
+     "ko": "팀의 다른 사람들과 비교하면 그가 USB 리타이머 테스트벤치에 가장 많은 시간을 썼어."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p9"
+  },
+  {
+   "id": "w35-10",
+   "text": "Compared to others, I don't have it that bad.",
+   "meaning": "남들과 비교하면 나는 그렇게 힘든 편은 아니다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Compared to others, I don't have it that bad.",
+     "tag": "일상",
+     "ko": "다른 사람들과 비교하면 나는 그렇게 힘든 편은 아니야."
+    },
+    {
+     "text": "Compared to what she's dealing with, I really don't have it that bad.",
+     "tag": "일상",
+     "ko": "그녀가 겪고 있는 일에 비하면 나는 정말 힘든 편이 아니야."
+    },
+    {
+     "text": "Compared to others still chasing Ethernet MAC bugs, I don't have it that bad — my PCIe block is almost signed off.",
+     "tag": "업무",
+     "ko": "아직도 이더넷 MAC 버그를 쫓고 있는 다른 사람들에 비하면 나는 힘든 편이 아니야 — 내 PCIe 블록은 거의 사인오프 단계야."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p10"
+  },
+  {
+   "id": "w35-11",
+   "text": "It'll all be over soon.",
+   "meaning": "곧 다 끝날 거야. (힘든 상황을 위로할 때)",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Don't worry, it'll all be over soon.",
+     "tag": "일상",
+     "ko": "걱정하지 마, 곧 다 끝날 거야."
+    },
+    {
+     "text": "Just hang in there — it'll all be over soon.",
+     "tag": "일상",
+     "ko": "조금만 버텨 — 곧 다 끝날 거야."
+    },
+    {
+     "text": "This regression run will all be over soon, then we can finally sign off the block.",
+     "tag": "업무",
+     "ko": "이 리그레션 실행도 곧 다 끝날 거고, 그러면 드디어 블록을 사인오프할 수 있어."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p11"
+  },
+  {
+   "id": "w35-12",
+   "text": "All of this will be more than worth it.",
+   "meaning": "이 모든 게 그럴 만한 가치가 있을 거야. (충분히 보상될 거야)",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Trust me, all of this will be more than worth it in the end.",
+     "tag": "일상",
+     "ko": "날 믿어, 결국 이 모든 게 충분히 가치 있을 거야."
+    },
+    {
+     "text": "If we land this deal, all of this will be more than worth it.",
+     "tag": "일상",
+     "ko": "이 계약을 따내면 이 모든 게 충분히 가치 있을 거야."
+    },
+    {
+     "text": "If this USB4 verification effort gets the silicon right the first time, all of this will be more than worth it.",
+     "tag": "업무",
+     "ko": "이 USB4 검증 작업 덕분에 실리콘이 한 번에 제대로 나온다면, 이 모든 게 충분히 가치 있을 거야."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p12"
+  },
+  {
+   "id": "w35-13",
+   "text": "I'm having trouble deciding",
+   "meaning": "결정하는 데 어려움을 겪고 있다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I'm having trouble deciding what to order.",
+     "tag": "일상",
+     "ko": "뭘 주문할지 결정하는 데 어려움을 겪고 있어."
+    },
+    {
+     "text": "I'm having trouble deciding which apartment to rent.",
+     "tag": "일상",
+     "ko": "어느 아파트를 임대할지 결정하는 데 어려움을 겪고 있어."
+    },
+    {
+     "text": "I'm having trouble deciding whether to re-spin the PCIe PHY or work around it in firmware.",
+     "tag": "업무",
+     "ko": "PCIe PHY를 리스핀할지 펌웨어로 우회할지 결정하는 데 어려움을 겪고 있어."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p13"
+  },
+  {
+   "id": "w35-14",
+   "text": "I've been thinking about",
+   "meaning": "~에 대해 계속 생각해오고 있다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I've been thinking about taking a trip next month.",
+     "tag": "일상",
+     "ko": "다음 달에 여행 가는 걸 계속 생각하고 있어."
+    },
+    {
+     "text": "I've been thinking about switching teams.",
+     "tag": "일상",
+     "ko": "팀을 옮기는 걸 계속 생각하고 있어."
+    },
+    {
+     "text": "I've been thinking about how we could shorten the USB compliance test cycle.",
+     "tag": "업무",
+     "ko": "USB 컴플라이언스 테스트 주기를 어떻게 단축할 수 있을지 계속 생각하고 있어."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p14"
+  },
+  {
+   "id": "w35-15",
+   "text": "By the time + 주어 + 동사",
+   "meaning": "~할 때쯤이면, ~하기 전에",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "By the time we arrived, the meeting had already started.",
+     "tag": "일상",
+     "ko": "우리가 도착했을 때쯤엔 회의가 이미 시작된 상태였어."
+    },
+    {
+     "text": "By the time you read this, I'll be on a plane.",
+     "tag": "일상",
+     "ko": "네가 이걸 읽을 때쯤이면 난 비행기 안일 거야."
+    },
+    {
+     "text": "By the time the silicon comes back, we need the PCIe testbench fully regression-clean.",
+     "tag": "업무",
+     "ko": "실리콘이 돌아올 때쯤이면 PCIe 테스트벤치가 리그레션을 완전히 통과한 상태여야 해."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p15"
+  },
+  {
+   "id": "w35-16",
+   "text": "What do you feel like ~ing?",
+   "meaning": "뭐 하고 싶어? (기분/의향을 물을 때)",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "What do you feel like eating tonight?",
+     "tag": "일상",
+     "ko": "오늘 밤엔 뭐 먹고 싶어?"
+    },
+    {
+     "text": "What do you feel like doing this weekend?",
+     "tag": "일상",
+     "ko": "이번 주말엔 뭐 하고 싶어?"
+    },
+    {
+     "text": "What do you feel like tackling first — the USB3 bug or the Ethernet coverage gap?",
+     "tag": "업무",
+     "ko": "뭐부터 먼저 다루고 싶어 — USB3 버그, 아니면 이더넷 커버리지 갭?"
+    }
+   ],
+   "day": 4,
+   "legacyId": "p16"
+  },
+  {
+   "id": "w35-17",
+   "text": "I feel like going",
+   "meaning": "~하고 싶은 기분이다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "I feel like going for a walk.",
+     "tag": "일상",
+     "ko": "산책하러 가고 싶은 기분이야."
+    },
+    {
+     "text": "I feel like going home early today.",
+     "tag": "일상",
+     "ko": "오늘은 일찍 집에 가고 싶은 기분이야."
+    },
+    {
+     "text": "I feel like going through the waveform one more time before we close this bug.",
+     "tag": "업무",
+     "ko": "이 버그를 종료하기 전에 파형을 한 번 더 살펴보고 싶은 기분이야."
+    }
+   ],
+   "day": 1,
+   "legacyId": "p17"
+  },
+  {
+   "id": "w35-18",
+   "text": "end up ~ing",
+   "meaning": "결국 ~하게 되다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "We ended up staying home instead of going out.",
+     "tag": "일상",
+     "ko": "우리는 결국 나가지 않고 집에 있게 됐어."
+    },
+    {
+     "text": "He ended up apologizing first.",
+     "tag": "일상",
+     "ko": "그는 결국 먼저 사과하게 됐어."
+    },
+    {
+     "text": "We ended up re-running the whole regression suite because of that clock-domain-crossing fix.",
+     "tag": "업무",
+     "ko": "그 클럭 도메인 크로싱 수정 때문에 결국 전체 리그레션 스위트를 다시 돌리게 됐어."
+    }
+   ],
+   "day": 2,
+   "legacyId": "p18"
+  },
+  {
+   "id": "w35-19",
+   "text": "Too much beautiful scenery to capture in one photo.",
+   "meaning": "너무 아름다운 풍경을 한 장의 사진에 담을 수 없다.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "Too much beautiful scenery to capture in one photo.",
+     "tag": "일상",
+     "ko": "너무 아름다운 풍경을 한 장의 사진에 담을 수 없다."
+    },
+    {
+     "text": "There was too much going on at the festival to capture in one video.",
+     "tag": "일상",
+     "ko": "축제에서 너무 많은 일이 있어서 한 영상에 담을 수 없었어."
+    },
+    {
+     "text": "There's too much coverage data to capture in a single dashboard, so we split it by interface.",
+     "tag": "업무",
+     "ko": "커버리지 데이터가 너무 많아서 대시보드 하나에 담을 수 없어서, 인터페이스별로 나눴어."
+    }
+   ],
+   "day": 3,
+   "legacyId": "p19"
+  },
+  {
+   "id": "w35-20",
+   "text": "That explains why + 주어 + 동사",
+   "meaning": "그래서 ~한 거구나, 그게 ~한 이유를 설명해주네.",
+   "note": "",
+   "answers": [],
+   "examples": [
+    {
+     "text": "That explains why she was so quiet today.",
+     "tag": "일상",
+     "ko": "그래서 그녀가 오늘 그렇게 조용했던 거구나."
+    },
+    {
+     "text": "That explains why the door was locked.",
+     "tag": "일상",
+     "ko": "그래서 문이 잠겨 있었던 거구나."
+    },
+    {
+     "text": "That explains why the link kept retraining — the reference clock was out of spec.",
+     "tag": "업무",
+     "ko": "그래서 링크가 계속 재훈련(retrain)됐던 거구나 — 레퍼런스 클럭이 스펙을 벗어나 있었어."
+    }
+   ],
+   "day": 4,
+   "legacyId": "p20"
+  }
+ ]
+}
