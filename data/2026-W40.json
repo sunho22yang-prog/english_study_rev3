@@ -1,0 +1,262 @@
+{
+ "week": "2026-W40",
+ "studiedOn": "2026-09-26~27",
+ "label": "9/28~10/2 복습",
+ "phrases": [
+  {
+   "id": "w40-1",
+   "text": "could do with ~",
+   "meaning": "~가 있으면 좋겠다, ~가 좀 필요하다",
+   "note": "\"I could do with ~\"는 \"I need ~\"보다 훨씬 덜 직설적인, 부드럽게 아쉬움을 말하는 표현이에요. 사람뿐 아니라 사물도 주어가 됩니다 — \"This room could do with a cleaning(이 방 청소 좀 해야겠다)\". 영국식에서 특히 자주 씁니다.",
+   "answers": ["Same here. Let's take a break.", "I'll grab you one."],
+   "examples": [
+    { "text": "I could do with a cup of coffee right now.", "tag": "일상", "ko": "지금 커피 한 잔 있으면 딱 좋겠어요." },
+    { "text": "You look tired — you could do with a good night's sleep.", "tag": "일상", "ko": "피곤해 보여요 — 푹 자는 게 필요하겠어요." },
+    { "text": "This room could do with a bit of cleaning.", "tag": "일상", "ko": "이 방은 청소를 좀 해야겠어요." },
+    { "text": "This test report could do with a summary section at the top.", "tag": "업무", "ko": "이 테스트 리포트는 맨 위에 요약 섹션이 있으면 좋겠어요." },
+    { "text": "We could do with one more protocol analyzer for the Gen6 bring-up.", "tag": "업무", "ko": "Gen6 브링업에 프로토콜 분석기가 하나 더 있으면 좋겠어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w40-2",
+   "text": "I thought maybe we could + 동사원형",
+   "meaning": "우리 한번 ~하면 어떨까 싶었어요",
+   "note": "과거형 thought를 쓰면 제안이 훨씬 부드러워져요 — \"이렇게 하자\"가 아니라 \"이런 생각이 들었는데 어때?\"라는 뉘앙스입니다. 회의에서 다른 의견을 조심스럽게 낼 때 쓰기 좋아요.",
+   "answers": ["That could work.", "Let's try that."],
+   "examples": [
+    { "text": "I thought maybe we could grab dinner after the movie.", "tag": "일상", "ko": "영화 끝나고 저녁 먹으면 어떨까 싶었어요." },
+    { "text": "I thought maybe we could split the cost.", "tag": "일상", "ko": "비용을 나눠 내면 어떨까 싶었어요." },
+    { "text": "I thought maybe we could leave a little earlier to beat the traffic.", "tag": "일상", "ko": "차 막히기 전에 좀 일찍 나가면 어떨까 싶었어요." },
+    { "text": "I thought maybe we could try increasing the TX signal levels.", "tag": "업무", "ko": "TX 신호 레벨을 높여보면 어떨까 싶었어요." },
+    { "text": "I thought maybe we could run the sweep overnight instead of during the day.", "tag": "업무", "ko": "낮 대신 밤에 스윕을 돌리면 어떨까 싶었어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w40-3",
+   "text": "Have you heard of ~?",
+   "meaning": "~에 대해 들어본 적 있어요?",
+   "note": "of 뒤에는 명사가 옵니다 — 그것의 존재 자체를 아는지 묻는 표현이에요. \"Have you heard about ~?\"는 그 일에 관한 소식·자세한 내용을 들었는지 묻는 쪽입니다. 이미 배운 \"Have you ever tried ~?(W38)\"가 직접 해봤는지를 묻는다면, 이건 아는지 여부를 묻습니다.",
+   "answers": ["Yes, I've heard of it.", "No, I haven't. What is it?"],
+   "examples": [
+    { "text": "Have you heard of that new bakery near the station?", "tag": "일상", "ko": "역 근처 새로 생긴 빵집 들어본 적 있어요?" },
+    { "text": "Have you heard of this author before?", "tag": "일상", "ko": "이 작가 전에 들어본 적 있어요?" },
+    { "text": "I'd never heard of that band until last week.", "tag": "일상", "ko": "지난주까지 그 밴드는 들어본 적도 없었어요." },
+    { "text": "Have you heard of the updated compliance test patterns for PCIe Gen6?", "tag": "업무", "ko": "PCIe Gen6용으로 업데이트된 컴플라이언스 테스트 패턴 들어보셨어요?" },
+    { "text": "Have you heard of the errata on this USB4 retimer?", "tag": "업무", "ko": "이 USB4 리타이머 에라타 들어보셨어요?" }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w40-4",
+   "text": "try out",
+   "meaning": "시도해 보다, 한번 써 보다",
+   "note": "새로운 것을 실제로 한번 써보거나 해보는 걸 말해요. 목적어가 대명사면 사이에 넣습니다 — \"try it out\"(O), \"try out it\"(X). 팀에 지원한다는 뜻으로 \"try out for the team\"도 씁니다.",
+   "answers": ["How was it?", "Let me know how it goes."],
+   "examples": [
+    { "text": "I've never done yoga before, but I'd love to try it out.", "tag": "일상", "ko": "요가는 한 번도 안 해봤는데, 한번 해보고 싶어요." },
+    { "text": "We tried out a new brunch place last Sunday.", "tag": "일상", "ko": "지난 일요일에 새 브런치 집을 한번 가봤어요." },
+    { "text": "Try out the app for a week before you pay for it.", "tag": "일상", "ko": "결제하기 전에 앱을 일주일 써보세요." },
+    { "text": "Let's try out the new equalization preset on the long channel.", "tag": "업무", "ko": "긴 채널에서 새 이퀄라이제이션 프리셋을 한번 써봅시다." },
+    { "text": "I want to try out the updated firmware before the compliance run.", "tag": "업무", "ko": "컴플라이언스 돌리기 전에 업데이트된 펌웨어를 한번 써보고 싶어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w40-5",
+   "text": "make sense",
+   "meaning": "말이 되다, 이해가 되다",
+   "note": "주어는 사물이나 설명입니다 — \"That makes sense(그거 말 되네요)\". 내가 이해했다는 뜻으로 \"I make sense\"라고 하면 안 돼요. 이해가 안 되면 \"That doesn't make sense\". 설명한 뒤 \"Does that make sense?\"로 확인하는 것도 아주 자연스럽습니다.",
+   "answers": ["That makes sense.", "Sorry, that doesn't make sense to me — can you explain again?"],
+   "examples": [
+    { "text": "Now that you explain it, it makes sense.", "tag": "일상", "ko": "그렇게 설명해주니 이제 이해가 되네요." },
+    { "text": "It doesn't make sense to drive when the subway is faster.", "tag": "일상", "ko": "지하철이 더 빠른데 운전하는 건 말이 안 돼요." },
+    { "text": "Does that make sense, or should I go over it again?", "tag": "일상", "ko": "이해되셨어요, 아니면 다시 설명할까요?" },
+    { "text": "It makes sense that the error rate went up after we lengthened the channel.", "tag": "업무", "ko": "채널을 늘린 뒤 에러율이 올라간 건 말이 되죠." },
+    { "text": "The waveform doesn't make sense unless the reference clock is off.", "tag": "업무", "ko": "레퍼런스 클럭이 틀어진 게 아니라면 이 파형은 말이 안 돼요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w40-6",
+   "text": "get ~ done",
+   "meaning": "~을 끝내다, 완료하다",
+   "note": "\"get + 목적어 + done\" 순서예요 — 목적어가 과거분사 앞에 옵니다. finish보다 구어적이고 \"해치우다\"에 가까운 느낌이에요. 남에게 시켜서 되게 한다는 뜻도 됩니다 — \"I got my car fixed(차를 수리 맡겼다)\".",
+   "answers": ["When can you get it done?", "I'll get it done by tomorrow."],
+   "examples": [
+    { "text": "I want to get the laundry done before lunch.", "tag": "일상", "ko": "점심 전에 빨래를 끝내고 싶어요." },
+    { "text": "Let's just get it done and go home.", "tag": "일상", "ko": "그냥 끝내버리고 집에 갑시다." },
+    { "text": "She got her hair done for the wedding.", "tag": "일상", "ko": "그녀는 결혼식 때문에 머리를 했어요." },
+    { "text": "Can you get the Gen5 compliance sweep done before Friday?", "tag": "업무", "ko": "금요일 전에 Gen5 컴플라이언스 스윕을 끝낼 수 있어요?" },
+    { "text": "We got the board rework done overnight.", "tag": "업무", "ko": "밤사이에 보드 리워크를 끝냈어요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w40-7",
+   "text": "work out",
+   "meaning": "세부사항을 정하다 / 잘 풀리다 / 문제를 해결하다 / 운동하다",
+   "note": "뜻이 여러 개라 문맥으로 구분해요. ① 세부사항을 정하다 (work out the details) ② 결과가 잘 나오다 (It worked out) ③ 문제를 풀다 (work out a problem) ④ 운동하다 (work out at the gym). 이미 배운 \"figure out(알아내다, W37)\"이 \"찾아낸다\"면, work out은 \"따져서 만들어 낸다\"에 가깝습니다.",
+   "answers": ["Let's work out the details tomorrow.", "I'm sure it'll work out."],
+   "examples": [
+    { "text": "Don't worry — everything worked out in the end.", "tag": "일상", "ko": "걱정 마세요 — 결국 다 잘 풀렸어요." },
+    { "text": "We still need to work out who's driving.", "tag": "일상", "ko": "누가 운전할지는 아직 정해야 해요." },
+    { "text": "I work out three times a week.", "tag": "일상", "ko": "저는 일주일에 세 번 운동해요." },
+    { "text": "Let's work out the details of the test plan before the review.", "tag": "업무", "ko": "리뷰 전에 테스트 플랜 세부사항을 정합시다." },
+    { "text": "The new retimer placement worked out better than we expected.", "tag": "업무", "ko": "새 리타이머 배치가 예상보다 더 잘 풀렸어요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w40-8",
+   "text": "cut down (on ~)",
+   "meaning": "줄이다",
+   "note": "양이나 횟수를 줄일 때 씁니다. 대상을 붙일 때는 전치사 on이 필요해요 — \"cut down on sugar\". 비슷한 \"cut back (on)\"도 같은 뜻이고, 나무를 벨 때도 \"cut down a tree\"로 씁니다.",
+   "answers": ["That's a good idea.", "How much did you cut it down by?"],
+   "examples": [
+    { "text": "I'm trying to cut down on coffee.", "tag": "일상", "ko": "커피를 줄이려고 하고 있어요." },
+    { "text": "We cut down our grocery budget by about 20 percent.", "tag": "일상", "ko": "식비를 20퍼센트쯤 줄였어요." },
+    { "text": "He cut down on screen time before bed.", "tag": "일상", "ko": "그는 자기 전 화면 보는 시간을 줄였어요." },
+    { "text": "We cut down the regression time from eight hours to three.", "tag": "업무", "ko": "리그레션 시간을 8시간에서 3시간으로 줄였어요." },
+    { "text": "Can we cut down the number of test patterns without losing coverage?", "tag": "업무", "ko": "커버리지를 잃지 않고 테스트 패턴 수를 줄일 수 있을까요?" }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w40-9",
+   "text": "stay focused",
+   "meaning": "집중을 유지하다",
+   "note": "stay 뒤에는 형용사가 옵니다 — stay calm, stay healthy처럼요. \"focus on ~\"이 집중하는 동작이라면, \"stay focused\"는 그 상태를 이어가는 것입니다. 대상을 붙이면 \"stay focused on ~\".",
+   "answers": ["Let's stay focused on one thing at a time.", "I'm having trouble staying focused today."],
+   "examples": [
+    { "text": "It's hard to stay focused when the office is this noisy.", "tag": "일상", "ko": "사무실이 이렇게 시끄러우면 집중을 유지하기 어려워요." },
+    { "text": "I put my phone in another room to stay focused.", "tag": "일상", "ko": "집중을 유지하려고 휴대폰을 다른 방에 뒀어요." },
+    { "text": "Try to stay focused for just twenty more minutes.", "tag": "일상", "ko": "딱 20분만 더 집중해 보세요." },
+    { "text": "It's hard to stay focused when there are many problems to chase at once.", "tag": "업무", "ko": "한꺼번에 쫓아야 할 문제가 많으면 집중을 유지하기 어려워요." },
+    { "text": "Let's stay focused on the link training failure before we open a new thread.", "tag": "업무", "ko": "새 이슈를 열기 전에 링크 트레이닝 실패에 집중합시다." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w40-10",
+   "text": "have trouble ~ing",
+   "meaning": "~하는 데 어려움을 겪다",
+   "note": "trouble 뒤에는 바로 동명사(-ing)가 옵니다 — to부정사가 아니에요. 명사를 붙일 때는 \"have trouble with + 명사\". 진행형 \"having trouble\"로 쓰면 지금 겪고 있다는 느낌이 살아납니다. 비슷한 표현으로 \"have a hard time ~ing\".",
+   "answers": ["What kind of trouble?", "Let me know if you need a hand."],
+   "examples": [
+    { "text": "I have trouble sleeping when it's too warm.", "tag": "일상", "ko": "너무 더우면 잠드는 데 어려움을 겪어요." },
+    { "text": "She's having trouble finding a parking spot.", "tag": "일상", "ko": "그녀는 주차 자리를 찾는 데 애먹고 있어요." },
+    { "text": "I had trouble understanding his accent at first.", "tag": "일상", "ko": "처음엔 그의 억양을 알아듣는 데 어려움이 있었어요." },
+    { "text": "We have trouble locking the CDR in the Gen5 link training stage.", "tag": "업무", "ko": "Gen5 링크 트레이닝 단계에서 CDR 락을 거는 데 어려움을 겪고 있습니다." },
+    { "text": "The signal quality seems worse than we expected, so we're having trouble reproducing it.", "tag": "업무", "ko": "신호 품질이 예상보다 나빠 보여서, 재현하는 데 어려움을 겪고 있어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w40-11",
+   "text": "struggle to + 동사원형",
+   "meaning": "~하려고 애쓰다, ~하는 데 고전하다",
+   "note": "struggle 뒤에는 to부정사가 옵니다 — 바로 앞의 \"have trouble ~ing\"와 형태가 다르니 짝으로 외워 두면 좋아요. 명사를 붙이면 \"struggle with + 명사\". have trouble보다 더 힘겹게 싸우는 느낌입니다.",
+   "answers": ["That sounds tough.", "Anything I can do to help?"],
+   "examples": [
+    { "text": "I'm struggling to keep up with all the emails.", "tag": "일상", "ko": "이메일을 따라잡느라 고전하고 있어요." },
+    { "text": "He struggled to explain what he meant in English.", "tag": "일상", "ko": "그는 자기 뜻을 영어로 설명하느라 애먹었어요." },
+    { "text": "We're struggling to find a time that works for everyone.", "tag": "일상", "ko": "모두가 되는 시간을 찾느라 애먹고 있어요." },
+    { "text": "Our team is struggling to reproduce the intermittent CRC error on silicon.", "tag": "업무", "ko": "우리 팀은 실리콘에서 간헐적인 CRC 에러를 재현하느라 고전하고 있어요." },
+    { "text": "We struggled to meet the eye mask at the far end of the channel.", "tag": "업무", "ko": "채널 끝단에서 아이 마스크를 맞추느라 고전했어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w40-12",
+   "text": "didn't work",
+   "meaning": "효과가 없었다, 안 통했다",
+   "note": "여기서 work는 \"작동하다 / 통하다\"입니다. 방법·해결책·물건 모두에 써요. \"It didn't work.\"는 \"안 되더라고요\"라는 짧고 분명한 한마디. 주어가 사람이면 \"일하지 않았다\"가 되니, 주어는 방법이나 물건이어야 합니다.",
+   "answers": ["What did you try?", "Let's try something else then."],
+   "examples": [
+    { "text": "I tried restarting it, but that didn't work.", "tag": "일상", "ko": "재시작해봤는데 안 되더라고요." },
+    { "text": "The old key didn't work on the new lock.", "tag": "일상", "ko": "예전 열쇠가 새 자물쇠에 안 맞았어요." },
+    { "text": "We tried three different routes, and none of them worked.", "tag": "일상", "ko": "세 가지 경로를 시도했는데 다 소용없었어요." },
+    { "text": "Our current patch didn't work, so we have to come up with another solution.", "tag": "업무", "ko": "지금 패치는 안 통해서, 다른 해결책을 생각해 내야 합니다." },
+    { "text": "Lowering the TX swing didn't work — the error rate stayed the same.", "tag": "업무", "ko": "TX 스윙을 낮추는 건 효과가 없었어요 — 에러율이 그대로였습니다." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w40-13",
+   "text": "didn't help",
+   "meaning": "도움이 안 됐다, 나아지지 않았다",
+   "note": "\"didn't work\"가 \"아예 안 통했다\"라면, \"didn't help\"는 \"해보긴 했는데 나아지지 않았다\"는 쪽이에요. 강조는 \"didn't help at all\". 오히려 더 나빠졌으면 \"it actually made things worse\".",
+   "answers": ["Sorry to hear that. Let me look again.", "What exactly did you try?"],
+   "examples": [
+    { "text": "I took some medicine, but it didn't help.", "tag": "일상", "ko": "약을 먹었는데 별로 도움이 안 됐어요." },
+    { "text": "Opening the window didn't help much with the smell.", "tag": "일상", "ko": "창문을 여는 건 냄새에 별 도움이 안 됐어요." },
+    { "text": "His advice didn't help at all, unfortunately.", "tag": "일상", "ko": "아쉽게도 그의 조언은 전혀 도움이 안 됐어요." },
+    { "text": "Unfortunately, the guide didn't help at all in resolving this issue. Could you provide another one?", "tag": "업무", "ko": "아쉽게도 그 가이드는 이 이슈를 해결하는 데 전혀 도움이 안 됐습니다. 다른 걸 주실 수 있을까요?" },
+    { "text": "Swapping the cable didn't help, so it's probably not a channel issue.", "tag": "업무", "ko": "케이블을 바꿔봐도 나아지지 않아서, 채널 문제는 아닌 것 같아요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w40-14",
+   "text": "stick it out",
+   "meaning": "끝까지 버티다",
+   "note": "힘들어도 중간에 그만두지 않고 끝까지 간다는 뜻이에요. it이 고정된 관용 표현이라 \"stick out it\"이라고 하지 않습니다. 비슷한 표현으로 \"hang in there(버텨)\", \"see it through(끝까지 해내다)\"가 있어요. 과거형은 stuck it out.",
+   "answers": ["Hang in there.", "I'm glad you stuck it out."],
+   "examples": [
+    { "text": "The first month was rough, but I stuck it out.", "tag": "일상", "ko": "첫 달은 힘들었지만 끝까지 버텼어요." },
+    { "text": "If you stick it out a little longer, it gets easier.", "tag": "일상", "ko": "조금만 더 버티면 수월해져요." },
+    { "text": "She stuck it out through the whole marathon despite the rain.", "tag": "일상", "ko": "그녀는 비가 오는데도 마라톤을 끝까지 버텨냈어요." },
+    { "text": "We need to stick it out to improve the system's reliability.", "tag": "업무", "ko": "시스템 신뢰성을 끌어올리려면 끝까지 버텨야 해요." },
+    { "text": "The bring-up dragged on for weeks, but the team stuck it out.", "tag": "업무", "ko": "브링업이 몇 주씩 늘어졌지만 팀이 끝까지 버텼어요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w40-15",
+   "text": "have a low / high tolerance for ~",
+   "meaning": "~을 잘 못 견딘다 / 잘 견딘다",
+   "note": "관사 a를 빼먹기 쉬우니 주의하세요 — \"has low tolerance for\"(X), \"has a low tolerance for\"(O). 사람에게 쓰면 성격이나 인내심을, 부품에 쓰면 규격 여유·내성을 뜻합니다. 형용사형은 \"be tolerant of ~\".",
+   "answers": ["Same, I can't stand it either.", "What's your limit?"],
+   "examples": [
+    { "text": "I have a low tolerance for spicy food.", "tag": "일상", "ko": "저는 매운 음식을 잘 못 먹어요." },
+    { "text": "He has a high tolerance for cold weather.", "tag": "일상", "ko": "그는 추위를 잘 견뎌요." },
+    { "text": "She has a low tolerance for people who are always late.", "tag": "일상", "ko": "그녀는 늘 늦는 사람을 잘 못 참아요." },
+    { "text": "This SerDes IP has a low tolerance for temperature variation.", "tag": "업무", "ko": "이 SerDes IP는 온도 변화에 대한 여유가 적습니다." },
+    { "text": "The Gen6 receiver has a higher tolerance for jitter than the previous generation.", "tag": "업무", "ko": "Gen6 리시버는 이전 세대보다 지터 내성이 더 높습니다." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w40-16",
+   "text": "It wasn't exactly what I was expecting.",
+   "meaning": "제가 기대했던 것과는 좀 달랐어요",
+   "note": "\"It was bad\"라고 대놓고 말하지 않고 완곡하게 실망을 전하는 문장이에요. exactly가 핵심입니다 — 빼고 \"It wasn't what I was expecting\"이라고 하면 훨씬 직설적으로 들립니다. 좋은 쪽으로 놀랐으면 \"It was better than I expected\".",
+   "answers": ["In a good way or a bad way?", "Yeah, me neither."],
+   "examples": [
+    { "text": "The hotel was fine, but it wasn't exactly what I was expecting.", "tag": "일상", "ko": "호텔은 괜찮았는데, 기대했던 것과는 좀 달랐어요." },
+    { "text": "The ending wasn't exactly what I was expecting.", "tag": "일상", "ko": "결말이 제가 예상했던 것과는 좀 달랐어요." },
+    { "text": "It wasn't exactly what I was expecting, but I still enjoyed it.", "tag": "일상", "ko": "기대했던 것과는 달랐지만 그래도 재밌었어요." },
+    { "text": "The Gen6 margin numbers weren't exactly what we were expecting.", "tag": "업무", "ko": "Gen6 마진 수치가 저희가 기대했던 것과는 좀 달랐습니다." },
+    { "text": "The vendor's reply wasn't exactly what I was expecting, so I asked for more detail.", "tag": "업무", "ko": "벤더 답변이 기대했던 것과는 좀 달라서 더 자세한 내용을 요청했어요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w40-17",
+   "text": "neither of + 복수명사 + 단수동사",
+   "meaning": "둘 중 어느 쪽도 ~하지 않다",
+   "note": "둘일 때는 neither, 셋 이상일 때는 none을 씁니다. 격식을 갖춘 글에서는 \"neither of them works\"처럼 단수 동사를, \"none of them work\"처럼 복수 동사를 쓰는 게 기본이에요. (구어에서는 neither에도 복수 동사를 쓰는 경우가 많습니다.) 둘 다 해당되면 \"both of them work\".",
+   "answers": ["Neither do I.", "Then let's look for a third option."],
+   "examples": [
+    { "text": "Neither of my parents speaks English.", "tag": "일상", "ko": "제 부모님 두 분 다 영어를 못하세요." },
+    { "text": "Neither of those two options works for me.", "tag": "일상", "ko": "그 두 가지 선택지 다 저한테는 안 맞아요." },
+    { "text": "None of the three restaurants were open.", "tag": "일상", "ko": "세 식당 다 문을 안 열었어요." },
+    { "text": "Neither of the two retimers shows the error, so it's likely the host.", "tag": "업무", "ko": "두 리타이머 다 에러가 안 나니, 호스트 쪽일 가능성이 높아요." },
+    { "text": "None of the compliance patterns trigger the failure.", "tag": "업무", "ko": "컴플라이언스 패턴 중 어느 것도 그 실패를 유발하지 않습니다." }
+   ],
+   "day": 4
+  }
+ ]
+}
