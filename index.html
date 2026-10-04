@@ -606,9 +606,12 @@
     return seededShuffle(pool, seed).slice(0, RECALL_PER_DAY);
   }
   // 오늘(=선택한 요일) 카드 묶음
+  // 금요일에 배정된 표현이 없는 (예전 4일 배분) 주차만 금요일을 총복습으로 씁니다.
+  function isReviewDay(day){
+    return day === 5 && phrasesForDay(5).length === 0;
+  }
   function deckForDay(day){
-    if (day === 5 || day === 0){
-      // 금요일 · 주말 → 이번 주 전체 총복습
+    if (isReviewDay(day)){
       return weekPhrases().map(function(p){ return { p:p, recall:false }; });
     }
     var main = phrasesForDay(day).map(function(p){ return { p:p, recall:false }; });
@@ -701,7 +704,7 @@
       return;
     }
 
-    var isTotal = (activeDay === 5);
+    var isTotal = isReviewDay(activeDay);
     title.textContent = isTotal ? "금요일 · 이번 주 총복습" : DAY_NAMES[activeDay] + "요일 분량";
     count.textContent = deck.length ? (Math.min(cardIdx + 1, deck.length) + " / " + deck.length) : "0";
     $("day-progress").style.width = deck.length ? Math.round(cardIdx / deck.length * 100) + "%" : "0%";
@@ -802,7 +805,8 @@
 
     var html = "";
     for (var d = 1; d <= 5; d++){
-      var list = d === 5 ? [] : phrasesForDay(d);
+      var review = isReviewDay(d);
+      var list = review ? [] : phrasesForDay(d);
       var doneAt = state.dayDone[doneKey(d)];
       var badge = "";
       if (doneAt){
@@ -811,8 +815,8 @@
       }
       html += '<div class="daygroup">' +
         '<h3><span>' + DAY_NAMES[d] + '요일 · ' + prettyDate(dayDateISO(d)) +
-        (d === 5 ? ' · 이번 주 총복습' : ' · ' + list.length + '개') + '</span>' + badge + '</h3>';
-      if (d === 5){
+        (review ? ' · 이번 주 총복습' : ' · ' + list.length + '개') + '</span>' + badge + '</h3>';
+      if (review){
         html += '<p style="font-size:.82rem;color:var(--ink-soft);margin:0;">이번 주 ' +
                 weekPhrases().length + '개 표현을 한 번에 훑습니다.</p>';
       }else if (!list.length){
