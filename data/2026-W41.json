@@ -1,0 +1,931 @@
+{
+ "week": "2026-W41",
+ "studiedOn": "2026-10-03~04",
+ "label": "10/5~10/9 복습",
+ "phrases": [
+  {
+   "id": "w41-1",
+   "text": "make up for",
+   "meaning": "~을 만회하다, 보충하다",
+   "note": "잃어버린 시간·실수·부족한 부분을 채운다는 뜻이에요. for 뒤에는 명사나 동명사가 옵니다. 사람에게 보상한다고 할 때는 \"make it up to + 사람\". make up만 쓰면 \"화해하다 / 지어내다\"로 뜻이 달라집니다.",
+   "answers": [
+    "You don't have to make up for it.",
+    "How are you going to make up for it?"
+   ],
+   "examples": [
+    {
+     "text": "I'll make up for being late by buying you lunch.",
+     "tag": "일상",
+     "ko": "늦은 건 점심 사는 걸로 만회할게요."
+    },
+    {
+     "text": "She studied all weekend to make up for the classes she missed.",
+     "tag": "일상",
+     "ko": "그녀는 빠진 수업을 보충하려고 주말 내내 공부했어요."
+    },
+    {
+     "text": "We'll work overtime this week to make up for the lost verification time.",
+     "tag": "업무",
+     "ko": "잃어버린 검증 시간을 만회하려고 이번 주에 야근할 겁니다."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-2",
+   "text": "catch up on",
+   "meaning": "밀린 ~을 따라잡다",
+   "note": "on 뒤에는 밀린 대상이 옵니다 — work, sleep, emails, news. 금요일에 나오는 \"catch up(밀린 이야기를 나누다)\"과는 쓰임이 달라요. 사람을 따라잡는다고 할 때는 \"catch up with + 사람\".",
+   "answers": [
+    "Me too. I'm so behind.",
+    "How far behind are you?"
+   ],
+   "examples": [
+    {
+     "text": "I need to catch up on my work this weekend.",
+     "tag": "일상",
+     "ko": "이번 주말에 밀린 일을 따라잡아야 해요."
+    },
+    {
+     "text": "I finally caught up on sleep over the holiday.",
+     "tag": "일상",
+     "ko": "연휴 동안 드디어 밀린 잠을 보충했어요."
+    },
+    {
+     "text": "I need to catch up on the bug reports that came in while I was out.",
+     "tag": "업무",
+     "ko": "제가 자리를 비운 동안 들어온 버그 리포트를 따라잡아야 해요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-3",
+   "text": "check in with",
+   "meaning": "~에게 (상황을) 확인하다, 연락해 보다",
+   "note": "짧게 연락해서 진행 상황이나 안부를 확인하는 거예요. with 뒤에는 사람이나 팀이 옵니다. 호텔·공항의 \"check in(체크인하다)\"과는 다른 뜻이고, \"check on\"은 상태가 괜찮은지 살핀다는 쪽입니다.",
+   "answers": [
+    "Good idea. Let me know what they say.",
+    "I'll check in with them today."
+   ],
+   "examples": [
+    {
+     "text": "I'll check in with my mom to see how she's feeling.",
+     "tag": "일상",
+     "ko": "엄마 몸이 어떠신지 연락해서 확인해 볼게요."
+    },
+    {
+     "text": "Let me check in with the others before we pick a date.",
+     "tag": "일상",
+     "ko": "날짜 정하기 전에 다른 사람들한테 확인해 볼게요."
+    },
+    {
+     "text": "I need to check in with the RTL design team to ensure all corner cases are covered.",
+     "tag": "업무",
+     "ko": "코너 케이스가 전부 커버됐는지 확실히 하려면 RTL 설계팀에 확인해 봐야 해요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-4",
+   "text": "go as planned",
+   "meaning": "계획대로 진행되다",
+   "note": "주어는 일이나 행사예요. \"didn't go as planned\"처럼 부정형으로 특히 많이 씁니다. \"go according to plan\"도 같은 뜻. as planned만 떼어서 \"We'll ship as planned(예정대로 출하합니다)\"처럼도 써요.",
+   "answers": [
+    "What went wrong?",
+    "Glad to hear it went as planned."
+   ],
+   "examples": [
+    {
+     "text": "The trip didn't go as planned, but we still had fun.",
+     "tag": "일상",
+     "ko": "여행이 계획대로 되진 않았지만 그래도 재밌었어요."
+    },
+    {
+     "text": "If everything goes as planned, we'll move in next month.",
+     "tag": "일상",
+     "ko": "모든 게 계획대로 되면 다음 달에 이사 들어가요."
+    },
+    {
+     "text": "The functional simulation didn't go as planned due to an unexpected protocol violation in the PHY.",
+     "tag": "업무",
+     "ko": "PHY에서 예상치 못한 프로토콜 위반이 나와서 기능 시뮬레이션이 계획대로 진행되지 않았습니다."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-5",
+   "text": "go smoothly",
+   "meaning": "순조롭게 진행되다",
+   "note": "smooth는 형용사, smoothly는 부사라서 동사 go 뒤에는 smoothly가 옵니다. 진행 중이면 \"is going smoothly\", 끝난 일은 \"went smoothly\". 반대로 뭔가 걸렸을 때는 \"hit a snag\", \"run into problems\".",
+   "answers": [
+    "That's great to hear.",
+    "Let's hope it stays that way."
+   ],
+   "examples": [
+    {
+     "text": "The move went more smoothly than I expected.",
+     "tag": "일상",
+     "ko": "이사가 예상보다 순조롭게 진행됐어요."
+    },
+    {
+     "text": "I hope your interview goes smoothly.",
+     "tag": "일상",
+     "ko": "면접이 순조롭게 잘 되길 바라요."
+    },
+    {
+     "text": "The validation is going smoothly without any issues.",
+     "tag": "업무",
+     "ko": "검증이 아무 문제 없이 순조롭게 진행되고 있습니다."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-6",
+   "text": "look into",
+   "meaning": "~을 조사하다, 알아보다",
+   "note": "당장 답이 없을 때 \"알아보고 알려드릴게요\"라고 말하기 딱 좋은 표현이에요. 이미 배운 \"take a look at(한번 훑어보다, W39)\"보다 더 깊이 파고든다는 느낌입니다. investigate보다 구어적이에요.",
+   "answers": [
+    "Thanks, I appreciate it.",
+    "Let me know what you find."
+   ],
+   "examples": [
+    {
+     "text": "I'll look into flights for next month.",
+     "tag": "일상",
+     "ko": "다음 달 항공편을 알아볼게요."
+    },
+    {
+     "text": "We're looking into moving closer to the school.",
+     "tag": "일상",
+     "ko": "학교에서 더 가까운 곳으로 이사하는 걸 알아보고 있어요."
+    },
+    {
+     "text": "I'll look into the issue and get back to you.",
+     "tag": "업무",
+     "ko": "그 이슈를 조사해 보고 다시 연락드리겠습니다."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-7",
+   "text": "It shouldn't take us too long.",
+   "meaning": "(우리가 하는 데) 그리 오래 걸리진 않을 거예요",
+   "note": "shouldn't는 \"아마 ~하지 않을 것\"이라는 예상이에요. \"It won't take long\"보다 조심스럽게 들립니다. \"take + 사람 + 시간\" 구조이고, 뒤에 할 일을 붙이면 \"to + 동사원형\". 이미 배운 \"take ages(W39)\"의 반대 상황에 씁니다.",
+   "answers": [
+    "Great, let's get started.",
+    "How long do you think?"
+   ],
+   "examples": [
+    {
+     "text": "Let's clean the garage — it shouldn't take us too long.",
+     "tag": "일상",
+     "ko": "차고 청소합시다 — 그리 오래 걸리진 않을 거예요."
+    },
+    {
+     "text": "It shouldn't take too long to get there by subway.",
+     "tag": "일상",
+     "ko": "지하철로 가면 그리 오래 걸리지 않을 거예요."
+    },
+    {
+     "text": "It shouldn't take us too long to rerun the failing test cases.",
+     "tag": "업무",
+     "ko": "실패한 테스트 케이스를 다시 돌리는 데 그리 오래 걸리진 않을 겁니다."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w41-8",
+   "text": "in a few days",
+   "meaning": "며칠 후에",
+   "note": "\"in + 기간\"은 지금부터 그만큼 지난 뒤를 뜻해요 — \"며칠 안에\"가 아닙니다. \"며칠 이내에\"는 within a few days, \"며칠 동안\"은 for a few days. 과거 이야기에서는 \"a few days later\"를 씁니다.",
+   "answers": [
+    "Sounds good. See you then.",
+    "Can it be any sooner?"
+   ],
+   "examples": [
+    {
+     "text": "I'll be back in a few days.",
+     "tag": "일상",
+     "ko": "며칠 후에 돌아올게요."
+    },
+    {
+     "text": "The package should arrive in a few days.",
+     "tag": "일상",
+     "ko": "택배가 며칠 후면 도착할 거예요."
+    },
+    {
+     "text": "We'll have the new boards in a few days.",
+     "tag": "업무",
+     "ko": "며칠 후면 새 보드를 받을 겁니다."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w41-9",
+   "text": "do the bare minimum",
+   "meaning": "최소한의 것만 하다",
+   "note": "bare는 \"가까스로의, 딱 그만큼의\"라는 뜻이에요. 성의 없이 해야 할 만큼만 한다는 부정적인 뉘앙스가 있습니다. 반대는 \"go the extra mile\", \"go above and beyond(기대 이상으로 하다)\".",
+   "answers": [
+    "That's not going to be enough.",
+    "Sometimes that's all you can do."
+   ],
+   "examples": [
+    {
+     "text": "He does the bare minimum around the house.",
+     "tag": "일상",
+     "ko": "그는 집안일을 최소한만 해요."
+    },
+    {
+     "text": "I was so tired that I just did the bare minimum today.",
+     "tag": "일상",
+     "ko": "너무 피곤해서 오늘은 최소한의 것만 했어요."
+    },
+    {
+     "text": "Doing the bare minimum on test coverage will come back to bite us later.",
+     "tag": "업무",
+     "ko": "테스트 커버리지를 최소한만 해 두면 나중에 문제가 되어 돌아올 거예요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w41-10",
+   "text": "pay off",
+   "meaning": "결실을 맺다, 성과가 나다",
+   "note": "주어는 노력·투자·연습이에요 — 사람이 아닙니다. 목적어를 붙여 \"pay off a loan\"이라고 하면 \"빚을 다 갚다\"라는 다른 뜻이 됩니다. 과거형은 paid off.",
+   "answers": [
+    "I knew it would pay off.",
+    "It really paid off, didn't it?"
+   ],
+   "examples": [
+    {
+     "text": "All those early mornings finally paid off.",
+     "tag": "일상",
+     "ko": "그 많은 새벽 기상이 드디어 결실을 맺었어요."
+    },
+    {
+     "text": "Your hard work will pay off someday.",
+     "tag": "일상",
+     "ko": "당신의 노력은 언젠가 결실을 맺을 거예요."
+    },
+    {
+     "text": "The extra margin testing paid off when we caught the bug before tape-out.",
+     "tag": "업무",
+     "ko": "테이프아웃 전에 그 버그를 잡으면서 추가 마진 테스트가 성과를 냈습니다."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w41-11",
+   "text": "It'll be worth it.",
+   "meaning": "그만한 가치가 있을 거예요",
+   "note": "이미 배운 \"All of this will be more than worth it(W35)\"의 짧은 일상형이에요. worth 뒤에는 명사나 동명사가 옵니다 — worth the wait, worth trying. 끝난 일에는 \"It was worth it.\" 바로 앞의 \"pay off\"와 함께 쓰기 좋습니다.",
+   "answers": [
+    "I hope so.",
+    "It had better be!"
+   ],
+   "examples": [
+    {
+     "text": "It's a long drive, but it'll be worth it.",
+     "tag": "일상",
+     "ko": "운전이 길긴 한데, 그만한 가치가 있을 거예요."
+    },
+    {
+     "text": "Keep going — it'll be worth it in the end.",
+     "tag": "일상",
+     "ko": "계속하세요 — 결국엔 그만한 가치가 있을 거예요."
+    },
+    {
+     "text": "The bring-up is painful now, but it'll be worth it once the link is stable.",
+     "tag": "업무",
+     "ko": "지금은 브링업이 힘들지만, 링크가 안정되면 그만한 가치가 있을 겁니다."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w41-12",
+   "text": "That's why ~",
+   "meaning": "그래서 ~한 거예요",
+   "note": "앞 문장이 이유, That's why 뒤가 결과예요. 반대로 이유를 뒤에 말할 때는 \"That's because ~\". 두 문장을 쉼표로 잇지 말고 마침표로 끊어 주세요 — \"I love traveling, that's why…\"(X). 이미 배운 \"That explains why(W35)\"는 \"아, 그래서 그랬구나\" 하고 이제 이해했을 때 쓰는 반응입니다.",
+   "answers": [
+    "That makes sense.",
+    "Oh, so that's why!"
+   ],
+   "examples": [
+    {
+     "text": "I love traveling. That's why I became a travel blogger.",
+     "tag": "일상",
+     "ko": "저는 여행을 정말 좋아해요. 그래서 여행 블로거가 된 거예요."
+    },
+    {
+     "text": "He never listens. That's why I stopped giving him advice.",
+     "tag": "일상",
+     "ko": "그는 절대 안 들어요. 그래서 조언하는 걸 그만뒀어요."
+    },
+    {
+     "text": "The reference clock was noisy. That's why the link kept dropping.",
+     "tag": "업무",
+     "ko": "레퍼런스 클럭에 노이즈가 있었어요. 그래서 링크가 계속 끊긴 겁니다."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w41-13",
+   "text": "~ing + helps + 목적어 + (to) 동사원형",
+   "meaning": "~하는 것이 …가 ~하는 데 도움이 된다",
+   "note": "동명사 주어는 단수 취급이라 동사가 helps가 됩니다. help 뒤의 to는 생략해도 되고 넣어도 돼요 — \"helps me stay\" / \"helps me to stay\". 다만 \"helps me staying\"(X)처럼 -ing를 쓰지는 않습니다.",
+   "answers": [
+    "That's a good habit.",
+    "Does it really help?"
+   ],
+   "examples": [
+    {
+     "text": "Running helps me stay focused and deal with the pressure.",
+     "tag": "일상",
+     "ko": "달리기는 제가 집중을 유지하고 압박감을 다루는 데 도움이 돼요."
+    },
+    {
+     "text": "Writing things down helps me remember them.",
+     "tag": "일상",
+     "ko": "적어 두는 게 기억하는 데 도움이 돼요."
+    },
+    {
+     "text": "Logging every LTSSM transition helps us narrow down the failure faster.",
+     "tag": "업무",
+     "ko": "LTSSM 천이를 전부 로깅하면 실패 지점을 더 빨리 좁히는 데 도움이 됩니다."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w41-14",
+   "text": "I haven't been able to find the time for ~",
+   "meaning": "~할 시간을 내지 못하고 있어요",
+   "note": "뒤에 명사가 오면 for, 동사가 오면 \"to + 동사원형\"을 씁니다. 현재완료라서 \"요즘 계속 못 내고 있다\"는 뜻이에요. \"I don't have time\"보다 하고는 싶은데 여유가 없다는 느낌이 살아서 덜 퉁명스럽게 들립니다.",
+   "answers": [
+    "I know the feeling.",
+    "Maybe start with ten minutes a day?"
+   ],
+   "examples": [
+    {
+     "text": "I haven't been able to find the time for exercise lately.",
+     "tag": "일상",
+     "ko": "요즘 운동할 시간을 내지 못하고 있어요."
+    },
+    {
+     "text": "I haven't been able to find the time to read these days.",
+     "tag": "일상",
+     "ko": "요즘은 책 읽을 시간을 내지 못하고 있어요."
+    },
+    {
+     "text": "I haven't been able to find the time for the code review this week.",
+     "tag": "업무",
+     "ko": "이번 주에는 코드 리뷰할 시간을 내지 못하고 있어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-15",
+   "text": "set aside some time",
+   "meaning": "시간을 따로 내다",
+   "note": "set aside는 \"따로 떼어 두다\"예요. 돈에도 씁니다 — \"set aside some money\". 뒤에는 \"for + 명사\"나 \"to + 동사원형\"이 옵니다. 바로 앞 표현 \"find the time\"이 시간이 나기를 바라는 쪽이라면, 이건 일부러 비워 둔다는 쪽이에요.",
+   "answers": [
+    "That's a great plan.",
+    "How much time are you setting aside?"
+   ],
+   "examples": [
+    {
+     "text": "I've decided to set aside some time on weekends to study English.",
+     "tag": "일상",
+     "ko": "주말에 영어 공부할 시간을 따로 내기로 했어요."
+    },
+    {
+     "text": "Try to set aside some time for yourself every day.",
+     "tag": "일상",
+     "ko": "매일 자신을 위한 시간을 따로 내 보세요."
+    },
+    {
+     "text": "Let's set aside some time on Thursday to go through the open bugs.",
+     "tag": "업무",
+     "ko": "목요일에 시간을 따로 내서 열려 있는 버그들을 훑어봅시다."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-16",
+   "text": "keep ~ing",
+   "meaning": "계속 ~하다",
+   "note": "keep 뒤에는 동명사가 옵니다 — \"keep to do\"(X). 강조하면 \"keep on ~ing\". 자꾸 반복되는 짜증 나는 일에도 써요 — \"I keep forgetting(자꾸 까먹어요)\". 이미 배운 \"start ~ing(W36)\"와 짝으로 외워 두세요.",
+   "answers": [
+    "Keep it up!",
+    "Why does it keep happening?"
+   ],
+   "examples": [
+    {
+     "text": "Keep going — you're almost there.",
+     "tag": "일상",
+     "ko": "계속 가세요 — 거의 다 왔어요."
+    },
+    {
+     "text": "I keep forgetting her name.",
+     "tag": "일상",
+     "ko": "그녀 이름을 자꾸 까먹어요."
+    },
+    {
+     "text": "The link keeps dropping to a lower speed after a few minutes.",
+     "tag": "업무",
+     "ko": "몇 분 지나면 링크가 계속 낮은 속도로 떨어져요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-17",
+   "text": "It's time to + 동사원형",
+   "meaning": "~할 때가 됐다",
+   "note": "명사를 붙일 때는 \"It's time for + 명사\" — \"It's time for lunch\". 진작 했어야 했다는 느낌을 주려면 \"It's about time\"을 씁니다. 누가 해야 하는지 밝히면 \"It's time for us to ~\".",
+   "answers": [
+    "Already? Okay, let's go.",
+    "You're right. It's about time."
+   ],
+   "examples": [
+    {
+     "text": "It's time to go home.",
+     "tag": "일상",
+     "ko": "집에 갈 시간이에요."
+    },
+    {
+     "text": "It's time to get a new phone — this one keeps freezing.",
+     "tag": "일상",
+     "ko": "새 휴대폰을 살 때가 됐어요 — 이건 계속 멈춰요."
+    },
+    {
+     "text": "It's time to freeze the test plan and start the regression.",
+     "tag": "업무",
+     "ko": "테스트 플랜을 확정하고 리그레션을 시작할 때가 됐습니다."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-18",
+   "text": "look back at",
+   "meaning": "(기록·자료 등을) 다시 보다",
+   "note": "at은 구체적인 대상을 실제로 다시 들여다볼 때 써요 — 사진, 메모, 로그. 바로 다음의 \"look back on\"은 지난 시절을 마음속으로 회상하는 것이라 대상이 다릅니다.",
+   "answers": [
+    "Good idea. Let's check.",
+    "What did you find?"
+   ],
+   "examples": [
+    {
+     "text": "I looked back at my old photos from college.",
+     "tag": "일상",
+     "ko": "대학 시절 옛날 사진들을 다시 봤어요."
+    },
+    {
+     "text": "Look back at your notes before the test.",
+     "tag": "일상",
+     "ko": "시험 전에 필기한 걸 다시 보세요."
+    },
+    {
+     "text": "Let's look back at last week's logs to see when the error first showed up.",
+     "tag": "업무",
+     "ko": "에러가 처음 나타난 게 언제인지 지난주 로그를 다시 봅시다."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-19",
+   "text": "look back on",
+   "meaning": "(지난 일을) 회상하다, 돌아보다",
+   "note": "on 뒤에는 시절이나 경험이 옵니다. 감정이 실리는 표현이라 \"with a smile\", \"fondly(애틋하게)\" 같은 말과 잘 어울려요. 구체적인 자료를 다시 보는 건 \"look back at\"입니다.",
+   "answers": [
+    "Those were good times.",
+    "Do you ever miss it?"
+   ],
+   "examples": [
+    {
+     "text": "I look back on my school days with a smile.",
+     "tag": "일상",
+     "ko": "학창 시절을 돌아보면 미소가 지어져요."
+    },
+    {
+     "text": "When I look back on that trip, I only remember the good parts.",
+     "tag": "일상",
+     "ko": "그 여행을 돌아보면 좋았던 것만 기억나요."
+    },
+    {
+     "text": "When we look back on this project, the first bring-up will be the part we remember most.",
+     "tag": "업무",
+     "ko": "이 프로젝트를 돌아보면 첫 브링업이 가장 기억에 남을 거예요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-20",
+   "text": "reminisce about",
+   "meaning": "~을 추억하다, 옛이야기를 나누다",
+   "note": "발음은 [레머니스]예요. 즐겁게 옛일을 떠올리며 이야기한다는 뜻이라 \"look back on\"보다 따뜻하고, 보통 누군가와 함께 이야기하는 장면에 씁니다. about 뒤에는 명사가 옵니다.",
+   "answers": [
+    "Those were the days.",
+    "I love hearing those stories."
+   ],
+   "examples": [
+    {
+     "text": "We stayed up late reminiscing about our college days.",
+     "tag": "일상",
+     "ko": "우리는 대학 시절을 추억하며 밤늦게까지 깨어 있었어요."
+    },
+    {
+     "text": "My parents love to reminisce about their first trip together.",
+     "tag": "일상",
+     "ko": "부모님은 두 분의 첫 여행을 추억하는 걸 좋아하세요."
+    },
+    {
+     "text": "At the team dinner, we reminisced about the all-nighters during the first tape-out.",
+     "tag": "업무",
+     "ko": "팀 회식에서 첫 테이프아웃 때 밤샜던 일을 추억했어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w41-21",
+   "text": "get through",
+   "meaning": "(전화가) 연결되다 / 끝내다 / 이겨내다",
+   "note": "뜻이 세 가지예요. ① (전화가) 연결되다 — 뒤에 \"to + 사람\"을 붙일 수 있어요. ② (일·분량을) 끝까지 해내다 — get through + 할 일. ③ (힘든 시기를) 견뎌내다 — get through + 시기. 아래 예문이 순서대로 ①, ③, ②입니다.",
+   "answers": [
+    "We'll get through this.",
+    "Did you manage to get through?"
+   ],
+   "examples": [
+    {
+     "text": "I tried calling the clinic all morning, but I couldn't get through.",
+     "tag": "일상",
+     "ko": "[연결되다] 오전 내내 병원에 전화했는데 연결이 안 됐어요."
+    },
+    {
+     "text": "Her friends helped her get through a tough year.",
+     "tag": "일상",
+     "ko": "[이겨내다] 친구들이 그녀가 힘든 한 해를 이겨내도록 도와줬어요."
+    },
+    {
+     "text": "We need to get through all 200 test cases before Friday.",
+     "tag": "업무",
+     "ko": "[끝내다] 금요일 전에 테스트 케이스 200개를 전부 끝내야 합니다."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w41-22",
+   "text": "get over",
+   "meaning": "(감정적으로) 극복하다 / (놀라워서) 믿기지 않다",
+   "note": "뜻이 두 가지예요. ① 감정·실망·병에서 회복하다 — get over + 명사. ② 놀라서 믿기지 않다 — 항상 \"I can't get over + 명사 / how ~\" 형태로 씁니다. 아래 예문이 순서대로 ①, ②, ①입니다. \"Get over it!\"은 \"그만 좀 잊어!\"라는 뜻이에요.",
+   "answers": [
+    "It takes time. You'll get over it.",
+    "I know, right? I can't get over it either."
+   ],
+   "examples": [
+    {
+     "text": "It took me months to get over the breakup.",
+     "tag": "일상",
+     "ko": "[극복하다] 이별을 극복하는 데 몇 달이 걸렸어요."
+    },
+    {
+     "text": "I can't get over how much the kids have grown.",
+     "tag": "일상",
+     "ko": "[믿기지 않다] 아이들이 이렇게 많이 컸다는 게 믿기지 않아요."
+    },
+    {
+     "text": "The team needed a few days to get over the failed compliance run.",
+     "tag": "업무",
+     "ko": "[극복하다] 팀이 컴플라이언스 실패를 털어내는 데 며칠이 필요했어요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w41-23",
+   "text": "quite different from",
+   "meaning": "~와 꽤 다른",
+   "note": "different 뒤 전치사는 from이 표준이에요. (미국 구어에서는 than, 영국에서는 to도 씁니다.) quite는 \"꽤, 상당히\"로 차이를 강조합니다. 더 세게 말하려면 \"completely different from\".",
+   "answers": [
+    "How is it different?",
+    "That's surprising."
+   ],
+   "examples": [
+    {
+     "text": "The movie is quite different from the book.",
+     "tag": "일상",
+     "ko": "영화는 책과 꽤 달라요."
+    },
+    {
+     "text": "Life here is quite different from what I'm used to.",
+     "tag": "일상",
+     "ko": "여기 생활은 제가 익숙한 것과 꽤 달라요."
+    },
+    {
+     "text": "The power consumption data we measured is quite different from the simulation results, so we need to re-examine the PHY settings.",
+     "tag": "업무",
+     "ko": "저희가 측정한 전력 소모 데이터가 시뮬레이션 결과와 꽤 달라서, PHY 설정을 다시 검토해야 합니다."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w41-24",
+   "text": "become a part of",
+   "meaning": "~의 일부가 되다",
+   "note": "a를 빼고 \"become part of\"라고 해도 됩니다. 어느새 자리 잡았다는 뜻이라 현재완료(has become)와 잘 어울려요. 사람·습관·물건 모두 주어가 될 수 있습니다.",
+   "answers": [
+    "That's great. Consistency matters.",
+    "How long did that take?"
+   ],
+   "examples": [
+    {
+     "text": "Learning English has become a part of my daily routine.",
+     "tag": "일상",
+     "ko": "영어 공부가 제 일상의 일부가 됐어요."
+    },
+    {
+     "text": "The dog quickly became a part of the family.",
+     "tag": "일상",
+     "ko": "그 강아지는 금세 가족의 일부가 됐어요."
+    },
+    {
+     "text": "Running the overnight regression has become a part of our daily workflow.",
+     "tag": "업무",
+     "ko": "밤샘 리그레션을 돌리는 게 우리 일일 업무 흐름의 일부가 됐습니다."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w41-25",
+   "text": "be lost when it comes to ~",
+   "meaning": "~에 관해서는 전혀 모르겠다, 젬병이다",
+   "note": "\"when it comes to\" 뒤에는 명사나 동명사가 옵니다 — 여기서 to는 전치사예요. 이미 배운 \"I'm horrible at ~(W39)\"가 \"못한다\"라면, 이건 \"뭐가 뭔지 아예 모르겠다\"는 느낌입니다. 강조는 \"completely lost\".",
+   "answers": [
+    "Don't worry, I can walk you through it.",
+    "Same here, honestly."
+   ],
+   "examples": [
+    {
+     "text": "I'm lost when it comes to cooking.",
+     "tag": "일상",
+     "ko": "요리에 관해서는 전혀 모르겠어요."
+    },
+    {
+     "text": "He's completely lost when it comes to directions.",
+     "tag": "일상",
+     "ko": "그는 길 찾는 데는 완전히 젬병이에요."
+    },
+    {
+     "text": "I'm lost when it comes to analog circuit design.",
+     "tag": "업무",
+     "ko": "아날로그 회로 설계에 관해서는 전혀 모르겠어요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w41-26",
+   "text": "head to + 장소",
+   "meaning": "~로 향하다, 가다",
+   "note": "go to보다 \"그쪽으로 출발해서 가는 중\"이라는 느낌이 강해요. home, there, downtown 앞에는 to를 쓰지 않습니다 — \"head home\". 나선다고 할 때는 \"head out\".",
+   "answers": [
+    "See you there.",
+    "Mind if I come along?"
+   ],
+   "examples": [
+    {
+     "text": "We headed to the airport early in the morning.",
+     "tag": "일상",
+     "ko": "우리는 아침 일찍 공항으로 향했어요."
+    },
+    {
+     "text": "I'm heading to the gym after work.",
+     "tag": "일상",
+     "ko": "퇴근하고 헬스장으로 갈 거예요."
+    },
+    {
+     "text": "I'm heading to the lab to check on the overnight run.",
+     "tag": "업무",
+     "ko": "밤새 돌린 결과를 확인하러 랩으로 가는 중이에요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w41-27",
+   "text": "stop by",
+   "meaning": "잠깐 들르다",
+   "note": "가는 길에 짧게 방문한다는 뜻이에요. 뒤에 장소를 붙여도 되고 단독으로도 씁니다 — \"Stop by anytime\". 비슷한 표현으로 \"drop by\"와 바로 다음에 나오는 \"swing by\"가 있어요.",
+   "answers": [
+    "Sure, I'll stop by.",
+    "Anything else you need?"
+   ],
+   "examples": [
+    {
+     "text": "Can you stop by the store and get some milk?",
+     "tag": "일상",
+     "ko": "가게에 잠깐 들러서 우유 좀 사다 줄래요?"
+    },
+    {
+     "text": "Stop by anytime — I'm home all weekend.",
+     "tag": "일상",
+     "ko": "언제든 들르세요 — 주말 내내 집에 있어요."
+    },
+    {
+     "text": "Can you stop by my desk when you have a minute? I want to show you a waveform.",
+     "tag": "업무",
+     "ko": "시간 될 때 제 자리에 잠깐 들러줄래요? 파형 하나 보여드리고 싶어요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w41-28",
+   "text": "swing by",
+   "meaning": "잠깐 들르다 (지나는 길에 쓱)",
+   "note": "\"stop by\"와 같은 뜻인데 더 캐주얼해요 — 지나가는 길에 쓱 들른다는 느낌입니다. 친한 사이나 가벼운 대화에서 주로 씁니다.",
+   "answers": [
+    "Perfect, see you then.",
+    "Great, thanks!"
+   ],
+   "examples": [
+    {
+     "text": "I'll swing by the grocery store on the way home.",
+     "tag": "일상",
+     "ko": "집에 가는 길에 마트에 잠깐 들를게요."
+    },
+    {
+     "text": "Swing by my place around seven.",
+     "tag": "일상",
+     "ko": "7시쯤 우리 집에 잠깐 들러요."
+    },
+    {
+     "text": "I'll swing by the lab and grab the new board.",
+     "tag": "업무",
+     "ko": "랩에 잠깐 들러서 새 보드를 가져올게요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w41-29",
+   "text": "grab ~ on the way",
+   "meaning": "가는 길에 ~을 (간단히) 사다",
+   "note": "grab은 \"간단히 사다 / 집어 오다\"예요. \"grab a bite\"는 \"간단히 먹다\", \"grab a coffee\"는 \"커피 한 잔 사다\". 목적지를 붙이면 \"on the way to + 장소\", 집·회사처럼 내 쪽이면 \"on my way home\"처럼도 씁니다.",
+   "answers": [
+    "Good call. I'm starving.",
+    "Can you grab one for me too?"
+   ],
+   "examples": [
+    {
+     "text": "Let's grab a bite on the way.",
+     "tag": "일상",
+     "ko": "가는 길에 간단히 뭐 좀 먹읍시다."
+    },
+    {
+     "text": "I'll grab a coffee on the way to work.",
+     "tag": "일상",
+     "ko": "출근길에 커피 한 잔 살게요."
+    },
+    {
+     "text": "I'll grab a spare cable on the way to the lab.",
+     "tag": "업무",
+     "ko": "랩 가는 길에 여분 케이블 하나 챙겨 갈게요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w41-30",
+   "text": "pick up ~ on the way",
+   "meaning": "가는 길에 ~을 사 오다 / 찾아오다 / 태워 오다",
+   "note": "pick up은 물건을 사 오거나 찾아오는 것, 사람을 차로 태우는 것 모두에 씁니다. 대명사는 가운데에 넣어요 — \"pick it up\". 바로 앞의 grab이 \"간단히 집어 온다\"라면, pick up은 \"챙겨서 가져온다\"는 느낌입니다.",
+   "answers": [
+    "Yes, could you get some bread?",
+    "No, we're all set. Thanks!"
+   ],
+   "examples": [
+    {
+     "text": "Should I pick up anything on the way home?",
+     "tag": "일상",
+     "ko": "집에 가는 길에 뭐 사 갈까요?"
+    },
+    {
+     "text": "Can you pick up the kids on the way back?",
+     "tag": "일상",
+     "ko": "돌아오는 길에 아이들 좀 태워 올 수 있어요?"
+    },
+    {
+     "text": "I'll pick up the loaner scope from the vendor on the way to the office.",
+     "tag": "업무",
+     "ko": "출근길에 벤더한테 들러 대여 스코프를 찾아갈게요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w41-31",
+   "text": "catch up",
+   "meaning": "밀린 이야기를 나누다, 근황을 나누다",
+   "note": "오랜만에 만나 그동안의 이야기를 나눈다는 뜻이에요. 상대를 붙이면 \"catch up with + 사람\". 월요일에 배운 \"catch up on + 밀린 일\"과 구분하세요. 두 개를 합쳐 \"We have a lot to catch up on(할 얘기가 많네요)\"이라고도 합니다.",
+   "answers": [
+    "I'd love to. When are you free?",
+    "It's been too long!"
+   ],
+   "examples": [
+    {
+     "text": "Let's meet and catch up.",
+     "tag": "일상",
+     "ko": "만나서 밀린 얘기 좀 나눠요."
+    },
+    {
+     "text": "We caught up over coffee after years apart.",
+     "tag": "일상",
+     "ko": "몇 년 만에 만나 커피 마시며 근황을 나눴어요."
+    },
+    {
+     "text": "Let's catch up after the conference — I want to hear how the Gen6 demo went.",
+     "tag": "업무",
+     "ko": "컨퍼런스 끝나고 얘기 좀 나눠요 — Gen6 데모가 어땠는지 듣고 싶어요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w41-32",
+   "text": "gather to + 동사원형",
+   "meaning": "~하기 위해 모이다",
+   "note": "to는 목적을 나타내요. 명사를 붙일 때는 \"gather for + 명사\" — \"gather for dinner\". 더 구어적으로는 \"get together\"를 씁니다. 사람들을 모은다고 할 때는 \"gather + 사람\"으로 타동사로도 씁니다.",
+   "answers": [
+    "What time are we gathering?",
+    "Count me in."
+   ],
+   "examples": [
+    {
+     "text": "The whole family gathered to celebrate Grandma's birthday.",
+     "tag": "일상",
+     "ko": "할머니 생신을 축하하려고 온 가족이 모였어요."
+    },
+    {
+     "text": "Friends gathered to watch the final game.",
+     "tag": "일상",
+     "ko": "친구들이 결승전을 보려고 모였어요."
+    },
+    {
+     "text": "The team gathered to review the compliance results.",
+     "tag": "업무",
+     "ko": "컴플라이언스 결과를 리뷰하려고 팀이 모였습니다."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w41-33",
+   "text": "assure + 사람 + (that) ~",
+   "meaning": "~에게 확신시키다, 안심시키다",
+   "note": "assure 뒤에는 반드시 사람 목적어가 와요 — \"assure that ~\"(X), \"assure me that ~\"(O). 비슷하게 생긴 ensure는 \"확실히 하다\"라는 뜻이고 사람 목적어 없이 씁니다 (\"ensure all corner cases are covered\"). insure는 \"보험에 들다\"예요.",
+   "answers": [
+    "That's a relief.",
+    "Can you really assure me of that?"
+   ],
+   "examples": [
+    {
+     "text": "She assured me that everything would be fine.",
+     "tag": "일상",
+     "ko": "그녀는 모든 게 괜찮을 거라고 저를 안심시켰어요."
+    },
+    {
+     "text": "I assure you, it's not as hard as it looks.",
+     "tag": "일상",
+     "ko": "장담하는데, 보기만큼 어렵지 않아요."
+    },
+    {
+     "text": "The vendor assured us that the fix would be in the next firmware release.",
+     "tag": "업무",
+     "ko": "벤더는 그 수정이 다음 펌웨어 릴리스에 들어갈 거라고 저희에게 확언했습니다."
+    }
+   ],
+   "day": 5
+  }
+ ]
+}
