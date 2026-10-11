@@ -1,0 +1,254 @@
+{
+ "week": "2026-W42",
+ "studiedOn": "2026-10-10~11",
+ "label": "10/12~10/16 복습",
+ "phrases": [
+  {
+   "id": "w42-1",
+   "text": "turn one's day around",
+   "meaning": "(안 좋던) 하루를 좋게 바꿔 놓다",
+   "note": "망쳐 가던 하루가 무언가 덕분에 좋은 쪽으로 반전됐을 때 써요. 주어는 그 계기(소식·제안·사람)입니다. \"turn around\"는 상황이나 실적을 반전시킨다는 뜻으로도 씁니다 — \"turn the project around\".",
+   "answers": ["Glad I could help!", "That's great to hear."],
+   "examples": [
+    { "text": "A kind message from an old friend turned my day around.", "tag": "일상", "ko": "옛 친구의 따뜻한 메시지 덕분에 하루가 좋아졌어요." },
+    { "text": "A good coffee and a short walk turned my day around.", "tag": "일상", "ko": "맛있는 커피 한 잔과 짧은 산책이 제 하루를 바꿔 놨어요." },
+    { "text": "Your suggestion to adjust the EQ tap coefficients really turned my day around.", "tag": "업무", "ko": "EQ 탭 계수를 조정해 보라는 제안 덕분에 정말 하루가 확 풀렸어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w42-2",
+   "text": "catch someone off guard",
+   "meaning": "~을 당황하게 하다, 허를 찌르다",
+   "note": "guard는 \"경계\"예요. 예상 못 한 질문이나 소식에 순간 당황했을 때 씁니다. 과거형은 caught, 수동태로 \"I was caught off guard\"도 자주 써요.",
+   "answers": ["Sorry, I didn't mean to catch you off guard.", "Yeah, I didn't see that coming either."],
+   "examples": [
+    { "text": "Her unexpected question caught me off guard.", "tag": "일상", "ko": "그녀의 예상 밖 질문에 당황했어요." },
+    { "text": "The sudden rain caught us off guard on the hike.", "tag": "일상", "ko": "등산 중에 갑자기 비가 와서 당황했어요." },
+    { "text": "The customer's question about Gen6 power numbers caught me off guard in the review.", "tag": "업무", "ko": "리뷰에서 고객이 Gen6 전력 수치를 물어봐서 당황했어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w42-3",
+   "text": "get someone thinking",
+   "meaning": "~을 (곰곰이) 생각하게 만들다",
+   "note": "\"get + 사람 + ~ing\"는 \"~하게 만들다\"예요. 어떤 말이나 일이 계기가 되어 생각을 시작하게 됐을 때 \"That got me thinking about ~\"처럼 씁니다. 이미 배운 \"I've been thinking about(W35)\"과 이어서 써 보세요.",
+   "answers": ["What did it make you think about?", "Same here. It really got me thinking."],
+   "examples": [
+    { "text": "That documentary really got me thinking about my own habits.", "tag": "일상", "ko": "그 다큐멘터리를 보고 제 습관에 대해 곰곰이 생각하게 됐어요." },
+    { "text": "His question got me thinking — maybe I should change jobs.", "tag": "일상", "ko": "그의 질문을 듣고 생각해 보게 됐어요 — 이직해야 할지도 모르겠다고요." },
+    { "text": "Your comment about the reference clock got me thinking that we never checked the SSC settings.", "tag": "업무", "ko": "레퍼런스 클럭 얘기를 듣고 보니, 우리가 SSC 설정을 한 번도 확인 안 했다는 생각이 들었어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w42-4",
+   "text": "I feel the same way.",
+   "meaning": "저도 같은 생각이에요 / 저도 그래요",
+   "note": "상대의 감정이나 의견에 공감할 때 써요. \"Me too\"보다 진지하게 들립니다. 대상을 붙이면 \"I feel the same way about ~\". 반대 의견일 때는 이미 배운 \"I don't see it that way(W38)\".",
+   "answers": ["I'm glad it's not just me.", "Great minds think alike."],
+   "examples": [
+    { "text": "A: I'm so tired of this rain. B: I feel the same way.", "tag": "일상", "ko": "A: 이 비 정말 지긋지긋해요. B: 저도 그래요." },
+    { "text": "I feel the same way about that movie — it was way too long.", "tag": "일상", "ko": "그 영화에 대해선 저도 같은 생각이에요 — 너무 길었어요." },
+    { "text": "I feel the same way — we should finish root-causing before we try another patch.", "tag": "업무", "ko": "저도 같은 생각이에요 — 다른 패치를 시도하기 전에 근본 원인부터 끝까지 찾아야 해요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w42-5",
+   "text": "be a pain",
+   "meaning": "골칫거리다, 성가시다",
+   "note": "일·물건·사람이 귀찮고 짜증 날 때 써요. 강조하면 \"a real pain\", \"a pain in the neck\". 동명사 주어와 잘 어울립니다 — \"Finding parking here is a pain.\"",
+   "answers": ["Tell me about it.", "Want me to help?"],
+   "examples": [
+    { "text": "Finding parking downtown is a pain.", "tag": "일상", "ko": "시내에서 주차 자리 찾는 건 정말 골치 아파요." },
+    { "text": "Putting this furniture together was a real pain.", "tag": "일상", "ko": "이 가구 조립하는 게 정말 고역이었어요." },
+    { "text": "Re-calibrating the scope every morning is a pain, but we can't skip it.", "tag": "업무", "ko": "매일 아침 스코프를 다시 캘리브레이션하는 게 성가시지만, 건너뛸 수는 없어요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w42-6",
+   "text": "smooth sailing",
+   "meaning": "순조로움, 순항",
+   "note": "명사구라서 \"It's smooth sailing\"처럼 be 동사와 씁니다. \"It's smooth sailing from here(이제부턴 순조로워요)\", \"It wasn't all smooth sailing(굴곡도 있었어요)\". 이미 배운 동사형 \"go smoothly(W41)\"와 짝으로 외워 두세요.",
+   "answers": ["Let's hope it stays that way.", "Good to hear!"],
+   "examples": [
+    { "text": "Once we got past the traffic, it was smooth sailing.", "tag": "일상", "ko": "차 막히는 구간을 지나고 나니 순조로웠어요." },
+    { "text": "Planning the wedding wasn't all smooth sailing.", "tag": "일상", "ko": "결혼식 준비가 다 순조롭지만은 않았어요." },
+    { "text": "After we fixed the reset sequence, it was smooth sailing through the rest of the bring-up.", "tag": "업무", "ko": "리셋 시퀀스를 고친 뒤로는 나머지 브링업이 순조로웠어요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w42-7",
+   "text": "a small price to pay",
+   "meaning": "(얻는 것에 비하면) 작은 대가",
+   "note": "\"A is a small price to pay for B\" — B를 얻기 위해서라면 A쯤은 감수할 만하다는 뜻이에요. 뒤에 동사를 붙이면 \"to + 동사원형\". 반대로 대가가 너무 크면 \"too high a price\".",
+   "answers": ["I agree. It's worth it.", "I'm not so sure about that."],
+   "examples": [
+    { "text": "Waking up early is a small price to pay for a quiet morning run.", "tag": "일상", "ko": "조용한 아침 달리기를 위해서라면 일찍 일어나는 건 작은 대가예요." },
+    { "text": "A long flight is a small price to pay to see my family.", "tag": "일상", "ko": "가족을 볼 수 있다면 긴 비행쯤은 작은 대가예요." },
+    { "text": "An extra week of testing is a small price to pay for a clean compliance result.", "tag": "업무", "ko": "깔끔한 컴플라이언스 결과를 얻을 수 있다면 테스트 일주일 더 하는 건 작은 대가예요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w42-8",
+   "text": "way less",
+   "meaning": "훨씬 적은 / 훨씬 덜",
+   "note": "구어에서 way는 \"훨씬\"이라는 강조예요 — way more, way better, way too much. 격식 있는 글에서는 \"much less\"를 씁니다. 셀 수 있는 명사 앞에서는 문법적으로 \"way fewer\"가 맞지만, 일상 대화에서는 less도 흔히 들립니다.",
+   "answers": ["Really? That's a big difference.", "That's way better."],
+   "examples": [
+    { "text": "This route takes way less time.", "tag": "일상", "ko": "이 길로 가면 시간이 훨씬 덜 걸려요." },
+    { "text": "I've been drinking way less coffee lately.", "tag": "일상", "ko": "요즘 커피를 훨씬 덜 마셔요." },
+    { "text": "The new firmware uses way less power in the L1 substates.", "tag": "업무", "ko": "새 펌웨어는 L1 서브스테이트에서 전력을 훨씬 덜 씁니다." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w42-9",
+   "text": "a little over + 숫자",
+   "meaning": "~ 조금 넘게",
+   "note": "시간·돈·비율 같은 숫자 앞에 씁니다 — a little over an hour, a little over 10 percent. 반대는 \"a little under\", \"just under(~ 조금 안 되게)\". 격식 있게는 \"slightly over\".",
+   "answers": ["That's not bad.", "Only a little over? I expected more."],
+   "examples": [
+    { "text": "The drive took a little over two hours.", "tag": "일상", "ko": "운전해서 두 시간 조금 넘게 걸렸어요." },
+    { "text": "Dinner cost a little over fifty dollars.", "tag": "일상", "ko": "저녁값이 50달러 조금 넘게 나왔어요." },
+    { "text": "The full regression took a little over six hours last night.", "tag": "업무", "ko": "어젯밤 전체 리그레션은 여섯 시간 조금 넘게 걸렸어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w42-10",
+   "text": "to see what was wrong",
+   "meaning": "뭐가 문제였는지 보려고",
+   "note": "\"to see + 의문사절\"은 \"~인지 확인하려고\"예요. 지금도 문제가 있으면 what's wrong, 지난 일이면 what was wrong. 이미 배운 \"see if + 주어 + 동사(W37)\"와 짝으로 쓰기 좋습니다.",
+   "answers": ["Did you find anything?", "What did it turn out to be?"],
+   "examples": [
+    { "text": "I opened the hood to see what was wrong with the car.", "tag": "일상", "ko": "차가 뭐가 문제인지 보려고 보닛을 열었어요." },
+    { "text": "The doctor ran some tests to see what was wrong.", "tag": "일상", "ko": "의사가 뭐가 문제인지 보려고 검사를 몇 가지 했어요." },
+    { "text": "I've been capturing waveforms to see what was wrong with the link training.", "tag": "업무", "ko": "링크 트레이닝에 뭐가 문제였는지 보려고 파형을 계속 캡처하고 있어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w42-11",
+   "text": "I should have done a better job ~ing",
+   "meaning": "~하는 걸 더 잘했어야 했는데",
+   "note": "\"should have + 과거분사\"는 \"했어야 했는데(안 했다)\"라는 후회예요. \"do a good job ~ing\"는 \"~을 잘하다\". 실수를 인정하고 책임지는 말이라 사과나 회고 자리에서 아주 자연스럽습니다.",
+   "answers": ["Don't be too hard on yourself.", "We all learned something from it."],
+   "examples": [
+    { "text": "I should have done a better job planning the trip.", "tag": "일상", "ko": "여행 계획을 더 잘 세웠어야 했는데요." },
+    { "text": "I should have done a better job explaining what I meant.", "tag": "일상", "ko": "제 뜻을 더 잘 설명했어야 했는데요." },
+    { "text": "I should have done a better job documenting the test setup before I went on leave.", "tag": "업무", "ko": "휴가 가기 전에 테스트 셋업을 더 잘 문서화해 뒀어야 했는데요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w42-12",
+   "text": "be not there yet",
+   "meaning": "아직 거기까진 못 갔다, 아직 멀었다",
+   "note": "목표 수준에 아직 못 미쳤다는 뜻이에요. 보통 \"I'm not there yet\", \"We're not there yet\"처럼 줄여 씁니다. 거의 다 왔으면 \"almost there\". 이미 배운 \"I still have a long way to go(W39)\"와 같은 상황에 씁니다.",
+   "answers": ["But you're getting close.", "How far off are you?"],
+   "examples": [
+    { "text": "My English is getting better, but I'm not there yet.", "tag": "일상", "ko": "영어가 늘고는 있는데, 아직 멀었어요." },
+    { "text": "I want to run a full marathon someday, but I'm not there yet.", "tag": "일상", "ko": "언젠가 풀코스 마라톤을 뛰고 싶은데, 아직 거기까진 아니에요." },
+    { "text": "The BER is improving, but we're not there yet for Gen6 compliance.", "tag": "업무", "ko": "BER이 좋아지고는 있지만, Gen6 컴플라이언스까지는 아직 멀었어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w42-13",
+   "text": "Have you been ~ing?",
+   "meaning": "(요즘 / 계속) ~해 오고 있어요?",
+   "note": "이미 배운 \"have been ~ing(W39)\"의 의문형이에요. 최근부터 지금까지 쭉 해 오고 있는지 물을 때 씁니다. 대답은 \"Yes, I have.\" / \"No, I haven't.\" 기간을 물으려면 \"How long have you been ~ing?\"",
+   "answers": ["Yes, for about a month now.", "No, I haven't had time."],
+   "examples": [
+    { "text": "Have you been sleeping well lately?", "tag": "일상", "ko": "요즘 잠은 잘 자고 있어요?" },
+    { "text": "Have you been working out? You look great.", "tag": "일상", "ko": "요즘 운동해요? 좋아 보여요." },
+    { "text": "Have you been seeing the same CRC errors on the other boards?", "tag": "업무", "ko": "다른 보드에서도 같은 CRC 에러가 계속 보이고 있나요?" }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w42-14",
+   "text": "Are you planning to ~? / Do you plan to ~?",
+   "meaning": "~할 계획이에요?",
+   "note": "둘 다 뒤에 동사원형이 옵니다. 진행형 \"Are you planning to\"가 더 가볍고 대화체이고, \"Do you plan to\"는 약간 격식 있게 들려요. 바로 다음 표현 \"be planning on ~ing\"도 같은 뜻입니다.",
+   "answers": ["Yes, I'm planning to.", "Not yet. I'm still thinking about it."],
+   "examples": [
+    { "text": "Are you planning to travel during the holidays?", "tag": "일상", "ko": "연휴에 여행 갈 계획이에요?" },
+    { "text": "Do you plan to stay in Seoul long-term?", "tag": "일상", "ko": "서울에 오래 살 계획이에요?" },
+    { "text": "Are you planning to rerun the compliance tests with the new firmware?", "tag": "업무", "ko": "새 펌웨어로 컴플라이언스 테스트를 다시 돌릴 계획이에요?" }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w42-15",
+   "text": "be planning on ~ing",
+   "meaning": "~할 계획이다",
+   "note": "on 뒤에는 동명사(-ing)가 옵니다. \"be planning to + 동사원형\"과 뜻은 같고 조금 더 구어적이에요. 부정형으로 \"그럴 생각은 없었는데\"라는 뜻도 자주 씁니다 — \"I wasn't planning on staying late.\"",
+   "answers": ["Sounds like a plan.", "When are you planning on doing it?"],
+   "examples": [
+    { "text": "We're planning on moving next spring.", "tag": "일상", "ko": "내년 봄에 이사할 계획이에요." },
+    { "text": "I wasn't planning on staying this late.", "tag": "일상", "ko": "이렇게 늦게까지 있을 생각은 없었어요." },
+    { "text": "We're planning on switching to the new retimer for the next board spin.", "tag": "업무", "ko": "다음 보드 리비전에서는 새 리타이머로 바꿀 계획이에요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w42-16",
+   "text": "remind + 사람 + about / to / that",
+   "meaning": "~에게 상기시키다, 다시 알려 주다",
+   "note": "remind 뒤에는 꼭 사람이 와요. 명사는 \"remind me about ~\", 할 일은 \"remind me to + 동사원형\", 내용은 \"remind me that ~\". \"remind A of B\"는 \"A에게 B를 떠올리게 하다(닮았다)\"라는 다른 뜻입니다.",
+   "answers": ["Sure, I'll text you in the morning.", "Thanks for the reminder."],
+   "examples": [
+    { "text": "Can you remind me about the meeting tomorrow?", "tag": "일상", "ko": "내일 회의 있는 거 저한테 다시 알려 줄래요?" },
+    { "text": "This song reminds me of my college days.", "tag": "일상", "ko": "이 노래를 들으면 대학 시절이 떠올라요." },
+    { "text": "Please remind me to update the test plan after the review.", "tag": "업무", "ko": "리뷰 끝나면 테스트 플랜 업데이트하라고 저한테 알려 주세요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w42-17",
+   "text": "stick to",
+   "meaning": "(계획·규칙을) 지키다, 고수하다",
+   "note": "이미 배운 \"stick it out(끝까지 버티다, W40)\"과는 뜻이 달라요. stick to 뒤에는 계획·일정·예산·규칙 같은 명사가 옵니다 — stick to the plan, stick to a budget. \"Stick to the point\"는 \"요점에서 벗어나지 마\".",
+   "answers": ["Easier said than done.", "Let's try to stick to it."],
+   "examples": [
+    { "text": "I'm trying to stick to a budget this month.", "tag": "일상", "ko": "이번 달엔 예산을 지키려고 노력하고 있어요." },
+    { "text": "Let's stick to the plan and leave at eight.", "tag": "일상", "ko": "계획대로 8시에 출발합시다." },
+    { "text": "Let's stick to the original test matrix so the results stay comparable.", "tag": "업무", "ko": "결과를 비교할 수 있도록 원래 테스트 매트릭스를 그대로 지킵시다." }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w42-18",
+   "text": "keep up with",
+   "meaning": "(속도·변화를) 따라가다, 뒤처지지 않다",
+   "note": "처음부터 뒤처지지 않게 속도를 맞춘다는 뜻이에요. 이미 배운 \"catch up on(W41)\"이 이미 밀린 것을 따라잡는 거라면, keep up with는 밀리지 않게 유지하는 쪽입니다. \"Keep up the good work(계속 잘해 주세요)\"는 다른 용법이에요.",
+   "answers": ["It's hard to keep up, isn't it?", "Let me know if you fall behind."],
+   "examples": [
+    { "text": "It's hard to keep up with all the new apps these days.", "tag": "일상", "ko": "요즘 새로 나오는 앱들을 다 따라가기 힘들어요." },
+    { "text": "I walk fast — can you keep up with me?", "tag": "일상", "ko": "제가 걸음이 빠른데 — 따라올 수 있겠어요?" },
+    { "text": "It's tough to keep up with all the spec revisions for PCIe Gen6.", "tag": "업무", "ko": "PCIe Gen6 스펙 개정판을 다 따라가기가 힘들어요." }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w42-19",
+   "text": "talk with / talk to",
+   "meaning": "~와 이야기하다",
+   "note": "거의 같은 뜻으로 바꿔 써도 됩니다. talk with는 서로 주고받는 대화라는 느낌이 조금 더 있고, talk to는 한쪽이 말을 거는 느낌도 있어요 — 상사가 \"I need to talk to you\"라고 하면 진지한 얘기일 수 있습니다. 주제를 붙일 때는 \"talk to + 사람 + about + 주제\".",
+   "answers": ["Sure, when's a good time?", "I'll talk to them today."],
+   "examples": [
+    { "text": "I need to talk to my landlord about the heater.", "tag": "일상", "ko": "히터 문제로 집주인이랑 얘기해야 해요." },
+    { "text": "I talked with my sister for hours last night.", "tag": "일상", "ko": "어젯밤에 언니랑 몇 시간 동안 이야기했어요." },
+    { "text": "Let's talk with the PHY team before we change the equalization settings.", "tag": "업무", "ko": "이퀄라이제이션 설정을 바꾸기 전에 PHY 팀이랑 얘기해 봅시다." }
+   ],
+   "day": 5
+  }
+ ]
+}
