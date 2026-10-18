@@ -1,0 +1,254 @@
+{
+ "week": "2026-W43",
+ "studiedOn": "2026-10-17~18",
+ "label": "10/19~10/23 복습",
+ "phrases": [
+  {
+   "id": "w43-1",
+   "text": "Is something wrong?",
+   "meaning": "무슨 문제 있어요? / 뭐가 잘못됐어요?",
+   "note": "상대 표정이나 상황이 이상해 보일 때 묻는 말이에요. 무엇에 문제가 있는지 붙이려면 \"Is something wrong with ~?\". 더 직접적으로는 \"What's wrong?\", 더 부드럽게는 \"Is everything okay?\". 이미 배운 \"to see what was wrong(W42)\"과 이어서 써 보세요.",
+   "answers": ["No, I'm fine. Just a little tired.", "Actually, yes. Can I talk to you for a minute?"],
+   "examples": [
+    { "text": "You look upset. Is something wrong?", "tag": "일상", "ko": "속상해 보여요. 무슨 일 있어요?" },
+    { "text": "Is something wrong with your phone? The call keeps cutting out.", "tag": "일상", "ko": "휴대폰에 무슨 문제 있어요? 통화가 계속 끊겨요." },
+    { "text": "Is something wrong with the PCIe link training?", "tag": "업무", "ko": "PCIe 링크 트레이닝에 무슨 문제 있나요?" }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w43-2",
+   "text": "ask someone to + 동사원형",
+   "meaning": "~에게 ~해 달라고 부탁하다",
+   "note": "부탁·요청의 가장 기본형이에요. 하지 말아 달라고 할 때는 \"ask someone not to ~\". 이미 배운 \"ask someone a question(W36)\"과는 구조가 다릅니다. 강도로 보면 ask(부탁) < request(격식 있는 요청), tell은 지시에 가깝습니다.",
+   "answers": ["Sure, I'll ask him.", "Did you ask them to do it?"],
+   "examples": [
+    { "text": "I asked my neighbor to water the plants while I'm away.", "tag": "일상", "ko": "제가 없는 동안 화분에 물 좀 주라고 이웃에게 부탁했어요." },
+    { "text": "She asked me not to tell anyone.", "tag": "일상", "ko": "그녀가 아무한테도 말하지 말아 달라고 부탁했어요." },
+    { "text": "Let's ask the board team to double-check the reference clock routing.", "tag": "업무", "ko": "보드팀에 레퍼런스 클럭 라우팅을 다시 확인해 달라고 부탁합시다." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w43-3",
+   "text": "tell someone to + 동사원형",
+   "meaning": "~에게 ~하라고 말하다 (지시하다)",
+   "note": "ask보다 지시하는 느낌이 강해요. 윗사람이 말하거나, 누가 시킨 말을 전달할 때 자주 씁니다. 하지 말라고 할 때는 \"tell someone not to ~\". 단순히 사실을 전할 때는 \"tell someone that ~\"입니다.",
+   "answers": ["Who told you to do that?", "Okay, I'll tell them."],
+   "examples": [
+    { "text": "The doctor told me to get more rest.", "tag": "일상", "ko": "의사가 저한테 좀 더 쉬라고 했어요." },
+    { "text": "My mom always told me not to talk to strangers.", "tag": "일상", "ko": "엄마는 늘 모르는 사람과 말하지 말라고 하셨어요." },
+    { "text": "My manager told me to prioritize the Gen5 compliance issue this week.", "tag": "업무", "ko": "매니저가 이번 주엔 Gen5 컴플라이언스 이슈를 최우선으로 하라고 했어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w43-4",
+   "text": "request someone to + 동사원형",
+   "meaning": "~에게 ~해 줄 것을 요청하다 (격식)",
+   "note": "이메일이나 공식 문서에 쓰는 격식 표현이에요. 대화에서는 ask가 훨씬 자연스럽습니다. 격식 있는 글에서는 \"request that + 주어 + 동사원형\"(We request that the vendor provide ~)이나 \"request + 명사\"(request the latest FW) 형태도 자주 씁니다.",
+   "answers": ["I'll send the request today.", "Has the vendor responded yet?"],
+   "examples": [
+    { "text": "The hotel requested guests to check out by 11 a.m.", "tag": "일상", "ko": "호텔에서 손님들에게 오전 11시까지 체크아웃해 달라고 요청했어요." },
+    { "text": "The flight attendant requested passengers to stay seated.", "tag": "일상", "ko": "승무원이 승객들에게 자리에 앉아 있어 달라고 요청했어요." },
+    { "text": "We need to request the IP vendor to provide the latest FW.", "tag": "업무", "ko": "IP 벤더에 최신 펌웨어를 제공해 달라고 요청해야 합니다." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w43-5",
+   "text": "go through",
+   "meaning": "(힘든 일을) 겪다 / (하나하나) 검토하다 / (승인·결제가) 통과되다",
+   "note": "뜻이 세 가지예요. ① 힘든 일을 겪다 — go through a hard time ② 자료를 하나하나 살펴보다 — go through the logs ③ 승인·결제가 통과되다 — The payment went through. 아래 예문이 순서대로 ①, ③, ②입니다. 이미 배운 \"get through(W41)\"는 끝까지 빠져나온다는 쪽이고, go through는 그 과정을 겪는다는 쪽이에요.",
+   "answers": ["That must have been hard to go through.", "Let's go through it together."],
+   "examples": [
+    { "text": "She went through a lot last year.", "tag": "일상", "ko": "[겪다] 그녀는 작년에 많은 일을 겪었어요." },
+    { "text": "My payment didn't go through, so I tried another card.", "tag": "일상", "ko": "[통과되다] 결제가 안 돼서 다른 카드로 해 봤어요." },
+    { "text": "Let's go through the compliance logs line by line.", "tag": "업무", "ko": "[검토하다] 컴플라이언스 로그를 한 줄씩 살펴봅시다." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w43-6",
+   "text": "It's not like + 주어 + 동사",
+   "meaning": "~인 것도 아니잖아요",
+   "note": "상대의 걱정이나 오해를 가볍게 반박할 때 써요. \"그렇다고 ~한 것도 아니고\"라는 느낌입니다. \"It's not like I have a choice(내가 선택권이 있는 것도 아니고)\"처럼 체념을 표현할 때도 씁니다.",
+   "answers": ["Fair point.", "I know, but still."],
+   "examples": [
+    { "text": "Just ask her. It's not like she's going to say no.", "tag": "일상", "ko": "그냥 물어봐요. 그녀가 거절할 것도 아니잖아요." },
+    { "text": "It's not like I have a choice — the store is closed tomorrow.", "tag": "일상", "ko": "제가 선택권이 있는 것도 아니에요 — 내일은 가게가 문을 닫거든요." },
+    { "text": "It's not like the bug will fix itself — we need to root-cause it.", "tag": "업무", "ko": "버그가 저절로 고쳐지는 것도 아니잖아요 — 근본 원인을 찾아야 해요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w43-7",
+   "text": "Either way",
+   "meaning": "어느 쪽이든, 어쨌든",
+   "note": "두 경우 중 어느 쪽이 되든 결론은 같다는 뜻이에요. 문장 앞에도 뒤에도 씁니다. 이미 배운 \"neither of(둘 다 아니다, W40)\"와 짝으로 기억하세요 — either는 \"둘 중 어느 쪽이든\"입니다.",
+   "answers": ["Either way works for me.", "Then let's just pick one."],
+   "examples": [
+    { "text": "We can take the bus or the subway — either way, it takes about 30 minutes.", "tag": "일상", "ko": "버스든 지하철이든 — 어느 쪽이든 30분쯤 걸려요." },
+    { "text": "I'm fine with pizza or pasta. Either way is good.", "tag": "일상", "ko": "피자도 파스타도 좋아요. 어느 쪽이든 괜찮아요." },
+    { "text": "Whether it's the cable or the PHY, either way we need to rerun the test.", "tag": "업무", "ko": "케이블 문제든 PHY 문제든, 어느 쪽이든 테스트를 다시 돌려야 해요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w43-8",
+   "text": "It's hard to + 동사원형",
+   "meaning": "~하기 어렵다",
+   "note": "it은 가주어이고 진짜 주어는 \"to + 동사원형\"이에요. 누구에게 어려운지 넣으려면 \"It's hard for me to ~\". 반대는 \"It's easy to ~\". 이미 배운 \"It's hard to stay focused(W40)\"가 바로 이 형태입니다.",
+   "answers": ["I know what you mean.", "What makes it so hard?"],
+   "examples": [
+    { "text": "It's hard to wake up early in winter.", "tag": "일상", "ko": "겨울엔 일찍 일어나기가 힘들어요." },
+    { "text": "It's hard for me to say no to my friends.", "tag": "일상", "ko": "저는 친구들한테 거절하기가 어려워요." },
+    { "text": "It's hard to reproduce the error because it only happens once every few hours.", "tag": "업무", "ko": "몇 시간에 한 번만 일어나서 그 에러를 재현하기가 어려워요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w43-9",
+   "text": "How does ~ sound?",
+   "meaning": "~ 어때요? (제안하고 의견 묻기)",
+   "note": "무언가를 제안하면서 상대 생각을 물을 때 써요 — \"How does 7 p.m. sound?\", 짧게 \"How does that sound?\". 대답은 \"Sounds good\" / \"Sounds great\". 이미 배운 \"Does ~ work for you?(W38)\"가 주로 시간·날짜를 묻는다면, 이건 메뉴·계획 등 제안 전반에 씁니다.",
+   "answers": ["Sounds good to me.", "That sounds great."],
+   "examples": [
+    { "text": "How does Italian food sound for dinner?", "tag": "일상", "ko": "저녁으로 이탈리안 음식 어때요?" },
+    { "text": "How does Saturday morning sound?", "tag": "일상", "ko": "토요일 오전 어때요?" },
+    { "text": "How does a quick sync at 3 p.m. sound to discuss the CRC errors?", "tag": "업무", "ko": "CRC 에러 논의하려고 오후 3시에 잠깐 싱크하는 거 어때요?" }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w43-10",
+   "text": "How about ~?",
+   "meaning": "~은 어때요?",
+   "note": "뒤에 명사, 동명사(-ing), 문장이 모두 올 수 있어요 — How about lunch? / How about going for a walk? / How about we leave early? 비슷한 \"What about ~?\"은 제안 외에 \"~은 어떻게 하고요?\"라고 빠진 걸 짚을 때도 씁니다.",
+   "answers": ["Sounds like a plan.", "How about something else?"],
+   "examples": [
+    { "text": "How about going for a walk after dinner?", "tag": "일상", "ko": "저녁 먹고 산책하는 거 어때요?" },
+    { "text": "How about we order in tonight?", "tag": "일상", "ko": "오늘 밤엔 배달시켜 먹는 거 어때요?" },
+    { "text": "How about running the test on a second board to rule out a board issue?", "tag": "업무", "ko": "보드 문제를 배제하려고 두 번째 보드에서 테스트를 돌려 보는 건 어때요?" }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w43-11",
+   "text": "I'd rather + 동사원형",
+   "meaning": "차라리 ~하는 게 낫겠어요, ~하고 싶어요",
+   "note": "I'd는 I would의 줄임말이고 뒤에 동사원형이 옵니다. 비교할 때는 \"I'd rather A than B\". 정중하게 거절할 때는 \"I'd rather not.\"",
+   "answers": ["That's fine with me.", "Are you sure?"],
+   "examples": [
+    { "text": "I'd rather stay home tonight.", "tag": "일상", "ko": "오늘 밤엔 차라리 집에 있을래요." },
+    { "text": "I'd rather walk than wait for the bus.", "tag": "일상", "ko": "버스를 기다리느니 차라리 걸어갈래요." },
+    { "text": "I'd rather delay the release than ship with a known link stability issue.", "tag": "업무", "ko": "링크 안정성 문제를 알면서 출하하느니 차라리 릴리스를 미루겠어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w43-12",
+   "text": "what to do",
+   "meaning": "무엇을 해야 할지",
+   "note": "\"의문사 + to + 동사원형\"은 \"~해야 할지\"라는 뜻이에요. how to / where to / when to / what to say도 같은 구조입니다. 이미 배운 \"figure out how to(W39)\"가 이 형태예요. 가장 많이 쓰는 문장은 \"I don't know what to do.\"",
+   "answers": ["Let's figure it out together.", "Why don't you ask someone for advice?"],
+   "examples": [
+    { "text": "I don't know what to do this weekend.", "tag": "일상", "ko": "이번 주말에 뭘 해야 할지 모르겠어요." },
+    { "text": "She wasn't sure what to say.", "tag": "일상", "ko": "그녀는 무슨 말을 해야 할지 몰랐어요." },
+    { "text": "We need to decide what to do if the vendor fix doesn't arrive in time.", "tag": "업무", "ko": "벤더 수정이 제때 안 오면 어떻게 할지 정해야 해요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w43-13",
+   "text": "gather around",
+   "meaning": "(~ 주위로) 모이다",
+   "note": "한 사람이나 물건 주변에 둥글게 모이는 거예요. 모두 모이라고 부를 때 \"Gather around, everyone!\". 이미 배운 \"gather to + 동사원형(~하려고 모이다, W41)\"과 짝으로 외워 두세요. 영국식으로는 gather round.",
+   "answers": ["Coming!", "What's going on?"],
+   "examples": [
+    { "text": "The kids gathered around the campfire.", "tag": "일상", "ko": "아이들이 모닥불 주위로 모였어요." },
+    { "text": "Everyone gathered around to watch her cut the cake.", "tag": "일상", "ko": "그녀가 케이크 자르는 걸 보려고 모두 주위로 모였어요." },
+    { "text": "The team gathered around the scope to look at the eye diagram.", "tag": "업무", "ko": "팀원들이 아이 다이어그램을 보려고 스코프 주위로 모였어요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w43-14",
+   "text": "get together",
+   "meaning": "모이다, 만나다",
+   "note": "친구나 가족이 만나서 어울리는 걸 말해요. gather보다 구어적입니다. 명사로 \"a get-together(모임)\"도 씁니다. 이미 배운 \"catch up(W41)\"과 같이 \"Let's get together and catch up\"처럼 쓰기 좋아요.",
+   "answers": ["I'd love to. When?", "Let's do it soon."],
+   "examples": [
+    { "text": "Let's get together for dinner next week.", "tag": "일상", "ko": "다음 주에 만나서 저녁 먹어요." },
+    { "text": "We get together every year for the holidays.", "tag": "일상", "ko": "우리는 매년 명절에 모여요." },
+    { "text": "Let's get together after the review to plan the next test phase.", "tag": "업무", "ko": "리뷰 끝나고 모여서 다음 테스트 단계를 계획합시다." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w43-15",
+   "text": "a + 시간 + 's drive",
+   "meaning": "차로 ~ 걸리는 거리",
+   "note": "\"an hour's drive\"처럼 시간 뒤에 's를 붙여요. 복수면 아포스트로피만 붙입니다 — \"two hours' drive\". 하이픈으로 \"a 30-minute drive\"라고도 하고, 걸어서는 \"a ten-minute walk\".",
+   "answers": ["That's not too far.", "Is it worth the drive?"],
+   "examples": [
+    { "text": "The beach is about an hour's drive from here.", "tag": "일상", "ko": "바닷가는 여기서 차로 한 시간쯤 거리예요." },
+    { "text": "My parents live two hours' drive away.", "tag": "일상", "ko": "부모님은 차로 두 시간 거리에 사세요." },
+    { "text": "The vendor's lab is an hour's drive away, so we'll bring the boards ourselves.", "tag": "업무", "ko": "벤더 랩이 차로 한 시간 거리라서, 보드는 저희가 직접 가져갈게요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w43-16",
+   "text": "pair well with",
+   "meaning": "~와 잘 어울리다",
+   "note": "음식과 와인, 옷과 신발처럼 조합이 좋다고 할 때 자주 써요. \"go well with\"와 비슷합니다. 강조하면 \"pair perfectly with\".",
+   "answers": ["Good to know!", "What else pairs well with it?"],
+   "examples": [
+    { "text": "This red wine pairs well with steak.", "tag": "일상", "ko": "이 레드 와인은 스테이크와 잘 어울려요." },
+    { "text": "Spicy food pairs well with a cold beer.", "tag": "일상", "ko": "매운 음식은 시원한 맥주와 잘 어울려요." },
+    { "text": "This protocol analyzer pairs well with our automation scripts.", "tag": "업무", "ko": "이 프로토콜 분석기는 우리 자동화 스크립트와 잘 맞아요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w43-17",
+   "text": "challenge",
+   "meaning": "도전, 해볼 만한 어려운 과제",
+   "note": "명사로 쓰면 \"어렵지만 해볼 만한 일\"이라는 긍정적인 뉘앙스가 있어요. \"take on a challenge\"는 \"도전을 받아들이다\", \"I'm up for the challenge\"는 \"해볼게요\". 동사 challenge는 \"이의를 제기하다\"라는 뜻이 강하니 구분하세요.",
+   "answers": ["I'm up for the challenge.", "Good luck! You can do it."],
+   "examples": [
+    { "text": "I decided to take on the challenge of running a marathon.", "tag": "일상", "ko": "마라톤 완주라는 도전을 해 보기로 했어요." },
+    { "text": "Learning to cook has been a fun challenge.", "tag": "일상", "ko": "요리를 배우는 건 재미있는 도전이었어요." },
+    { "text": "Validating a new IP is a challenge, but it's worth it for our growth.", "tag": "업무", "ko": "새 IP를 검증하는 건 어려운 일이지만, 우리 성장을 위해 그만한 가치가 있어요." }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w43-18",
+   "text": "pros and cons",
+   "meaning": "장단점",
+   "note": "\"pros and cons of + 명사\", 또는 \"pros and cons to ~ing\"로 씁니다. \"weigh the pros and cons\"는 \"장단점을 따져 보다\"예요. 한쪽만 말할 때는 \"one of the pros is ~\".",
+   "answers": ["What are the pros?", "Let's weigh them before we decide."],
+   "examples": [
+    { "text": "There are pros and cons to working from home.", "tag": "일상", "ko": "재택근무에는 장단점이 있어요." },
+    { "text": "Let's weigh the pros and cons before we buy a new car.", "tag": "일상", "ko": "새 차 사기 전에 장단점을 따져 봐요." },
+    { "text": "We discussed the pros and cons of moving to the new test platform.", "tag": "업무", "ko": "새 테스트 플랫폼으로 옮기는 것의 장단점을 논의했어요." }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w43-19",
+   "text": "suit me best",
+   "meaning": "나한테 가장 잘 맞다",
+   "note": "suit는 조건이나 스타일이 \"맞다, 어울리다\"예요. 상대에게 물을 때는 \"Which option suits you best?\". 옷이나 색이 어울린다고 할 때도 \"That color suits you\". 시간 약속이라면 이미 배운 \"Does ~ work for you?(W38)\"도 같이 쓸 수 있어요.",
+   "answers": ["Then let's go with that.", "Whatever suits you best."],
+   "examples": [
+    { "text": "A morning class suits me best.", "tag": "일상", "ko": "오전 수업이 저한테 가장 잘 맞아요." },
+    { "text": "Which time suits you best?", "tag": "일상", "ko": "어느 시간이 가장 편하세요?" },
+    { "text": "The remote debugging setup suits me best since I can monitor the lab from my desk.", "tag": "업무", "ko": "자리에서 랩을 모니터링할 수 있어서 원격 디버깅 셋업이 저한테 가장 잘 맞아요." }
+   ],
+   "day": 5
+  }
+ ]
+}
