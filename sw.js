@@ -1,6 +1,6 @@
 // 주간 영어 복습 — offline app shell + weekly data cache.
 // index.html / manifest / icons 를 바꾸면 CACHE_NAME 의 v 숫자를 올리세요.
-var CACHE_NAME = "weekly-review-v3";
+var CACHE_NAME = "weekly-review-v5";
 var APP_SHELL = [
   "./",
   "./index.html",

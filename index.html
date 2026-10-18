@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>주간 영어 복습</title>
 <link rel="manifest" href="manifest.json">
-<meta name="theme-color" content="#2F6659">
+<meta name="theme-color" content="#1F5FBF">
 <link rel="icon" href="icon-192.png">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,32 +13,32 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,380..600&family=Noto+Sans+KR:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap">
 <style>
   :root{
-    --bg:#EFEBDD; --surface:#FBF9F1; --surface-alt:#E4DFCD;
-    --ink:#23281F; --ink-soft:#5B5F4E;
-    --accent:#2F6659; --accent-ink:#F2F7F4; --accent-soft:#DCE8D9;
+    --bg:#FFFFFF; --surface:#FFFFFF; --surface-alt:#F2F4F7;
+    --ink:#1F2329; --ink-soft:#5B6270;
+    --accent:#1F5FBF; --accent-ink:#FFFFFF; --accent-soft:#E4EDFB;
     --gold:#B9852F; --gold-soft:#F1E4C7;
     --danger:#A6432E; --danger-soft:#F3E1DB;
-    --border:#D8D2BC;
-    --shadow:0 1px 2px rgba(35,40,31,.08), 0 6px 18px rgba(35,40,31,.07);
+    --border:#E0E4EA;
+    --shadow:0 1px 2px rgba(20,30,50,.07), 0 6px 18px rgba(20,30,50,.06);
   }
   @media (prefers-color-scheme: dark){
     :root:not([data-theme="light"]){
-      --bg:#12160F; --surface:#1B211A; --surface-alt:#232B20;
-      --ink:#ECE7D8; --ink-soft:#A9AC98;
-      --accent:#6FAE97; --accent-ink:#0E1B16; --accent-soft:#22332C;
+      --bg:#111418; --surface:#1A1E25; --surface-alt:#232933;
+      --ink:#E8EAEE; --ink-soft:#A3A9B4;
+      --accent:#7FA8F0; --accent-ink:#0B1626; --accent-soft:#1C2A44;
       --gold:#D9A64E; --gold-soft:#3A2E18;
       --danger:#D97A62; --danger-soft:#34211C;
-      --border:#313829;
+      --border:#2E343E;
       --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 24px rgba(0,0,0,.35);
     }
   }
   :root[data-theme="dark"]{
-    --bg:#12160F; --surface:#1B211A; --surface-alt:#232B20;
-    --ink:#ECE7D8; --ink-soft:#A9AC98;
-    --accent:#6FAE97; --accent-ink:#0E1B16; --accent-soft:#22332C;
+    --bg:#111418; --surface:#1A1E25; --surface-alt:#232933;
+    --ink:#E8EAEE; --ink-soft:#A3A9B4;
+    --accent:#7FA8F0; --accent-ink:#0B1626; --accent-soft:#1C2A44;
     --gold:#D9A64E; --gold-soft:#3A2E18;
     --danger:#D97A62; --danger-soft:#34211C;
-    --border:#313829;
+    --border:#2E343E;
     --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 24px rgba(0,0,0,.35);
   }
 
@@ -91,7 +91,7 @@
   /* ---------- tabs ---------- */
   .tabs{display:flex;gap:3px;background:var(--surface-alt);padding:4px;border-radius:12px;margin-bottom:18px;}
   .tab{flex:1;border:none;background:transparent;color:var(--ink-soft);font-family:inherit;
-    font-size:.88rem;font-weight:500;padding:9px 6px;border-radius:9px;cursor:pointer;}
+    font-size:.85rem;font-weight:500;padding:9px 4px;border-radius:9px;cursor:pointer;white-space:nowrap;}
   .tab[aria-selected="true"]{background:var(--surface);color:var(--ink);box-shadow:var(--shadow);}
 
   .view{display:none;}
@@ -204,6 +204,21 @@
   }
   .prow-top{display:flex;align-items:center;gap:10px;}
   .prow-text{flex:1;font-weight:500;font-size:.97rem;cursor:pointer;min-width:0;}
+  .search-box{position:relative;margin-bottom:10px;}
+  .search-box input{
+    width:100%;font-family:inherit;font-size:1rem;padding:13px 14px 13px 40px;border-radius:12px;
+    border:1.5px solid var(--border);background:var(--surface);color:var(--ink);outline:none;
+  }
+  .search-box input:focus{border-color:var(--accent);}
+  .search-box .s-ico{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:.95rem;color:var(--ink-soft);pointer-events:none;}
+  .search-hint{font-size:.78rem;color:var(--ink-soft);margin:0 0 14px;line-height:1.55;}
+  .search-count{font-size:.82rem;color:var(--ink-soft);margin:0 0 10px;}
+  .hit{display:block;font-weight:400;font-size:.83rem;color:var(--ink);margin-top:7px;line-height:1.5;}
+  .hit-ko{display:block;font-weight:400;font-size:.78rem;color:var(--ink-soft);margin-top:2px;}
+  .hit-where{display:inline-block;font-size:.66rem;font-weight:700;padding:1px 6px;border-radius:10px;
+    background:var(--surface-alt);color:var(--ink-soft);margin-right:6px;vertical-align:1px;}
+  .hit-week{display:block;font-weight:400;font-size:.72rem;color:var(--ink-soft);margin-top:6px;}
+  mark{background:var(--gold-soft);color:inherit;padding:0 2px;border-radius:3px;}
   .prow-text small{display:block;font-weight:400;font-size:.79rem;color:var(--ink-soft);margin-top:2px;}
   .prow input[type=checkbox]{width:17px;height:17px;accent-color:var(--accent);flex-shrink:0;}
   .prow-detail{margin-top:12px;border-top:1px solid var(--border);padding-top:12px;}
@@ -279,6 +294,7 @@
     <button class="tab" data-view="today" role="tab" aria-selected="true">오늘</button>
     <button class="tab" data-view="week" role="tab" aria-selected="false">이번 주</button>
     <button class="tab" data-view="all" role="tab" aria-selected="false">전체</button>
+    <button class="tab" data-view="search" role="tab" aria-selected="false">검색</button>
     <button class="tab" data-view="settings" role="tab" aria-selected="false">설정</button>
   </nav>
 
@@ -310,6 +326,16 @@
       <button class="btn btn-soft btn-block" id="autoplay-start-btn" type="button" style="margin-bottom:16px;">🔀 예문 전체 랜덤 재생</button>
       <ul class="plist" id="all-list"></ul>
       <p class="empty-note" id="all-empty" hidden>검색 결과가 없어요.</p>
+    </section>
+
+    <section id="view-search" class="view" data-active="false">
+      <div class="search-box">
+        <span class="s-ico">🔍</span>
+        <input type="search" id="q" placeholder="예: work out · 미루다 · PCIe" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+      </div>
+      <p class="search-hint" id="search-hint">표현 · 뜻 · 설명 · 예문 · 대답에서 찾아요. 영어는 변형도 같이 찾습니다 — "work out"으로 worked out, working out, work it out까지.</p>
+      <p class="search-count" id="search-count" hidden></p>
+      <ul class="plist" id="search-list"></ul>
     </section>
 
     <section id="view-settings" class="view" data-active="false">
@@ -1063,6 +1089,137 @@
     }
   }
 
+  // ---------- search ----------
+  function escRe(t){ return t.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }
+
+  // 검색어 → 정규식. 영어는 단어 앞부분 일치 + 사이에 단어 0~2개 허용
+  // ("work out" → work out / worked out / working out / work it out)
+  function makeMatcher(q){
+    q = (q || "").trim();
+    if (!q) return null;
+    if (/[^\x00-\x7F]/.test(q)){
+      return new RegExp(escRe(q.replace(/\s+/g, " ")), "gi");
+    }
+    var toks = q.toLowerCase().replace(/[’]/g, "'").split(/[^a-z0-9']+/).filter(Boolean);
+    if (!toks.length) return null;
+    var parts = toks.map(function(t){ return "\\b" + escRe(t) + "[a-z']*"; });
+    return new RegExp(parts.join("(?:[^a-z0-9']+[a-z0-9']+){0,2}?[^a-z0-9']+"), "gi");
+  }
+  function findRanges(text, re){
+    var out = [], m;
+    if (!text) return out;
+    text = String(text).replace(/[’]/g, "'");
+    re.lastIndex = 0;
+    while ((m = re.exec(text))){
+      if (!m[0].length){ re.lastIndex++; continue; }
+      out.push([m.index, m.index + m[0].length]);
+    }
+    return out;
+  }
+  function highlight(text, ranges){
+    text = String(text || "");
+    if (!ranges || !ranges.length) return esc(text);
+    var html = "", pos = 0;
+    ranges.forEach(function(r){
+      html += esc(text.slice(pos, r[0])) + "<mark>" + esc(text.slice(r[0], r[1])) + "</mark>";
+      pos = r[1];
+    });
+    return html + esc(text.slice(pos));
+  }
+  function excerpt(text, ranges){
+    // 긴 설명은 첫 일치 부분 주변만 잘라서 보여줌
+    var start = Math.max(0, ranges[0][0] - 30), end = Math.min(text.length, ranges[0][1] + 50);
+    var cut = text.slice(start, end);
+    var shifted = ranges.filter(function(r){ return r[0] >= start && r[1] <= end; })
+                        .map(function(r){ return [r[0] - start, r[1] - start]; });
+    return (start > 0 ? "…" : "") + highlight(cut, shifted) + (end < text.length ? "…" : "");
+  }
+  function normText(t){ return String(t || "").toLowerCase().replace(/[^a-z0-9가-힣]+/g, " ").trim(); }
+
+  function searchPhrases(q){
+    var re = makeMatcher(q);
+    if (!re) return [];
+    var qn = normText(q), res = [];
+    allPhrases.forEach(function(p){
+      var hit = null, r;
+      if ((r = findRanges(p.text, re)).length){
+        hit = { score: 300, where: "표현", titleRanges: r };
+        if (normText(p.text).replace(/ ?(동사원형|명사|주어|동사|사람|장소|시간|숫자|목적어|절)/g, "").trim() === qn) hit.score += 60;
+        hit.score -= Math.min(40, p.text.length / 3);
+      } else if ((r = findRanges(p.meaning, re)).length){
+        hit = { score: 200, where: "뜻", snippet: highlight(p.meaning, r) };
+      } else {
+        var ex = null;
+        (p.examples || []).some(function(e){
+          var a = findRanges(e.text, re);
+          if (a.length){ ex = { html: highlight(e.text, a), ko: e.ko || "" }; return true; }
+          var b = findRanges(e.ko, re);
+          if (b.length){ ex = { html: esc(e.text), ko: highlight(e.ko, b), koHL: true }; return true; }
+          return false;
+        });
+        if (ex){
+          hit = { score: 100, where: "예문", snippet: ex.html, ko: ex.ko, koHL: !!ex.koHL };
+        } else if ((r = findRanges(p.note, re)).length){
+          hit = { score: 150, where: "설명", snippet: excerpt(String(p.note), r) };
+        } else {
+          (p.answers || []).some(function(a){
+            var x = findRanges(a, re);
+            if (x.length){ hit = { score: 90, where: "대답", snippet: highlight(a, x) }; return true; }
+            return false;
+          });
+        }
+      }
+      if (hit){ hit.p = p; res.push(hit); }
+    });
+    res.sort(function(a, b){
+      if (b.score !== a.score) return b.score - a.score;
+      return a.p._week < b.p._week ? 1 : a.p._week > b.p._week ? -1 : 0;
+    });
+    return res;
+  }
+
+  function searchRowHTML(h){
+    var p = h.p;
+    var title = h.where === "표현" ? highlight(p.text, h.titleRanges) : esc(p.text);
+    var body = '';
+    if (h.where !== "표현"){
+      body = '<span class="hit"><span class="hit-where">' + h.where + '</span>' + h.snippet + '</span>';
+      if (h.where === "예문" && h.ko) body += '<span class="hit-ko">' + (h.koHL ? h.ko : esc(h.ko)) + '</span>';
+    }
+    return '<li class="prow" data-id="' + esc(p.id) + '" data-mastered="' + (state.mastered[p.id] ? "true" : "false") + '">' +
+      '<div class="prow-top">' +
+        '<input type="checkbox" class="row-mastered" ' + (state.mastered[p.id] ? "checked" : "") + ' aria-label="외웠어요">' +
+        '<div class="prow-text">' + title +
+          (p.meaning ? '<small>' + esc(p.meaning) + '</small>' : '') + body +
+          '<span class="hit-week">' + esc(p._week) + ' · ' + esc(p._weekLabel) + '</span>' +
+        '</div>' +
+        (speechSupported ? '<button class="icon-btn row-speak" type="button" data-say="' + esc(p.text) + '" aria-label="발음 듣기">🔊</button>' : '') +
+      '</div>' +
+      '<div class="prow-detail" hidden></div>' +
+    '</li>';
+  }
+
+  function renderSearch(){
+    var q = $("q").value;
+    var list = $("search-list"), count = $("search-count");
+    if (!q.trim()){
+      list.innerHTML = ""; count.hidden = true; $("search-hint").hidden = false;
+      return;
+    }
+    $("search-hint").hidden = true;
+    var res = searchPhrases(q);
+    count.hidden = false;
+    if (!res.length){
+      count.textContent = "찾는 표현이 없어요. 더 짧게(예: \"work\") 다시 찾아 보세요.";
+      list.innerHTML = "";
+      return;
+    }
+    var nTitle = res.filter(function(h){ return h.where === "표현"; }).length;
+    count.textContent = res.length + "개 표현" + (nTitle ? " · 표현 이름에서 " + nTitle + "개" : "");
+    list.innerHTML = res.slice(0, 80).map(searchRowHTML).join("");
+    bindRows(list);
+  }
+
   // ---------- views ----------
   function switchView(view){
     Array.prototype.forEach.call(document.querySelectorAll(".tab"), function(t){
@@ -1075,6 +1232,7 @@
     if (view === "week")  renderWeek();
     if (view === "all")   { fillWeekFilter(); renderAll(); }
     if (view === "settings") renderSettings();
+    if (view === "search") { renderSearch(); setTimeout(function(){ try{ $("q").focus(); }catch(e){} }, 50); }
   }
 
   // ---------- wiring ----------
@@ -1084,6 +1242,8 @@
     });
 
     $("search-input").addEventListener("input", renderAll);
+    var qTimer = null;
+    $("q").addEventListener("input", function(){ clearTimeout(qTimer); qTimer = setTimeout(renderSearch, 120); });
     $("week-filter").addEventListener("change", renderAll);
     $("include-mastered").addEventListener("change", renderAll);
 
