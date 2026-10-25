@@ -1,0 +1,215 @@
+{
+ "week": "2026-W44",
+ "studiedOn": "2026-10-24~25",
+ "label": "10/26~10/30 복습",
+ "phrases": [
+  {
+   "id": "w44-1",
+   "text": "be in charge of / get put in charge of",
+   "meaning": "~을 맡고 있다, 책임지다 / ~을 맡게 되다",
+   "note": "of 뒤에는 명사나 동명사가 와요. \"be in charge of\"는 지금 책임자라는 상태이고, \"get put in charge of\"는 누가 시켜서 맡게 됐다는 수동 표현입니다. 책임자를 찾을 때는 \"Who's in charge here?\"",
+   "answers": ["Congrats! That's a big responsibility.", "Who's in charge of it now?"],
+   "examples": [
+    { "text": "My sister is in charge of planning the family trip this year.", "tag": "일상", "ko": "올해 가족 여행 계획은 언니가 맡고 있어요." },
+    { "text": "I got put in charge of the snacks for the party.", "tag": "일상", "ko": "파티 간식 담당을 제가 맡게 됐어요." },
+    { "text": "I got put in charge of the PCIe Gen6 compliance testing this quarter.", "tag": "업무", "ko": "이번 분기에 PCIe Gen6 컴플라이언스 테스트를 제가 맡게 됐어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w44-2",
+   "text": "along with",
+   "meaning": "~와 함께, ~에 더해",
+   "note": "\"A along with B\"는 A가 중심이고 B가 덧붙는 느낌이에요. 주어 자리에서 쓰면 동사는 A에 맞춥니다 — \"The lead, along with two engineers, is joining the call.\" \"together with\"와 비슷합니다.",
+   "answers": ["Got it. I'll check both.", "Should we include anything else?"],
+   "examples": [
+    { "text": "I bought some bread along with the milk.", "tag": "일상", "ko": "우유랑 같이 빵도 좀 샀어요." },
+    { "text": "She sent a thank-you card along with the gift.", "tag": "일상", "ko": "그녀는 선물과 함께 감사 카드를 보냈어요." },
+    { "text": "We need to verify the link layer requirements along with the physical layer.", "tag": "업무", "ko": "물리 계층과 함께 링크 계층 요구사항도 검증해야 합니다." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w44-3",
+   "text": "get started on",
+   "meaning": "~을 시작하다, ~에 착수하다",
+   "note": "on 뒤에는 명사나 동명사가 옵니다. start보다 구어적이고 \"본격적으로 손을 대다\"는 느낌이에요. 목적어 없이 \"Let's get started(시작합시다)\"도 회의 시작할 때 자주 씁니다.",
+   "answers": ["Great, how's it going so far?", "Let me know if you need help."],
+   "examples": [
+    { "text": "I need to get started on my taxes this weekend.", "tag": "일상", "ko": "이번 주말엔 세금 신고를 시작해야 해요." },
+    { "text": "Let's get started on dinner — everyone's hungry.", "tag": "일상", "ko": "저녁 준비 시작합시다 — 다들 배고파해요." },
+    { "text": "I got started on creating the test scenarios for the UCIe link.", "tag": "업무", "ko": "UCIe 링크용 테스트 시나리오 작성을 시작했어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w44-4",
+   "text": "used to + 동사원형",
+   "meaning": "(예전에는) ~하곤 했다",
+   "note": "지금은 하지 않는 과거의 습관이나 상태를 말해요. 부정은 \"didn't use to\", 질문은 \"Did you use to ~?\". 이미 배운 \"can't get used to ~ing(W39)\"와 헷갈리기 쉬워요 — \"be / get used to + ~ing\"는 \"~에 익숙하다 / 익숙해지다\"라는 다른 표현입니다.",
+   "answers": ["Why did you stop?", "Me too! I miss it."],
+   "examples": [
+    { "text": "I used to play the guitar in high school.", "tag": "일상", "ko": "고등학교 때 기타를 치곤 했어요." },
+    { "text": "There used to be a bakery on this corner.", "tag": "일상", "ko": "예전엔 이 모퉁이에 빵집이 있었어요." },
+    { "text": "We used to run the compliance tests manually before we automated them.", "tag": "업무", "ko": "자동화하기 전엔 컴플라이언스 테스트를 수동으로 돌리곤 했어요." }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w44-5",
+   "text": "when it comes to ~",
+   "meaning": "~에 관해서라면, ~에 있어서는",
+   "note": "to는 전치사라서 뒤에 명사나 동명사가 옵니다 — \"when it comes to cooking\". 이미 배운 \"be lost when it comes to(W41)\"가 이 틀을 쓴 표현이에요. 문장 앞에 두면 화제를 꺼내는 느낌이 납니다.",
+   "answers": ["Same here.", "Really? I didn't know that."],
+   "examples": [
+    { "text": "When it comes to coffee, I'm pretty picky.", "tag": "일상", "ko": "커피에 관해서라면 저는 꽤 까다로워요." },
+    { "text": "He's very patient when it comes to teaching kids.", "tag": "일상", "ko": "그는 아이들을 가르치는 데 있어서는 정말 인내심이 많아요." },
+    { "text": "When it comes to signal integrity, she's the go-to person on our team.", "tag": "업무", "ko": "신호 무결성에 관해서라면 우리 팀에선 그녀가 제일 먼저 찾는 사람이에요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w44-6",
+   "text": "I would say ~",
+   "meaning": "제 생각엔 ~인 것 같아요",
+   "note": "의견이나 추정치를 단정하지 않고 조심스럽게 말할 때 써요. 보통 줄여서 \"I'd say\". 숫자를 어림할 때 특히 자연스럽습니다 — \"I'd say about two hours.\"",
+   "answers": ["That sounds about right.", "Really? I'd say more than that."],
+   "examples": [
+    { "text": "I'd say it's about a ten-minute walk from here.", "tag": "일상", "ko": "여기서 걸어서 한 10분쯤 될 것 같아요." },
+    { "text": "I would say this is the best pizza in town.", "tag": "일상", "ko": "제 생각엔 여기가 동네에서 제일 맛있는 피자집이에요." },
+    { "text": "I'd say the root cause is most likely in the PHY, not the controller.", "tag": "업무", "ko": "제 생각엔 근본 원인이 컨트롤러가 아니라 PHY 쪽일 가능성이 커요." }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w44-7",
+   "text": "What's it like ~?",
+   "meaning": "~하는 건 어때요? (경험·느낌을 물을 때)",
+   "note": "여기서 like는 \"~ 같은\"이라는 전치사예요. 뒤에는 \"~ing\"나 \"to + 동사원형\"이 옵니다 — \"What's it like working with ~?\" / \"What's it like to live in ~?\" 대답할 때는 like 없이 \"It's great\"처럼 말합니다.",
+   "answers": ["It's pretty great, actually.", "It's hard at first, but you get used to it."],
+   "examples": [
+    { "text": "What's it like living in Seoul?", "tag": "일상", "ko": "서울에 사는 건 어때요?" },
+    { "text": "What's it like to have twins?", "tag": "일상", "ko": "쌍둥이를 키우는 건 어때요?" },
+    { "text": "What's it like working with Claude Code?", "tag": "업무", "ko": "Claude Code랑 같이 일해 보니 어때요?" }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w44-8",
+   "text": "like a dream",
+   "meaning": "꿈만 같은 / 아주 순조롭게",
+   "note": "두 가지로 써요. ① 꿈만 같다 — \"It was like a dream.\" ② 기계·일이 아주 잘 돌아가다 — \"work like a dream\", \"run like a dream\". ②는 이미 배운 \"smooth sailing(W42)\"과 비슷한 상황에 씁니다.",
+   "answers": ["Glad it worked out!", "What a relief."],
+   "examples": [
+    { "text": "Our honeymoon in Hawaii was like a dream.", "tag": "일상", "ko": "하와이 신혼여행은 꿈만 같았어요." },
+    { "text": "My new car drives like a dream.", "tag": "일상", "ko": "새 차가 정말 부드럽게 잘 나가요." },
+    { "text": "After the firmware update, the link trained like a dream.", "tag": "업무", "ko": "펌웨어 업데이트 후에는 링크 트레이닝이 아주 순조롭게 됐어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w44-9",
+   "text": "just in time",
+   "meaning": "아슬아슬하게 제시간에, 딱 맞춰서",
+   "note": "늦기 직전에 겨우 맞췄다는 뜻이에요. 뒤에 \"for + 명사\"나 \"to + 동사원형\"을 붙입니다. \"on time\"은 예정대로 정시에, \"just in time\"은 아슬아슬하게. 이미 배운 \"just in case(혹시 모르니까, W37)\"와 헷갈리지 마세요.",
+   "answers": ["Phew, that was close!", "Good timing!"],
+   "examples": [
+    { "text": "We got to the station just in time to catch the last train.", "tag": "일상", "ko": "역에 아슬아슬하게 도착해서 막차를 탔어요." },
+    { "text": "You're just in time for dinner.", "tag": "일상", "ko": "딱 저녁 먹을 때 맞춰 왔네요." },
+    { "text": "The new boards arrived just in time for the compliance workshop.", "tag": "업무", "ko": "새 보드가 컴플라이언스 워크숍에 딱 맞춰 도착했어요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w44-10",
+   "text": "can't stop thinking about",
+   "meaning": "~이 자꾸 생각나다, 머릿속에서 떠나지 않다",
+   "note": "\"stop + ~ing\"는 \"~하는 걸 멈추다\"예요. \"stop to + 동사원형\"은 \"~하려고 멈추다\"라는 다른 뜻이니 주의하세요. 좋은 일에도 걱정거리에도 씁니다. 이미 배운 \"I've been thinking about(W35)\"과 이어서 써 보세요.",
+   "answers": ["It must have made a big impression.", "Try to take your mind off it."],
+   "examples": [
+    { "text": "I can't stop thinking about that movie we saw.", "tag": "일상", "ko": "우리가 본 그 영화가 자꾸 생각나요." },
+    { "text": "She can't stop thinking about the job interview.", "tag": "일상", "ko": "그녀는 면접 생각이 머릿속에서 떠나질 않아요." },
+    { "text": "I can't stop thinking about that intermittent CRC error — something doesn't add up.", "tag": "업무", "ko": "그 간헐적 CRC 에러가 자꾸 생각나요 — 뭔가 앞뒤가 안 맞아요." }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w44-11",
+   "text": "way too + 형용사 / 부사",
+   "meaning": "너무 지나치게 ~한",
+   "note": "too(지나치게)를 way로 한 번 더 강조한 구어 표현이에요. 이미 배운 \"way less(W42)\"의 way와 같습니다. too는 \"지나쳐서 문제\"라는 부정적인 뉘앙스라서, 좋은 의미로 강조할 때는 really나 so를 씁니다.",
+   "answers": ["Take a deep breath. You'll be fine.", "Yeah, that's a bit much."],
+   "examples": [
+    { "text": "I was way too nervous before my presentation.", "tag": "일상", "ko": "발표 전에 너무너무 긴장했어요." },
+    { "text": "This coffee is way too sweet.", "tag": "일상", "ko": "이 커피는 너무 달아요." },
+    { "text": "The full test takes way too long to run on every commit.", "tag": "업무", "ko": "전체 테스트는 커밋할 때마다 돌리기엔 너무 오래 걸려요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w44-12",
+   "text": "way too much",
+   "meaning": "너무 많이 / 너무 많은",
+   "note": "셀 수 없는 명사 앞(way too much time)이나 동사 뒤(I ate way too much)에 씁니다. 셀 수 있는 명사 앞에서는 \"way too many\" — way too many emails. 바로 앞의 \"way too + 형용사\"와 짝으로 외워 두세요.",
+   "answers": ["Same here. I need to cut down.", "How much is too much?"],
+   "examples": [
+    { "text": "I ate way too much at dinner.", "tag": "일상", "ko": "저녁을 너무 많이 먹었어요." },
+    { "text": "I spend way too much time on my phone.", "tag": "일상", "ko": "휴대폰 보는 데 시간을 너무 많이 써요." },
+    { "text": "We're logging way too much data — the trace buffer fills up in seconds.", "tag": "업무", "ko": "데이터를 너무 많이 로깅하고 있어요 — 트레이스 버퍼가 몇 초 만에 차요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w44-13",
+   "text": "make + 목적어 + feel + 형용사",
+   "meaning": "~을 ~하게 느끼게 하다",
+   "note": "사역동사 make 뒤에는 동사원형이 와요 — \"make me feel\"(O), \"make me to feel\"(X). 이미 배운 \"make + 목적어 + 형용사(W37)\"가 상태를 바꾼다면, feel을 넣으면 \"그런 기분이 들게 한다\"는 뜻이 됩니다.",
+   "answers": ["I'm glad it helped.", "That's so nice to hear."],
+   "examples": [
+    { "text": "Your message made me feel so much better.", "tag": "일상", "ko": "보내 준 메시지 덕분에 기분이 훨씬 나아졌어요." },
+    { "text": "The warm lighting makes the room feel cozy.", "tag": "일상", "ko": "따뜻한 조명 덕분에 방이 아늑하게 느껴져요." },
+    { "text": "Clear test logs make debugging feel a lot less painful.", "tag": "업무", "ko": "테스트 로그가 깔끔하면 디버깅이 훨씬 덜 괴롭게 느껴져요." }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w44-14",
+   "text": "make one's way to",
+   "meaning": "~로 가다, 향하다",
+   "note": "one's 자리에 소유격을 넣어요 — make my way to, made our way to. 사람들 사이를 헤치거나 천천히 이동하는 느낌이 있습니다. 진행형 \"I'm making my way to ~\"는 \"지금 가는 중이에요\". 이미 배운 \"head to(W41)\"와 비슷하게 씁니다.",
+   "answers": ["See you soon!", "Take your time."],
+   "examples": [
+    { "text": "We made our way to the front of the crowd.", "tag": "일상", "ko": "우리는 사람들 사이를 헤치고 앞쪽으로 갔어요." },
+    { "text": "I'm making my way to the station now.", "tag": "일상", "ko": "지금 역으로 가는 중이에요." },
+    { "text": "After the meeting, I made my way to the lab to check the overnight run.", "tag": "업무", "ko": "회의 끝나고 밤새 돌린 결과를 확인하러 랩으로 갔어요." }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w44-15",
+   "text": "get to + 장소",
+   "meaning": "~에 도착하다",
+   "note": "arrive at보다 구어적이에요. home, here, there 앞에서는 to를 쓰지 않습니다 — \"get home\". 길을 물을 때 \"How do I get to ~?\". \"get to + 동사원형\"은 \"~할 기회가 생기다\"라는 다른 뜻이에요.",
+   "answers": ["Text me when you get there.", "How long will it take to get there?"],
+   "examples": [
+    { "text": "What time did you get to the airport?", "tag": "일상", "ko": "공항에 몇 시에 도착했어요?" },
+    { "text": "Text me when you get home.", "tag": "일상", "ko": "집에 도착하면 문자 줘요." },
+    { "text": "I'll get to the lab around nine to start the bring-up.", "tag": "업무", "ko": "브링업 시작하려고 9시쯤 랩에 도착할 거예요." }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w44-16",
+   "text": "at the end vs in the end",
+   "meaning": "(~의) 끝에 / 결국, 마침내",
+   "note": "at the end는 시간이나 장소의 \"끝 지점\"이에요 — at the end of the day, at the end of the hallway. 보통 뒤에 \"of + 명사\"가 붙습니다. in the end는 \"결국, 마침내\"라는 결론이에요 — 이미 배운 \"Everything turned out fine in the end(W35 turn out)\"처럼요. 업무 예문에 둘이 같이 들어 있습니다.",
+   "answers": ["So how did it turn out in the end?", "Let's talk about it at the end of the meeting."],
+   "examples": [
+    { "text": "The restroom is at the end of the hallway.", "tag": "일상", "ko": "[at the end] 화장실은 복도 끝에 있어요." },
+    { "text": "We argued for hours, but in the end we agreed.", "tag": "일상", "ko": "[in the end] 몇 시간을 다퉜지만, 결국엔 합의했어요." },
+    { "text": "At the end of the sweep, the eye was still closed, so in the end we had to change the channel.", "tag": "업무", "ko": "[둘 다] 스윕이 끝났을 때도 아이가 닫혀 있어서, 결국 채널을 바꿔야 했어요." }
+   ],
+   "day": 5
+  }
+ ]
+}
