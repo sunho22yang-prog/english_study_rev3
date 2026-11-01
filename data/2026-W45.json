@@ -1,0 +1,707 @@
+{
+ "week": "2026-W45",
+ "studiedOn": "2026-10-31~11-01",
+ "label": "11/2~11/6 복습",
+ "phrases": [
+  {
+   "id": "w45-1",
+   "text": "watch / look after",
+   "meaning": "(잠깐) 봐 주다 / 돌보다",
+   "note": "watch는 잠깐 지켜봐 주는 거예요 — 가방이나 아이를 잠깐 봐 줄 때. look after는 좀 더 책임지고 돌보는 느낌이에요 — 아이, 반려동물, 집을 맡아 돌볼 때. take care of와 비슷합니다.",
+   "answers": [
+    "Sure, take your time.",
+    "No problem. How long will you be gone?"
+   ],
+   "examples": [
+    {
+     "text": "Can you watch my bag for a minute? I need to use the restroom.",
+     "tag": "일상",
+     "ko": "잠깐 제 가방 좀 봐 줄래요? 화장실 좀 다녀올게요."
+    },
+    {
+     "text": "My parents looked after our dog while we were on vacation.",
+     "tag": "일상",
+     "ko": "휴가 가 있는 동안 부모님이 강아지를 돌봐 주셨어요."
+    },
+    {
+     "text": "Can you watch the stress test while I'm in the meeting? Let me know if the link drops.",
+     "tag": "업무",
+     "ko": "회의 들어가 있는 동안 스트레스 테스트 좀 봐 줄래요? 링크 끊기면 알려 주세요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w45-2",
+   "text": "Would you mind ~ing?",
+   "meaning": "~해 주실 수 있을까요? (정중한 부탁)",
+   "note": "mind는 \"꺼리다\"라서, \"네, 해 드릴게요\"라고 할 때는 \"No, not at all.\" / \"Of course not.\"이라고 답해요. \"Yes\"라고 하면 \"꺼려요(싫어요)\"라는 뜻이 되니 주의. 뒤에는 꼭 ~ing가 옵니다.",
+   "answers": [
+    "Not at all.",
+    "No, go ahead."
+   ],
+   "examples": [
+    {
+     "text": "Would you mind closing the window? It's a bit cold.",
+     "tag": "일상",
+     "ko": "창문 좀 닫아 주실래요? 좀 춥네요."
+    },
+    {
+     "text": "Would you mind taking a picture of us?",
+     "tag": "일상",
+     "ko": "저희 사진 좀 찍어 주실 수 있을까요?"
+    },
+    {
+     "text": "Would you mind sharing the LTSSM log from the failing run?",
+     "tag": "업무",
+     "ko": "실패한 런의 LTSSM 로그 좀 공유해 주실 수 있을까요?"
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w45-3",
+   "text": "Are you sure it's okay to + 동사원형?",
+   "meaning": "~해도 정말 괜찮아요?",
+   "note": "상대가 괜찮다고 했을 때 한 번 더 확인하는 말이에요. it's okay 대신 it's fine도 써요.",
+   "answers": [
+    "Yes, don't worry about it.",
+    "Of course. Go ahead."
+   ],
+   "examples": [
+    {
+     "text": "Are you sure it's okay to park here?",
+     "tag": "일상",
+     "ko": "여기 주차해도 정말 괜찮아요?"
+    },
+    {
+     "text": "Are you sure it's okay to bring my kids to the party?",
+     "tag": "일상",
+     "ko": "파티에 아이들 데려가도 정말 괜찮아요?"
+    },
+    {
+     "text": "Are you sure it's okay to reboot the test server now? Someone might be running a regression.",
+     "tag": "업무",
+     "ko": "지금 테스트 서버 재부팅해도 정말 괜찮아요? 누가 리그레션 돌리고 있을 수도 있어요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w45-4",
+   "text": "ask someone for advice",
+   "meaning": "~에게 조언을 구하다",
+   "note": "ask someone for + 명사 = ~에게 ~를 요청하다 (ask for help, ask for a favor). 이미 배운 ask someone a question(W36, 질문하다), ask someone to + 동사원형(W43, ~해 달라고 하다)과 같이 묶어 두세요.",
+   "answers": [
+    "Sure, what's going on?",
+    "I'm not an expert, but I'll try."
+   ],
+   "examples": [
+    {
+     "text": "I asked a friend for advice before I quit my job.",
+     "tag": "일상",
+     "ko": "회사 그만두기 전에 친구한테 조언을 구했어요."
+    },
+    {
+     "text": "Don't be afraid to ask people for advice.",
+     "tag": "일상",
+     "ko": "사람들한테 조언을 구하는 걸 두려워하지 마세요."
+    },
+    {
+     "text": "I asked a senior engineer for advice on debugging the USB enumeration failure.",
+     "tag": "업무",
+     "ko": "USB enumeration 실패 디버깅에 대해 선배 엔지니어에게 조언을 구했어요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w45-5",
+   "text": "beg someone to + 동사원형",
+   "meaning": "~에게 ~해 달라고 애원하다 (사정하다, 조르다)",
+   "note": "ask보다 훨씬 간절한 부탁이에요. \"I'm begging you.\"(제발 부탁이야)도 자주 씁니다.",
+   "answers": [
+    "Okay, okay, I'll do it.",
+    "You don't have to beg."
+   ],
+   "examples": [
+    {
+     "text": "My son begged me to buy him a new game.",
+     "tag": "일상",
+     "ko": "아들이 새 게임 사 달라고 졸랐어요."
+    },
+    {
+     "text": "She begged him to stay, but he left anyway.",
+     "tag": "일상",
+     "ko": "그녀가 가지 말라고 애원했지만 그는 결국 떠났어요."
+    },
+    {
+     "text": "The program manager begged us to finish the PCIe Gen5 validation before the customer review.",
+     "tag": "업무",
+     "ko": "PM이 고객 리뷰 전에 PCIe Gen5 검증을 끝내 달라고 사정했어요."
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w45-6",
+   "text": "manage to + 동사원형",
+   "meaning": "(어렵게) 간신히 ~해내다",
+   "note": "힘들었지만 결국 해냈다는 느낌이에요. \"didn't manage to\"는 \"(애썼지만) 결국 못 했다\".",
+   "answers": [
+    "Good for you!",
+    "How did you do it?"
+   ],
+   "examples": [
+    {
+     "text": "I managed to catch the last train.",
+     "tag": "일상",
+     "ko": "막차를 간신히 탔어요."
+    },
+    {
+     "text": "We managed to finish the hike before it got dark.",
+     "tag": "일상",
+     "ko": "어두워지기 전에 겨우 등산을 끝냈어요."
+    },
+    {
+     "text": "We finally managed to reproduce the link-down issue after two days.",
+     "tag": "업무",
+     "ko": "이틀 만에 드디어 링크다운 이슈를 재현해 냈어요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w45-7",
+   "text": "had been considering ~ing",
+   "meaning": "(그때까지) ~할까 계속 고민하고 있었다",
+   "note": "과거완료진행형이에요 — 과거 어느 시점까지 한동안 계속 고민해 왔다는 뜻. consider 뒤에는 ~ing. 이미 배운 be thinking of ~ing(W38)와 뜻이 비슷합니다.",
+   "answers": [
+    "So what made you decide?",
+    "What changed your mind?"
+   ],
+   "examples": [
+    {
+     "text": "I had been considering moving to Seoul for a while, and I finally did it last month.",
+     "tag": "일상",
+     "ko": "한동안 서울로 이사할까 고민하다가 지난달에 드디어 했어요."
+    },
+    {
+     "text": "She had been considering quitting her job before she got the promotion.",
+     "tag": "일상",
+     "ko": "승진하기 전까지 그녀는 회사를 그만둘까 고민하고 있었어요."
+    },
+    {
+     "text": "We had been considering switching to a new BERT before the old one broke down.",
+     "tag": "업무",
+     "ko": "기존 BERT가 고장 나기 전부터 새 장비로 바꿀까 고민하고 있었어요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w45-8",
+   "text": "be about to + 동사원형",
+   "meaning": "막 ~하려던 참이다 / 곧 ~하려 한다",
+   "note": "아주 가까운 미래예요. \"I was about to call you!\"(막 전화하려던 참이었어!)는 그대로 외워 두면 좋아요.",
+   "answers": [
+    "Perfect timing!",
+    "Oh, sorry. Go ahead."
+   ],
+   "examples": [
+    {
+     "text": "I was about to call you!",
+     "tag": "일상",
+     "ko": "막 전화하려던 참이었어!"
+    },
+    {
+     "text": "Hurry up, the movie is about to start.",
+     "tag": "일상",
+     "ko": "서둘러, 영화 곧 시작해."
+    },
+    {
+     "text": "I was about to start the overnight regression when the server went down.",
+     "tag": "업무",
+     "ko": "밤샘 리그레션을 막 돌리려는데 서버가 다운됐어요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w45-9",
+   "text": "than I originally thought",
+   "meaning": "처음 생각했던 것보다",
+   "note": "비교급 + than I originally thought. originally를 빼고 \"than I thought\", 또는 \"than I expected\"도 같은 뜻이에요.",
+   "answers": [
+    "It always is, but you're doing great.",
+    "Really? In what way?"
+   ],
+   "examples": [
+    {
+     "text": "Learning English is more difficult than I originally thought.",
+     "tag": "일상",
+     "ko": "영어 배우는 게 처음 생각했던 것보다 어려워요."
+    },
+    {
+     "text": "The trip cost a lot more than I originally thought.",
+     "tag": "일상",
+     "ko": "여행비가 처음 생각했던 것보다 훨씬 많이 들었어요."
+    },
+    {
+     "text": "The root cause turned out to be simpler than I originally thought.",
+     "tag": "업무",
+     "ko": "근본 원인이 처음 생각했던 것보다 단순한 걸로 밝혀졌어요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w45-10",
+   "text": "for good",
+   "meaning": "영원히, 완전히 (다시 돌아오지 않게)",
+   "note": "forever와 비슷하지만 \"이제 끝, 다시는 안 돌아간다\"는 결정의 느낌이 있어요 — leave for good, quit for good.",
+   "answers": [
+    "Are you serious?",
+    "Good for you. I'm proud of you."
+   ],
+   "examples": [
+    {
+     "text": "He left the country for good.",
+     "tag": "일상",
+     "ko": "그는 그 나라를 영영 떠났어요."
+    },
+    {
+     "text": "I quit smoking for good.",
+     "tag": "일상",
+     "ko": "담배를 완전히 끊었어요."
+    },
+    {
+     "text": "This firmware patch should fix the enumeration bug for good.",
+     "tag": "업무",
+     "ko": "이 펌웨어 패치로 enumeration 버그가 완전히 해결될 거예요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w45-11",
+   "text": "might have p.p.",
+   "meaning": "~했을지도 모른다",
+   "note": "과거 일에 대한 약한 추측이에요. 확신이 크면 must have p.p.(같은 날 카드). 형태가 같은 should have p.p.(W42, ~했어야 했는데)와 구분하세요.",
+   "answers": [
+    "Let's go back and check.",
+    "You might be right."
+   ],
+   "examples": [
+    {
+     "text": "I might have left my phone at the restaurant.",
+     "tag": "일상",
+     "ko": "식당에 폰을 두고 왔을지도 몰라요."
+    },
+    {
+     "text": "She might have missed the bus.",
+     "tag": "일상",
+     "ko": "그녀가 버스를 놓쳤을지도 몰라요."
+    },
+    {
+     "text": "The PHY might have lost lock during the speed change.",
+     "tag": "업무",
+     "ko": "속도 변경 중에 PHY가 lock을 잃었을지도 몰라요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w45-12",
+   "text": "must have p.p.",
+   "meaning": "~했음이 틀림없다 / ~했나 보다",
+   "note": "과거 일에 대한 강한 추측(거의 확신)이에요. might have p.p.보다 확신이 큽니다.",
+   "answers": [
+    "Yeah, that must be it.",
+    "I think so too."
+   ],
+   "examples": [
+    {
+     "text": "You must have been tired after the long flight.",
+     "tag": "일상",
+     "ko": "장거리 비행 후라 피곤하셨겠어요."
+    },
+    {
+     "text": "The road is wet. It must have rained last night.",
+     "tag": "일상",
+     "ko": "길이 젖었네. 어젯밤에 비가 왔나 봐."
+    },
+    {
+     "text": "Someone must have changed the equalization settings. The results are completely different from yesterday.",
+     "tag": "업무",
+     "ko": "누가 EQ 설정을 바꾼 게 틀림없어요. 결과가 어제랑 완전히 달라요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w45-13",
+   "text": "That can't be it. / That must be it. / Could it be ~?",
+   "meaning": "그건 아닐 거야 / 바로 그거야 / 혹시 ~일까?",
+   "note": "원인을 추측할 때 쓰는 세트예요. 확신 정도: can't be(아닐 거야) < might be(W37 \"That might be it.\") < must be(그게 틀림없어). Could it be ~?는 조심스럽게 묻는 추측입니다.",
+   "answers": [
+    "Let's try it and see.",
+    "I don't think so. We already checked that."
+   ],
+   "examples": [
+    {
+     "text": "The TV won't turn on. Oh, it's unplugged. That must be it.",
+     "tag": "일상",
+     "ko": "TV가 안 켜지네. 아, 플러그가 빠져 있어. 그거였구나."
+    },
+    {
+     "text": "She hasn't texted back. Could it be that she's just busy?",
+     "tag": "일상",
+     "ko": "답장이 없네. 혹시 그냥 바빠서 그런 걸까?"
+    },
+    {
+     "text": "Could it be a clock issue? That can't be it. We already swapped the reference clock.",
+     "tag": "업무",
+     "ko": "혹시 클럭 문제일까요? 그건 아닐 거예요. 레퍼런스 클럭은 이미 바꿔 봤어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w45-14",
+   "text": "creep in",
+   "meaning": "(안 좋은 것이) 슬며시 끼어들다, 스며들다",
+   "note": "실수, 의심, 오류, 걱정 같은 게 모르는 새 들어올 때 써요 — mistakes creep in, doubt creeps in.",
+   "answers": [
+    "That happens to everyone.",
+    "Take a break and try again."
+   ],
+   "examples": [
+    {
+     "text": "When I'm tired, mistakes start to creep in.",
+     "tag": "일상",
+     "ko": "피곤하면 실수가 슬금슬금 생기기 시작해요."
+    },
+    {
+     "text": "The night before the exam, doubt started to creep in.",
+     "tag": "일상",
+     "ko": "시험 전날 밤, 의심이 슬며시 들기 시작했어요."
+    },
+    {
+     "text": "Noise can creep in through the power supply and close the eye.",
+     "tag": "업무",
+     "ko": "노이즈가 전원을 타고 들어와서 아이를 닫을 수 있어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w45-15",
+   "text": "what ~ is doing to ~",
+   "meaning": "~가 ~에 무슨 영향을 주고 있는지",
+   "note": "what A is doing to B = A가 B에게 무슨 짓을(어떤 영향을) 하고 있는지. 안 좋은 영향을 걱정하는 뉘앙스가 많아요.",
+   "answers": [
+    "Let's revert it and compare.",
+    "I'll run it both ways and check."
+   ],
+   "examples": [
+    {
+     "text": "Do you know what sugar is doing to your teeth?",
+     "tag": "일상",
+     "ko": "설탕이 이에 무슨 짓을 하는지 알아요?"
+    },
+    {
+     "text": "I don't think he realizes what stress is doing to his health.",
+     "tag": "일상",
+     "ko": "스트레스가 건강을 어떻게 망치고 있는지 그는 모르는 것 같아요."
+    },
+    {
+     "text": "We don't know what changing this register value is doing to this issue.",
+     "tag": "업무",
+     "ko": "이 레지스터 값을 바꾼 게 이 이슈에 어떤 영향을 주고 있는지 모르겠어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w45-16",
+   "text": "I didn't mean to + 동사원형",
+   "meaning": "~하려던 건 아니었어요 (일부러 그런 거 아니에요)",
+   "note": "사과할 때 많이 써요. mean to = ~할 의도이다. \"I didn't mean it.\"은 \"진심 아니었어\". 같은 날 be meant for와 함께 보세요.",
+   "answers": [
+    "It's okay. I know you didn't.",
+    "Don't worry about it."
+   ],
+   "examples": [
+    {
+     "text": "Sorry, I didn't mean to hurt your feelings.",
+     "tag": "일상",
+     "ko": "미안해요, 기분 상하게 하려던 건 아니었어요."
+    },
+    {
+     "text": "I didn't mean to wake you up.",
+     "tag": "일상",
+     "ko": "깨우려던 건 아니었어요."
+    },
+    {
+     "text": "Sorry, I didn't mean to overwrite your test config. I'll restore it right away.",
+     "tag": "업무",
+     "ko": "죄송해요, 테스트 설정을 덮어쓰려던 건 아니었어요. 바로 복구할게요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w45-17",
+   "text": "be meant for",
+   "meaning": "~를 위한 것이다 / ~에게 가려던 것이다",
+   "note": "mean의 수동형이에요. be meant to + 동사원형은 \"~하기로 되어 있다\". 주신 예문의 \"sent a coworker it\"은 \"sent it to a coworker\"로 고쳤어요 — it 같은 대명사는 send A to B 형태로 씁니다.",
+   "answers": [
+    "Oops. Did you tell them?",
+    "Just ask them to delete it."
+   ],
+   "examples": [
+    {
+     "text": "This gift is meant for you.",
+     "tag": "일상",
+     "ko": "이 선물은 당신 거예요."
+    },
+    {
+     "text": "They were meant for each other.",
+     "tag": "일상",
+     "ko": "그 둘은 천생연분이었어요."
+    },
+    {
+     "text": "The email was meant for my manager, but I sent it to a coworker by mistake.",
+     "tag": "업무",
+     "ko": "그 메일은 매니저에게 보내려던 건데, 실수로 동료에게 보냈어요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w45-18",
+   "text": "convince vs persuade",
+   "meaning": "(생각을) 납득시키다 / (행동하도록) 설득하다",
+   "note": "convince는 믿게, 납득하게 만드는 거예요 — convince someone that ~ / of ~. persuade는 행동하게 만드는 거예요 — persuade someone to + 동사원형. 실제 회화에선 convince someone to ~도 많이 씁니다. 업무 예문에 둘이 같이 들어 있어요.",
+   "answers": [
+    "How did you convince him?",
+    "What did you say to persuade her?"
+   ],
+   "examples": [
+    {
+     "text": "He convinced me that the movie was worth watching.",
+     "tag": "일상",
+     "ko": "[convince] 그가 그 영화 볼 만하다고 날 납득시켰어요."
+    },
+    {
+     "text": "I persuaded my friend to come hiking with me.",
+     "tag": "일상",
+     "ko": "[persuade] 친구를 설득해서 같이 등산 가게 했어요."
+    },
+    {
+     "text": "The data convinced us that the problem was in the retimer, so we persuaded the vendor to send a new sample.",
+     "tag": "업무",
+     "ko": "[둘 다] 데이터를 보고 문제가 리타이머에 있다고 확신했고, 그래서 벤더를 설득해 새 샘플을 보내게 했어요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w45-19",
+   "text": "Why don't you + 동사원형?",
+   "meaning": "~해 보는 게 어때요?",
+   "note": "제안할 때 써요. W38 \"Why don't you give it a try?\"를 일반 패턴으로 넓힌 거예요. \"Why don't we ~?\"는 \"우리 ~하자\". 같은 날 You've got nothing to lose와 이어서 쓰기 좋아요.",
+   "answers": [
+    "That's a good idea.",
+    "Maybe I will."
+   ],
+   "examples": [
+    {
+     "text": "Why don't you take a day off? You look exhausted.",
+     "tag": "일상",
+     "ko": "하루 쉬는 게 어때요? 많이 지쳐 보여요."
+    },
+    {
+     "text": "Why don't you call her and ask?",
+     "tag": "일상",
+     "ko": "그녀한테 전화해서 물어보는 게 어때?"
+    },
+    {
+     "text": "Why don't you lower the link speed to Gen3 and see if it trains?",
+     "tag": "업무",
+     "ko": "링크 속도를 Gen3로 낮춰서 트레이닝이 되는지 보는 게 어때요?"
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w45-20",
+   "text": "You've got nothing to lose.",
+   "meaning": "밑져야 본전이야 / 잃을 게 없잖아",
+   "note": "망설이는 사람에게 \"그냥 해 봐\"라고 할 때 써요. You have nothing to lose.도 같은 뜻이에요.",
+   "answers": [
+    "You're right. I'll give it a shot.",
+    "I guess so."
+   ],
+   "examples": [
+    {
+     "text": "Just apply for the job. You've got nothing to lose.",
+     "tag": "일상",
+     "ko": "그냥 지원해 봐. 밑져야 본전이잖아."
+    },
+    {
+     "text": "Ask her out. You've got nothing to lose.",
+     "tag": "일상",
+     "ko": "데이트 신청해 봐. 잃을 게 없잖아."
+    },
+    {
+     "text": "Try the new EQ preset on the failing lane. You've got nothing to lose.",
+     "tag": "업무",
+     "ko": "실패하는 레인에 새 EQ 프리셋 적용해 봐요. 밑져야 본전이잖아요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w45-21",
+   "text": "go for",
+   "meaning": "~로 하다(고르다) / 도전하다",
+   "note": "메뉴나 선택지에서 원하는 걸 고를 때 \"I'll go for ~\". \"Go for it!\"은 \"해 봐!\". 이미 배운 go with(W36, ~로 하다)와 비슷해요.",
+   "answers": [
+    "Good choice.",
+    "Go for it!"
+   ],
+   "examples": [
+    {
+     "text": "I think I'll go for the pasta.",
+     "tag": "일상",
+     "ko": "저는 파스타로 할게요."
+    },
+    {
+     "text": "If you really want that job, go for it.",
+     "tag": "일상",
+     "ko": "그 일 정말 원하면 도전해 봐."
+    },
+    {
+     "text": "We decided to go for the faster test plan, even though it covers fewer corner cases.",
+     "tag": "업무",
+     "ko": "코너 케이스는 덜 커버하지만 더 빠른 테스트 플랜으로 가기로 했어요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w45-22",
+   "text": "a bit too much",
+   "meaning": "좀 과한, 좀 지나친",
+   "note": "W44 way too much(너무 지나치게)보다 부드러운 표현이에요. \"That's a bit too much for me.\"",
+   "answers": [
+    "Yeah, maybe you're right.",
+    "Let's tone it down a little."
+   ],
+   "examples": [
+    {
+     "text": "I think I ate a bit too much.",
+     "tag": "일상",
+     "ko": "좀 과식한 것 같아요."
+    },
+    {
+     "text": "This dress is a bit too much for a casual dinner.",
+     "tag": "일상",
+     "ko": "편한 저녁 자리에 이 드레스는 좀 과해요."
+    },
+    {
+     "text": "Running every compliance test on every build is a bit too much. Let's do it once a week.",
+     "tag": "업무",
+     "ko": "매 빌드마다 컴플라이언스 테스트를 전부 돌리는 건 좀 과해요. 일주일에 한 번 하죠."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w45-23",
+   "text": "(had) better be ~",
+   "meaning": "정말 ~해야 한다 (안 그러면 곤란해)",
+   "note": "had better + 동사원형 = \"~하는 게 좋을 거야\"(경고 뉘앙스). 회화에선 'd better로 줄이거나 had를 빼고 \"It better be good.\"처럼 써요. 윗사람에게 쓰면 무례하게 들릴 수 있어요.",
+   "answers": [
+    "Don't worry, it will be.",
+    "I promise."
+   ],
+   "examples": [
+    {
+     "text": "You'd better be home by ten.",
+     "tag": "일상",
+     "ko": "10시까지는 꼭 집에 와."
+    },
+    {
+     "text": "This restaurant better be good. We waited an hour.",
+     "tag": "일상",
+     "ko": "이 식당 진짜 맛있어야 해. 한 시간 기다렸잖아."
+    },
+    {
+     "text": "This fix had better be stable. We're shipping samples to the customer next week.",
+     "tag": "업무",
+     "ko": "이번 수정은 정말 안정적이어야 해요. 다음 주에 고객에게 샘플 보내거든요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w45-24",
+   "text": "be worried about",
+   "meaning": "~가 걱정되다",
+   "note": "be worried about + 명사 / ~ing. 절이 오면 \"I'm worried that ~\".",
+   "answers": [
+    "Don't worry. It'll be fine.",
+    "What are you worried about?"
+   ],
+   "examples": [
+    {
+     "text": "I'm worried about my dad's health.",
+     "tag": "일상",
+     "ko": "아빠 건강이 걱정돼요."
+    },
+    {
+     "text": "She's worried about being late.",
+     "tag": "일상",
+     "ko": "그녀는 늦을까 봐 걱정하고 있어요."
+    },
+    {
+     "text": "I'm worried about the jitter margin at Gen5 speeds.",
+     "tag": "업무",
+     "ko": "Gen5 속도에서 지터 마진이 걱정돼요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w45-25",
+   "text": "What is someone like?",
+   "meaning": "~는 어떤 사람이에요?",
+   "note": "성격이나 특징을 묻는 말이에요. 외모는 \"What does he look like?\". W44 What's it like ~?(~하는 건 어때요?)와 같은 like입니다.",
+   "answers": [
+    "She's really nice and easygoing.",
+    "He's quiet, but very smart."
+   ],
+   "examples": [
+    {
+     "text": "What's your new roommate like?",
+     "tag": "일상",
+     "ko": "새 룸메이트는 어떤 사람이에요?"
+    },
+    {
+     "text": "What was your grandmother like?",
+     "tag": "일상",
+     "ko": "할머니는 어떤 분이셨어요?"
+    },
+    {
+     "text": "What's the new team lead like? Is he easy to work with?",
+     "tag": "업무",
+     "ko": "새 팀장님은 어떤 분이에요? 같이 일하기 편해요?"
+    }
+   ],
+   "day": 5
+  }
+ ]
+}
