@@ -1,0 +1,288 @@
+{
+ "week": "2026-W46",
+ "studiedOn": "2026-11-07~08",
+ "label": "11/9~11/13 복습",
+ "recallPerDay": 3,
+ "phrases": [
+  {
+   "id": "w46-1",
+   "text": "Do you know if ~?",
+   "meaning": "~인지 아세요?",
+   "note": "간접의문문이에요. if 뒤에는 평서문 어순(주어 + 동사)이 와요 — \"Is he coming?\" → \"Do you know if he's coming?\". if 대신 whether도 씁니다. 같은 주 Could you tell me if ~?, I was wondering if ~와 함께 보세요.",
+   "answers": [
+    "I'm not sure. Let me check.",
+    "Yes, she said she's coming."
+   ],
+   "examples": [
+    {
+     "text": "Do you know if the store is open on Sundays?",
+     "tag": "일상",
+     "ko": "그 가게 일요일에 문 여는지 아세요?"
+    },
+    {
+     "text": "Do you know if she's coming to the party?",
+     "tag": "일상",
+     "ko": "그녀가 파티에 오는지 알아?"
+    },
+    {
+     "text": "Do you know if the new retimer samples have arrived?",
+     "tag": "업무",
+     "ko": "새 리타이머 샘플 도착했는지 아세요?"
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w46-2",
+   "text": "Could you tell me if ~?",
+   "meaning": "혹시 ~인지 알려 주실 수 있나요? (정보 요청)",
+   "note": "Do you know if ~?보다 정중하게 정보를 요청할 때 써요. if 뒤는 역시 평서문 어순. if 자리에 what / when / where를 넣어 \"Could you tell me where ~?\"처럼도 씁니다.",
+   "answers": [
+    "Sure, let me look it up.",
+    "Yes, it does."
+   ],
+   "examples": [
+    {
+     "text": "Could you tell me if there's a pharmacy near here?",
+     "tag": "일상",
+     "ko": "혹시 이 근처에 약국이 있는지 알려 주실 수 있나요?"
+    },
+    {
+     "text": "Could you tell me if this bus goes downtown?",
+     "tag": "일상",
+     "ko": "이 버스가 시내로 가는지 알려 주실 수 있나요?"
+    },
+    {
+     "text": "Could you tell me if the Ethernet compliance fixture is available this week?",
+     "tag": "업무",
+     "ko": "이번 주에 이더넷 컴플라이언스 픽스처를 쓸 수 있는지 알려 주실 수 있나요?"
+    }
+   ],
+   "day": 1
+  },
+  {
+   "id": "w46-3",
+   "text": "I'm wondering if ~ / I was wondering if ~",
+   "meaning": "~인지 궁금해요 / 혹시 ~해 주실 수 있을까 해서요",
+   "note": "궁금하거나 고민될 때 \"I'm wondering if ~\". 과거진행형 \"I was wondering if you could ~\"는 아주 정중한 부탁의 정석이에요 — 형태는 과거지만 지금 부탁하는 말입니다. W45 Would you mind ~ing?와 같이 기억하세요.",
+   "answers": [
+    "Sure, what do you need?",
+    "Of course. When do you need it?"
+   ],
+   "examples": [
+    {
+     "text": "I'm wondering if I should take the job offer.",
+     "tag": "일상",
+     "ko": "그 제안을 받아들여야 할지 고민이에요."
+    },
+    {
+     "text": "I was wondering if you're free this Saturday.",
+     "tag": "일상",
+     "ko": "혹시 이번 토요일에 시간 되나 해서요."
+    },
+    {
+     "text": "I was wondering if you could review my PCIe test plan before Friday.",
+     "tag": "업무",
+     "ko": "혹시 금요일 전에 제 PCIe 테스트 플랜 좀 검토해 주실 수 있을까 해서요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w46-4",
+   "text": "be supposed to + 동사원형",
+   "meaning": "~하기로 되어 있다 / ~해야 한다",
+   "note": "약속, 규칙, 예정을 말해요. 과거형 \"was supposed to\"는 \"~하기로 했는데 (못 했다)\"는 뉘앙스가 많아요. 부정 \"You're not supposed to ~\"는 \"~하면 안 돼요\". W45 be meant to와 비슷합니다.",
+   "answers": [
+    "Do you think we'll make it?",
+    "Is that still the plan?"
+   ],
+   "examples": [
+    {
+     "text": "I'm supposed to meet her at seven.",
+     "tag": "일상",
+     "ko": "7시에 그녀를 만나기로 했어요."
+    },
+    {
+     "text": "You're not supposed to park here.",
+     "tag": "일상",
+     "ko": "여기 주차하면 안 돼요."
+    },
+    {
+     "text": "We're supposed to finish the validation by the end of December.",
+     "tag": "업무",
+     "ko": "12월 말까지 검증을 끝내기로 되어 있어요."
+    }
+   ],
+   "day": 2
+  },
+  {
+   "id": "w46-5",
+   "text": "be included in",
+   "meaning": "~에 포함되다",
+   "note": "수동태예요. 반대는 be excluded from. 호텔이나 식당에서 \"Is ~ included?\"(~ 포함인가요?)로 자주 씁니다.",
+   "answers": [
+    "Great, that saves us some money.",
+    "Really? I didn't know that."
+   ],
+   "examples": [
+    {
+     "text": "Is breakfast included in the price?",
+     "tag": "일상",
+     "ko": "가격에 조식이 포함돼 있나요?"
+    },
+    {
+     "text": "Tax is included in the total.",
+     "tag": "일상",
+     "ko": "총액에 세금이 포함돼 있어요."
+    },
+    {
+     "text": "Are the USB4 tunneling tests included in this release's test plan?",
+     "tag": "업무",
+     "ko": "이번 릴리스 테스트 플랜에 USB4 터널링 테스트가 포함돼 있나요?"
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w46-6",
+   "text": "decide to + 동사원형",
+   "meaning": "~하기로 결정하다",
+   "note": "decide 뒤에는 to + 동사원형이에요 (decide ~ing는 틀림). 하지 않기로 했다면 decide not to. W45 had been considering ~ing(고민) → decide to(결정)로 이어 보세요.",
+   "answers": [
+    "What made you decide that?",
+    "Good for you!"
+   ],
+   "examples": [
+    {
+     "text": "I decided to learn how to swim this year.",
+     "tag": "일상",
+     "ko": "올해 수영을 배우기로 했어요."
+    },
+    {
+     "text": "We decided not to go out because of the rain.",
+     "tag": "일상",
+     "ko": "비 때문에 나가지 않기로 했어요."
+    },
+    {
+     "text": "We decided to rerun the jitter tolerance test with a new cable.",
+     "tag": "업무",
+     "ko": "새 케이블로 지터 톨러런스 테스트를 다시 돌리기로 했어요."
+    }
+   ],
+   "day": 3
+  },
+  {
+   "id": "w46-7",
+   "text": "I can't wait to + 동사원형",
+   "meaning": "빨리 ~하고 싶다",
+   "note": "들떠서 기다릴 때 써요. 명사가 오면 \"I can't wait for + 명사\". W39 look forward to ~ing보다 더 캐주얼하고 들뜬 느낌이에요.",
+   "answers": [
+    "Me neither!",
+    "It's going to be great."
+   ],
+   "examples": [
+    {
+     "text": "I can't wait to see you!",
+     "tag": "일상",
+     "ko": "빨리 보고 싶어!"
+    },
+    {
+     "text": "I can't wait to try that new restaurant.",
+     "tag": "일상",
+     "ko": "그 새 식당 빨리 가 보고 싶어."
+    },
+    {
+     "text": "I can't wait to see the eye diagram with the new equalization settings.",
+     "tag": "업무",
+     "ko": "새 EQ 설정으로 아이 다이어그램이 어떻게 나올지 빨리 보고 싶어요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w46-8",
+   "text": "That's the last time + 주어 + 동사",
+   "meaning": "다시는 ~하지 않을 거야",
+   "note": "안 좋은 경험을 한 뒤 \"이번이 마지막이야\"라고 다짐할 때 써요. 동사는 보통 현재형 — \"That's the last time I eat there.\" W35 When was the last time...?(마지막으로 ~한 게 언제야?)와 같이 기억하세요.",
+   "answers": [
+    "Was it that bad?",
+    "I don't blame you."
+   ],
+   "examples": [
+    {
+     "text": "The food was terrible. That's the last time I eat there.",
+     "tag": "일상",
+     "ko": "음식이 최악이었어. 다시는 거기서 안 먹어."
+    },
+    {
+     "text": "He never paid me back. That's the last time I lend him money.",
+     "tag": "일상",
+     "ko": "돈을 안 갚았어. 다시는 걔한테 돈 안 빌려줘."
+    },
+    {
+     "text": "The script deleted all my logs. That's the last time I run it without a backup.",
+     "tag": "업무",
+     "ko": "스크립트가 로그를 다 지웠어요. 다시는 백업 없이 안 돌려요."
+    }
+   ],
+   "day": 4
+  },
+  {
+   "id": "w46-9",
+   "text": "look nothing like",
+   "meaning": "~와 전혀 닮지 않다, 전혀 다르게 생기다",
+   "note": "look like(~처럼 보이다, 닮다)를 강하게 부정한 거예요. 반대는 look just like(똑같이 생기다).",
+   "answers": [
+    "Really? I can't believe you're related.",
+    "Yeah, I get that a lot."
+   ],
+   "examples": [
+    {
+     "text": "My brother and I look nothing like each other.",
+     "tag": "일상",
+     "ko": "형이랑 저는 전혀 안 닮았어요."
+    },
+    {
+     "text": "The hotel looked nothing like the photos online.",
+     "tag": "일상",
+     "ko": "호텔이 온라인 사진이랑 전혀 달랐어요."
+    },
+    {
+     "text": "The waveform on the scope looks nothing like the simulation result.",
+     "tag": "업무",
+     "ko": "스코프 파형이 시뮬레이션 결과랑 전혀 달라요."
+    }
+   ],
+   "day": 5
+  },
+  {
+   "id": "w46-10",
+   "text": "can't stand + 명사 / ~ing",
+   "meaning": "~을 참을 수 없다, 정말 싫다",
+   "note": "stand = 견디다. hate만큼 강한 싫음이에요. 뒤에는 명사나 ~ing가 와요. 일상 예문에 W38 wait in line을 넣었어요.",
+   "answers": [
+    "Me neither. It drives me crazy.",
+    "Really? I don't mind it."
+   ],
+   "examples": [
+    {
+     "text": "I can't stand waiting in line.",
+     "tag": "일상",
+     "ko": "줄 서서 기다리는 건 정말 못 참겠어요."
+    },
+    {
+     "text": "She can't stand the cold.",
+     "tag": "일상",
+     "ko": "그녀는 추위를 정말 못 견뎌요."
+    },
+    {
+     "text": "I can't stand flaky test results. Let's find out why it only fails sometimes.",
+     "tag": "업무",
+     "ko": "들쭉날쭉한 테스트 결과는 정말 못 참겠어요. 왜 가끔만 실패하는지 알아내죠."
+    }
+   ],
+   "day": 5
+  }
+ ]
+}
