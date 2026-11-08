@@ -629,7 +629,14 @@
     });
     if (!pool.length) return [];
     var seed = (currentWeek ? currentWeek.week : "") + "-d" + day;
-    return seededShuffle(pool, seed).slice(0, RECALL_PER_DAY);
+    return seededShuffle(pool, seed).slice(0, recallCount());
+  }
+  // 주차 데이터에 recallPerDay가 있으면 그 수만큼, 없으면 기본값(RECALL_PER_DAY)
+  function recallCount(){
+    if (!currentWeek) return RECALL_PER_DAY;
+    var pack = weeksData[currentWeek.week] || {};
+    var n = Number(pack.recallPerDay || currentWeek.recallPerDay);
+    return n > 0 ? n : RECALL_PER_DAY;
   }
   // 오늘(=선택한 요일) 카드 묶음
   // 금요일에 배정된 표현이 없는 (예전 4일 배분) 주차만 금요일을 총복습으로 씁니다.
